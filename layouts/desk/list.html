@@ -1,0 +1,21 @@
+{{ define "header" }}
+  <div class="hero">
+    {{ partial "site-navigation.html" . }}
+    <h1 class="cover-title">{{ .Title | default .Site.Title }}</h1>
+  </div>
+{{ end }}
+
+{{ define "main" }}
+  <section class="mw8 center ph2">
+    <div class="flex flex-wrap -mx2 items-stretch">
+      {{ range sort .Pages ".Params.order" "asc" }}
+        <div class="w-100 w-50-m w-third-l pa2 flex">
+          <a href="{{ .RelPermalink }}" class="db pa4 bg-white br2 ba b--moon-gray dim flex-grow-1 flex flex-column">
+            <h2 class="f4 near-black mv0">{{ .Title }}</h2>
+            <p class="f6 gray mv2 flex-grow-1">{{ truncate 120 (plainify .Summary) }}</p>
+          </a>
+        </div>
+      {{ end }}
+    </div>
+  </section>
+{{ end }}

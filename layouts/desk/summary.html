@@ -1,0 +1,14 @@
+<div class="relative w-100 mb4 nested-copy-line-height flex flex-column h-100">
+  <div class="bg-white mb3 pa4 gray overflow-hidden flex-grow-1">
+    {{ with .CurrentSection.Title }}<span class="f6 db">{{ . }}</span>{{ end }}
+    <h1 class="f3 near-black mt0">
+      <a href="{{ .RelPermalink }}" class="link black dim">{{ .Title }}</a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      {{ .Summary }}
+    </div>
+  </div>
+  <a href="{{ .RelPermalink }}" class="button button--secondary wiggle">
+    Read&nbsp;More
+  </a>  
+</div> 

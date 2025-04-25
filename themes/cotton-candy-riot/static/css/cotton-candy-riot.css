@@ -1,0 +1,73 @@
+/*
+  Cotton Candy Riot + Neon Midnight color system
+  Drop this file in:  static/css/cotton-candy-riot.css  (or assets/css if you pipe it through Hugo Pipes)
+  Then add    <link rel="stylesheet" href="/css/cotton-candy-riot.css">   inside the <head> of layouts/_default/baseof.html before your existing theme stylesheet so these vars cascade.
+*/
+
+/* --------- 1. Light mode (default) --------- */
+:root {
+    /* Brand pops */
+    --clr-fuchsia:  #F928A0; /* Electric Fuchsia */
+    --clr-pink:     #FF73B5; /* Bubblegum */
+    --clr-peach:    #FFB3AB; /* Peachy Blush */
+    --clr-blue:     #A5F0FF; /* Icy Mirror */
+  
+    /* Neutrals */
+    --clr-black:    #0D0D0D; /* Jet */
+    --clr-graphite: #302F2F; /* Leather Gloss */
+    --clr-white:    #FFFFFF;
+  
+    /* Typography */
+    --text-base: var(--clr-black);
+    --text-muted: #444;
+    --bg-primary: var(--clr-white);
+    --bg-secondary: var(--clr-peach);
+  }
+  
+  /* --------- 2. Dark mode – auto via prefers‑color‑scheme --------- */
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --clr-fuchsia:  #F928A0; /* same pop */
+      --clr-pink:     #C65C8E; /* Muted Bubblegum */
+      --clr-peach:    #B2747A; /* Coral Smoke */
+      --clr-blue:     #72D6E6; /* Cool Reflection */
+  
+      --clr-black:    #101010; /* Ink */
+      --clr-graphite: #1E1E1E; /* Charcoal Leather */
+      --clr-white:    #E8E8E8; /* Ash */
+  
+      --text-base: var(--clr-white);
+      --text-muted: #B3B3B3;
+      --bg-primary: var(--clr-black);
+      --bg-secondary: #161616;
+    }
+  }
+  
+  /* --------- 3. Utility classes --------- */
+  
+  /* Background helpers */
+  .bg-fuchsia{background:var(--clr-fuchsia);}  .bg-pink{background:var(--clr-pink);}  .bg-peach{background:var(--clr-peach);}  .bg-blue{background:var(--clr-blue);}  .bg-primary{background:var(--bg-primary);}  .bg-secondary{background:var(--bg-secondary);}
+  
+  /* Text helpers */
+  .txt-fuchsia{color:var(--clr-fuchsia);}  .txt-blue{color:var(--clr-blue);}  .txt-muted{color:var(--text-muted);}  .txt-base{color:var(--text-base);}
+  
+  /* Buttons */
+  .button{padding:0.75rem 1.25rem;border:2px solid transparent;border-radius:4px;font-weight:600;transition:background .2s ease,color .2s ease,border .2s ease;cursor:pointer;}
+  .button--primary{background:var(--clr-fuchsia);color:var(--clr-white);}  .button--primary:hover{background:var(--clr-blue);color:var(--clr-black);}  .button--secondary{background:transparent;border-color:var(--clr-fuchsia);color:var(--clr-fuchsia);}  .button--secondary:hover{background:var(--clr-fuchsia);color:var(--clr-white);}  
+  
+  /* Links */
+  a{color:var(--clr-fuchsia);text-decoration:none;}
+  a:hover{color:var(--clr-blue);}  
+  
+  /* Card / panels */
+  .card{background:var(--bg-secondary);padding:1.5rem;border-radius:8px;box-shadow:0 2px 6px rgb(0 0 0 / 10%);} 
+  
+  /* Header stripe (if you want that thin neon line) */
+  .header--stripe::after{content:"";display:block;height:4px;width:100%;background:linear-gradient(90deg,var(--clr-fuchsia),var(--clr-blue));}
+  
+  /* --------- 4. Fun extras --------- */
+  @keyframes wiggle {
+    0%,100%{transform:rotate(-2deg);}50%{transform:rotate(2deg);}
+  }
+  .wiggle:hover{animation:wiggle .3s ease-in-out infinite;}
+  

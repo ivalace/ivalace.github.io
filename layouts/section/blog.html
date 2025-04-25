@@ -1,0 +1,16 @@
+{{/*  Header block replaces the black bar with the hero  */}}
+{{ define "header" }}
+  <div class="hero">
+    {{ partial "site-navigation.html" . }}
+    <h1 class="cover-title">Inkwell Archives</h1>
+  </div>
+{{ end }}
+
+{{/*  Main block stays just for the card list  */}}
+{{ define "main" }}
+  <section class="mw8 center ph3">
+    {{ range .Pages.ByDate.Reverse }}
+      {{ .Render "summary" }}
+    {{ end }}
+  </section>
+{{ end }} 

@@ -1,0 +1,88 @@
+/* =========================================
+   Global overrides
+========================================= */
+
+:root {
+  --primary-color: #5B8FB9;
+  --secondary-color: #FFAD60;
+  --background-color: #FFFFFF;
+  --text-color: #333333;
+  --heading-font: "Playfair Display", serif;
+  --body-font: "Nunito", sans-serif;
+}
+
+/* Base */
+body,
+body.ma0 {                    /* .ma0 is added by Ananke */
+  background: var(--background-color);
+  color: var(--text-color);
+  font-family: var(--body-font) !important;
+  font-size: 18px;
+  line-height: 1.6;
+  margin: 0;
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--heading-font) !important;
+  color: var(--primary-color);
+  margin-top: 0;
+}
+
+/* Links */
+a       { color: var(--primary-color); text-decoration:none; }
+a:hover { color: var(--secondary-color); }
+
+/* Navigation (inherits body font but bolder) */
+nav a {
+  font-weight: 700;
+}
+
+/* Card / tile look */
+.card, .tile, .pa4 {
+  background:#f8f8f8;
+  padding:2rem;
+  border-radius:6px;
+  box-shadow:0 4px 6px rgba(0,0,0,.06);
+}
+
+.hero {
+  background: linear-gradient(135deg, var(--primary-color) 0%, #4a77a3 100%);
+  color: #fff;
+  text-align: center;
+  padding: 6rem 0 4rem;
+}
+
+.hero h1 { font-size: 4rem; margin: 0; color: #fff; }
+
+/* bookmark stripe on cards */
+.card, .tile, .pa4 { position: relative; overflow: hidden; }
+.pa4 {
+  border-left: 6px solid var(--primary-color);
+}
+
+/* buttons */
+.btn, button, a.btn {
+  background: var(--primary-color); color:#fff !important;
+  padding:.5rem 1.25rem; border:none; border-radius:3px;
+  font-family:var(--body-font); font-weight:600;
+  transition:background .2s ease; display:inline-block;
+}
+.btn:hover { background: var(--secondary-color); }
+
+/* animated underline links */
+a { position: relative; display: inline-block; }   /* make sure width fits text */
+
+a::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: -3px;            /* a tiny gap below text */
+  width: 0;
+  height: 2px;
+  background: var(--secondary-color);
+  transition: width .25s ease;
+}
+
+a:hover::after { width: 100%; }
+

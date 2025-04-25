@@ -1,0 +1,9 @@
+name           = "Cotton Candy Riot"
+description    = "Neon-punk two-tone theme inspired by pink-to-peach hair"
+version        = "0.1.0"
+license        = "MIT"
+homepage       = "https://github.com/yourname/cotton-candy-riot"
+min_version    = "0.120.0"
+
+[author]
+  name  = "Ivy – Narrative Gremlin"

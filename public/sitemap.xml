@@ -8,14 +8,32 @@
     <loc>http://localhost:1313/posts/</loc>
     <lastmod>2025-02-14T20:56:16-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/test-post/</loc>
-    <lastmod>2025-02-14T20:56:16-08:00</lastmod>
+    <loc>http://localhost:1313/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/posts/my-first-post/</loc>
-    <lastmod>2025-02-14T20:50:56-08:00</lastmod>
+    <loc>http://localhost:1313/blog/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
+    <loc>http://localhost:1313/desk/characters/characters/</loc>
+  </url><url>
+    <loc>http://localhost:1313/contact/</loc>
+  </url><url>
+    <loc>http://localhost:1313/desk/narrative-design/example-flow/</loc>
+  </url><url>
+    <loc>http://localhost:1313/blog/game-of-thrones/</loc>
+  </url><url>
+    <loc>http://localhost:1313/desk/items/items-and-vegetation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/desk/</loc>
+  </url><url>
+    <loc>http://localhost:1313/desk/locations/locations/</loc>
+  </url><url>
+    <loc>http://localhost:1313/desk/publications/publications/</loc>
+  </url><url>
+    <loc>http://localhost:1313/desk/races-creatures-classes/races-creatures-classes/</loc>
+  </url><url>
     <loc>http://localhost:1313/tags/</loc>
+  </url><url>
+    <loc>http://localhost:1313/type_index/</loc>
   </url>
 </urlset>

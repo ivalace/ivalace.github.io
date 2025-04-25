@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+<head>
+  <meta charset="utf-8">
+  <title>{{ block "title" . }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
+
+  <!-- Palette -->
+  <link rel="stylesheet" href="{{ "css/cotton-candy-riot.css" | relURL }}">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/tachyons@4.12.0/css/tachyons.min.css">
+
+  <!-- Basic responsive meta & typography -->
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <style>
+    :root { --font-sans: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-serif; }
+    body   { font-family: var(--font-sans); margin:0; background:var(--bg-primary); color:var(--text-base); line-height:1.6; }
+    main   { max-width: 48rem; margin:0 auto; padding:2rem 1rem; }
+    header { padding:1rem 0; }
+    nav a  { margin-right:1rem; font-weight:600; }
+  </style>
+  
+  {{ block "head" . }}{{ end }}
+</head>
+
+<body>
+  <!-- site header -->
+  <header class="header--stripe txt-base">
+    <nav style="max-width:48rem;margin:0 auto;padding:0 1rem;">
+      <a href="/" class="txt-fuchsia">{{ .Site.Title }}</a>
+      {{ range .Site.Menus.main }}
+        <a href="{{ .URL | relURL }}">{{ .Name }}</a>
+      {{ end }}
+    </nav>
+  </header>
+
+  <!-- main content -->
+  <main>{{ block "main" . }}{{ end }}</main>
+
+  <!-- footer -->
+  <footer style="text-align:center;padding:2rem 0;" class="txt-muted">
+    © {{ now.Format "2006" }} {{ .Site.Title }} — Built with Hugo & ❤︎
+  </footer>
+
+  {{ block "footer-scripts" . }}{{ end }}
+</body>
+</html>
