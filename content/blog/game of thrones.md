@@ -1,6 +1,6 @@
 +++
 title = "Game of Thrones: A Retrospective"
-order = 1
+order = 2
 +++
 
 It has been six years since Game of Thrones ended.

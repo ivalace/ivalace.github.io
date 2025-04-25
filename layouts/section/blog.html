@@ -9,8 +9,12 @@
 {{/*  Main block stays just for the card list  */}}
 {{ define "main" }}
   <section class="mw8 center ph3">
-    {{ range .Pages.ByDate.Reverse }}
-      {{ .Render "summary" }}
-    {{ end }}
+    <div class="flex flex-wrap -mx2 items-stretch">
+      {{ range .Pages.ByDate.Reverse }}
+        <div class="w-100 w-50-m w-third-l pa2 flex">
+          {{ .Render "summary" }}
+        </div>
+      {{ end }}
+    </div>
   </section>
 {{ end }} 

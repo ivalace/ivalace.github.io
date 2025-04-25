@@ -1,0 +1,13 @@
+{{ define "main" }}
+  {{ if eq .RelPermalink "/contact/" }}
+    <section class="hero-card">
+      <h1>{{ .Title }}</h1>
+      {{ .Content }}
+    </section>
+  {{ else }}
+    <article>
+      <h1 class="txt-fuchsia">{{ .Title }}</h1>
+      {{ .Content }}
+    </article>
+  {{ end }}
+{{ end }} 
