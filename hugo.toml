@@ -6,19 +6,19 @@ theme = 'cotton-candy-riot'
   [[menu.main]]
     identifier = "about"
     name = "About Me"
-    url = "/about"
+    url = "/about/"
     weight = 1
 
   [[menu.main]]
     identifier = "desk"
     name = "Ivy's Desk"
-    url = "/desk"
+    url = "/desk/"
     weight = 2
 
   [[menu.main]]
     identifier = "contact"
     name = "Contact"
-    url = "/contact"
+    url = "/contact/"
     weight = 3
 
   [[menu.main]]

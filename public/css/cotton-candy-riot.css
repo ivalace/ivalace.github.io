@@ -1,73 +1,65 @@
-/*
-  Cotton Candy Riot + Neon Midnight color system
-  Drop this file in:  static/css/cotton-candy-riot.css  (or assets/css if you pipe it through Hugo Pipes)
-  Then add    <link rel="stylesheet" href="/css/cotton-candy-riot.css">   inside the <head> of layouts/_default/baseof.html before your existing theme stylesheet so these vars cascade.
-*/
+/*  Cotton Candy Riot + Neon Midnight v1.1 (tweaks)  */
+/*  Drop in static/css/cotton-candy-riot.css  */
 
-/* --------- 1. Light mode (default) --------- */
+/* ---------- 1. LIGHT MODE ---------- */
 :root {
-    /* Brand pops */
-    --clr-fuchsia:  #F928A0; /* Electric Fuchsia */
-    --clr-pink:     #FF73B5; /* Bubblegum */
-    --clr-peach:    #FFB3AB; /* Peachy Blush */
-    --clr-blue:     #A5F0FF; /* Icy Mirror */
-  
-    /* Neutrals */
-    --clr-black:    #0D0D0D; /* Jet */
-    --clr-graphite: #302F2F; /* Leather Gloss */
-    --clr-white:    #FFFFFF;
-  
-    /* Typography */
-    --text-base: var(--clr-black);
-    --text-muted: #444;
-    --bg-primary: var(--clr-white);
-    --bg-secondary: var(--clr-peach);
+  --clr-fuchsia:#F928A0;
+  --clr-pink:#FF73B5;
+  --clr-peach:#FFB3AB;
+  --clr-blue:#A5F0FF;
+  --clr-black:#0D0D0D;
+  --clr-graphite:#302F2F;
+  --clr-white:#FFFFFF;
+  --text-base:var(--clr-black);
+  --text-muted:#444;
+  --bg-primary:var(--clr-white);
+  --bg-secondary:var(--clr-peach);
+}
+
+/* ---------- 2. DARK MODE ---------- */
+@media (prefers-color-scheme: dark){
+  :root{
+    --clr-fuchsia:#F928A0;
+    --clr-pink:#C65C8E;
+    --clr-peach:#B2747A;
+    --clr-blue:#72D6E6;
+    --clr-black:#101010;
+    --clr-graphite:#1E1E1E;
+    --clr-white:#E8E8E8;
+    --text-base:var(--clr-white);
+    --text-muted:#B3B3B3;
+    --bg-primary:var(--clr-black);
+    --bg-secondary:#161616;
   }
-  
-  /* --------- 2. Dark mode – auto via prefers‑color‑scheme --------- */
-  @media (prefers-color-scheme: dark) {
-    :root {
-      --clr-fuchsia:  #F928A0; /* same pop */
-      --clr-pink:     #C65C8E; /* Muted Bubblegum */
-      --clr-peach:    #B2747A; /* Coral Smoke */
-      --clr-blue:     #72D6E6; /* Cool Reflection */
-  
-      --clr-black:    #101010; /* Ink */
-      --clr-graphite: #1E1E1E; /* Charcoal Leather */
-      --clr-white:    #E8E8E8; /* Ash */
-  
-      --text-base: var(--clr-white);
-      --text-muted: #B3B3B3;
-      --bg-primary: var(--clr-black);
-      --bg-secondary: #161616;
-    }
-  }
-  
-  /* --------- 3. Utility classes --------- */
-  
-  /* Background helpers */
-  .bg-fuchsia{background:var(--clr-fuchsia);}  .bg-pink{background:var(--clr-pink);}  .bg-peach{background:var(--clr-peach);}  .bg-blue{background:var(--clr-blue);}  .bg-primary{background:var(--bg-primary);}  .bg-secondary{background:var(--bg-secondary);}
-  
-  /* Text helpers */
-  .txt-fuchsia{color:var(--clr-fuchsia);}  .txt-blue{color:var(--clr-blue);}  .txt-muted{color:var(--text-muted);}  .txt-base{color:var(--text-base);}
-  
-  /* Buttons */
-  .button{padding:0.75rem 1.25rem;border:2px solid transparent;border-radius:4px;font-weight:600;transition:background .2s ease,color .2s ease,border .2s ease;cursor:pointer;}
-  .button--primary{background:var(--clr-fuchsia);color:var(--clr-white);}  .button--primary:hover{background:var(--clr-blue);color:var(--clr-black);}  .button--secondary{background:transparent;border-color:var(--clr-fuchsia);color:var(--clr-fuchsia);}  .button--secondary:hover{background:var(--clr-fuchsia);color:var(--clr-white);}  
-  
-  /* Links */
-  a{color:var(--clr-fuchsia);text-decoration:none;}
-  a:hover{color:var(--clr-blue);}  
-  
-  /* Card / panels */
-  .card{background:var(--bg-secondary);padding:1.5rem;border-radius:8px;box-shadow:0 2px 6px rgb(0 0 0 / 10%);} 
-  
-  /* Header stripe (if you want that thin neon line) */
-  .header--stripe::after{content:"";display:block;height:4px;width:100%;background:linear-gradient(90deg,var(--clr-fuchsia),var(--clr-blue));}
-  
-  /* --------- 4. Fun extras --------- */
-  @keyframes wiggle {
-    0%,100%{transform:rotate(-2deg);}50%{transform:rotate(2deg);}
-  }
-  .wiggle:hover{animation:wiggle .3s ease-in-out infinite;}
-  
+}
+
+/* ---------- 3. GLOBAL LAYOUT ---------- */
+body{margin:0;overflow-x:hidden;background:var(--bg-primary);color:var(--text-base);}/*less whitespace*/
+main{padding:1.5rem 1rem;max-width:48rem;margin:0 auto;}
+
+/* ---------- 4. HEADER STRIPE ---------- */
+.header--stripe::after{content:"";display:block;height:8px;width:100%;background:linear-gradient(90deg,var(--clr-fuchsia),var(--clr-blue));}
+
+/* ---------- 5. NAVIGATION ---------- */
+nav a{color:var(--clr-fuchsia);text-decoration:none;transition:color .2s ease;border-bottom:2px solid transparent;padding:.25rem .25rem;}
+nav a:hover{color:var(--clr-blue);border-bottom-color:var(--clr-blue);}/*hover*/
+nav a.active,nav a[aria-current="page"]{color:var(--clr-blue) !important;border-bottom-color:var(--clr-blue) !important;}/*stay blue on current page*/
+
+/* ---------- 6. HERO CARD ---------- */
+.hero-card{background:linear-gradient(135deg,rgba(255,179,171,.9),rgba(255,115,181,.9));padding:2.5rem;border-radius:12px;box-shadow:0 8px 20px rgb(0 0 0/10%);text-align:center;max-width:60ch;margin:3rem auto 2rem;}
+.hero-card h1{margin-top:0;font-size:clamp(2rem,4vw,3rem);color:var(--clr-fuchsia);} 
+.hero-card p{font-size:1.125rem;margin:1rem 0 2rem;}
+
+/* ---------- 7. UTILITIES ---------- */
+.bg-fuchsia{background:var(--clr-fuchsia);} .bg-pink{background:var(--clr-pink);} .bg-peach{background:var(--clr-peach);} .bg-blue{background:var(--clr-blue);} .bg-primary{background:var(--bg-primary);} .bg-secondary{background:var(--bg-secondary);} 
+
+.txt-fuchsia{color:var(--clr-fuchsia);} .txt-blue{color:var(--clr-blue);} .txt-muted{color:var(--text-muted);} .txt-base{color:var(--text-base);} 
+
+.button{padding:.75rem 1.5rem;border:2px solid transparent;border-radius:6px;font-weight:600;transition:background .2s,color .2s,border .2s;cursor:pointer;font-size:.9rem;}
+.button--primary{background:var(--clr-fuchsia);color:var(--clr-white);} .button--primary:hover{background:var(--clr-blue);color:var(--clr-black);} 
+.button--secondary{background:transparent;border-color:var(--clr-fuchsia);color:var(--clr-fuchsia);} .button--secondary:hover{background:var(--clr-fuchsia);color:var(--clr-white);} 
+
+.card{background:var(--bg-secondary);padding:1.25rem;border-radius:10px;box-shadow:0 3px 8px rgb(0 0 0/8%);} 
+
+@keyframes wiggle{0%,100%{transform:rotate(-2deg);}50%{transform:rotate(2deg);} }
+.wiggle:hover{animation:wiggle .3s ease-in-out infinite;}

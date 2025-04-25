@@ -24,10 +24,21 @@
 <body>
   <!-- site header -->
   <header class="header--stripe txt-base">
-    <nav style="max-width:48rem;margin:0 auto;padding:0 1rem;">
-      <a href="/" class="txt-fuchsia">{{ .Site.Title }}</a>
+    <nav style='max-width:48rem;margin:0 auto;padding:0 1rem;'>
+      {{ $current := .RelPermalink }}
+
+      <a href='/'
+         class='txt-fuchsia{{ if eq "/" $current }} active{{ end }}'
+         {{ if eq "/" $current }}aria-current='page'{{ end }}>
+        {{ .Site.Title }}
+      </a>
+
       {{ range .Site.Menus.main }}
-        <a href="{{ .URL | relURL }}">{{ .Name }}</a>
+      {{ $entryURL := .URL | relURL }}
+      <a href='{{ $entryURL }}'
+         {{ if eq $entryURL $current }}class='active' aria-current='page'{{ end }}>
+        {{ .Name }}
+      </a>
       {{ end }}
     </nav>
   </header>
