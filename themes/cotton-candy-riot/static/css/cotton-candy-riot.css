@@ -35,7 +35,7 @@
 
 /* ---------- 3. GLOBAL LAYOUT ---------- */
 body{margin:0;overflow-x:hidden;background:var(--bg-primary);color:var(--text-base);}/*less whitespace*/
-main{padding:1.5rem 1rem;max-width:48rem;margin:0 auto;}
+main{padding:1.5rem 1rem;max-width:90%;margin:0 auto;}
 
 /* ---------- 4. HEADER STRIPE ---------- */
 .header--stripe::after{content:"";display:block;height:8px;width:100%;background:linear-gradient(90deg,var(--clr-fuchsia),var(--clr-blue));}
