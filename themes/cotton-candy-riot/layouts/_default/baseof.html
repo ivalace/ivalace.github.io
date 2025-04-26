@@ -37,7 +37,16 @@
   </header>
 
   <!-- main content -->
-  <main>{{ block "main" . }}{{ end }}</main>
+  <main class="flex">
+    <div class="flex-auto">
+      {{ block "main" . }}{{ end }}
+    </div>
+    {{ if not (or .IsHome (eq .RelPermalink "/contact/")) }}
+    <aside class="w-30 pl4">
+      {{ partial "sidebar.html" . }}
+    </aside>
+    {{ end }}
+  </main>
 
   <!-- footer -->
   <footer style="text-align:center;padding:2rem 0;" class="txt-muted">
@@ -46,4 +55,4 @@
 
   {{ block "footer-scripts" . }}{{ end }}
 </body>
-</html>
+</html> 

@@ -1,11 +1,21 @@
+{{ define "header" }}
+  <div class="hero">
+    {{ partial "site-navigation.html" . }}
+    <h1 class="cover-title">{{ .Title | default .Site.Title }}</h1>
+  </div>
+{{ end }}
+
 {{ define "main" }}
-  <h1 class="txt-fuchsia">{{ .Title }}</h1>
-  <ul>
-    {{ range .Pages }}
-      <li>
-        <a href="{{ .RelPermalink }}" class="txt-blue">{{ .Title }}</a>
-        <small class="txt-muted">— {{ .Date.Format "2006-01-02" }}</small>
-      </li>
-    {{ end }}
-  </ul>
+  <section class="mw8 center ph3">
+    <div class="flex flex-wrap -mx2 items-stretch">
+      {{ range sort .Pages ".Params.order" "asc" }}
+        <div class="w-100 w-50-m w-third-l pa2 flex">
+          <a href="{{ .RelPermalink }}" class="db hero-card ma0 flex-grow-1 flex flex-column no-underline tl">
+            <h2 class="f4 txt-fuchsia">{{ .Title }}</h2>
+            <p class="f6 flex-grow-1 txt-base serif">{{ truncate 120 (plainify .Summary) }}</p>
+          </a>
+        </div>
+      {{ end }}
+    </div>
+  </section>
 {{ end }}
