@@ -1,6 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = "Ivy's Lore Hoard"
+title = "Ivy's Lair"
 theme = 'cotton-candy-riot'
 [menu]
   [[menu.main]]
@@ -10,9 +10,9 @@ theme = 'cotton-candy-riot'
     weight = 1
 
   [[menu.main]]
-    identifier = "desk"
-    name = "Ivy's Desk"
-    url = "/desk/"
+    identifier = "hoard"
+    name = "Lore Hoard"
+    url = "/hoard/"
     weight = 2
 
   [[menu.main]]
