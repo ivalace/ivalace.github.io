@@ -1,6 +1,13 @@
+{{ define "header" }}
+  <div class="hero">
+    {{ partial "site-navigation.html" . }}
+    <h1 class="cover-title">{{ .Title }}</h1>
+  </div>
+{{ end }}
+
 {{ define "main" }}
   <section class="hero-card">
     <h1>{{ .Title }}</h1>
     {{ .Content }}
   </section>
-{{ end }} 
+{{ end }}
