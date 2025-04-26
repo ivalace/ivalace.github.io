@@ -1,21 +1,25 @@
 +++
-title = "About Me"
+
+title = "About The Gremlin"
+
 +++
+
+  
 
 Hello there!
 
-...This is where you'd respond in your head 'General Kenobi'. Yes? No? Ah, alright. I won't hold that against you. As you've probably already figured out, my name is Ivy. I live in the Seattle area with my family and have been working as a writer for about five years now. I have written and self published two books under a pen name, worked on homebrew D&D campaigns with my friends, and just generally been tinkering in about fifty other projects. Seriously, you should see my desk.
+This is where you'd respond in your head "General Kenobi". Yes? No? Ah, alright. I won't hold that against you. As you've probably already figured out, my name is Ivy. I am a narrative gremlin living in the Seattle area with my family. I've been weaving stories and forging worlds for about five years now. I have written novels, created supplements for tired Game Masters, covered concerts for magazines, and just generally been tinkering in about fifty other projects. Seriously, you should see my hoard.
 
-When I'm not off playing creator in some world or another, I enjoy consuming the works of other creators. This includes reading comics and books, playing board games with my family, playing rpgs, and watching old sci-fi shows. I feel a little obligated to say my favorites, so I'll just list them right here real quick. Keep in mind, favorites are fickle things so if you ever stop me in the street and ask I'm likely to say something completely different.
+When I'm not off swimming in the chaos of creation, I enjoy consuming the works of other creators. This includes reading comics and books, learning about TTRPGs, screaming at my TV while playing video games, and watching old sci-fi shows. I feel a little obligated to say my favorites, so I'll just list them right here real quick (but fair warning: favorites are fickle things so if you ever stop me in the street, I'm likely to say something completely different).
+
 - Favorite TV Show: Stargate SG1. This one doesn't change. I cannot be swayed. Yes, I have seen Game of Thrones and The Good Place. I repeat, I cannot be swayed. Farscape is my *very* close runner up.
+
 - Favorite Video Game: Currently? Stardew Valley. In ten minutes? Baldur's Gate 3. Yesterday? Crawl. A week ago? Ghost of Tsushima. When my friends are free? Streets of Rogue. See where I'm going with this?
-- Favorite Movie: On average? Probably a toss up between Star Wars: Revenge of the Sith and Lord of the Rings: The Two Towers. I have also been known to say both The Matrix and all of the John Wick movies.
-- Favorite Book: It was Mistborn by Brandon Sanderson, but after reading his Stormlight Archive books, it's now Words of Radiance. I'm currently reading every other book he's ever written so this is subject to change. I'd say the Witcher series by Andrzej Sapkowski is another favorite of mine, with the exception of The Lady of the Lake. Talk to me about that book at your own peril. I really loved reading through the World of Warcraft Chronicle books written by Robert Brooks, Matt Burns and Chris Metzen. They are some of my most prized possessions. Also, an obligatory shout out to the Hobbit, which was the first non-YA book I ever read.
 
-I first decided to pursue a career in writing after publishing my first book in 2017. I started off doing freelance event journalism for a few magazines in my hometown, and then when my family moved to Seattle I intended to switch from journalism to find a job doing narrative design in the game industry. I returned to my one true love, writing fiction, and spent the next six months working on building my portfolio. I wrote my first homebrew one shot, began working on my first large scale homebrew campaign, play testing sessions with my friends, working on script writing for comics, and started work on my second book. Finally, at the start of 2020 I felt ready to start applying to companies.
+- Favorite Movie: On average? Probably a toss-up between Star Wars: Revenge of the Sith and Lord of the Rings: The Two Towers. I have also been known to say both The Matrix and all of the John Wick movies.
 
-I don't think I need to remind anyone what happened at the start of 2020. My kid, who had been in daycare during this time and was set to start kindergarten that fall, was ripped out of the school system. All of my work took a back seat when I decided to homeschool instead of him starting kindergarten on zoom. When things became slightly safer I took up a volunteer position organizing events for other homeschool kids, including a weekly game day where I ran a homebrew Magical Kitties campaign for a few kids.
+- Favorite Book: The Stormlight Archive series as a whole by Brandon Sanderson. If I had to pick one, it would probably be Words of Radiance. I also loved reading through the World of Warcraft Chronicle books written by Robert Brooks, Matt Burns and Chris Metzen.
 
-Now, my kid is happily back in the classroom where he belongs and I am back to working on my passion. I published my second book during the pandemic and am working on a sequel. I'm writing supplemental content for TTRPGs. I'm scripting and storyboarding a comic. But most importantly, I'm looking forward to working on a game. That is the end goal for me, the reason I do all of these things. More than anything, I'd like to help bring your game to life with my writing. I want to help you make a game that gives your players the exact feelings you want them to have. You want them to laugh? Lets make ridiculous items and witty dialog! Want them to cry? Easy, let me write a story that'll have them sobbing. Whatever kind of game you want to make, I can help.
+After publishing my first book in 2017, I splashed around in the freelance pool as a concert and event journalist. When my family relocated to Seattle, I decided to embrace my love of creative chaos. After a brief detour into homeschooling during The Great Zoompocalypse, I am back to full-time gremlin operations—tinkering, weaving, and bringing obsessive gremlin energy to your project! Life is messy and chaotic, and you know what they say about art imitating life. Let me help give your work the loving, messy writing it deserves.
 
-I hope you got to know me a little better with this! If you're interested in hiring me, you can contact me at [ivy@lee.social](mailto:ivy@lee.social). If you haven't yet checked out my work, you can find links to everything in my [desk](/desk).
+I hope you enjoyed your glimpse into the madness! If you're interested in hiring me, you can contact me at [ivy@lee.social](mailto:ivy@lee.social). If you haven't yet checked out my work, you can find links to everything in my [hoard](/hoard).

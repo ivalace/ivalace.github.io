@@ -58,7 +58,7 @@ nav a.active,nav a[aria-current="page"]{color:var(--clr-blue) !important;border-
 
 .txt-fuchsia{color:var(--clr-fuchsia);} .txt-blue{color:var(--clr-blue);} .txt-muted{color:var(--text-muted);} .txt-base{color:var(--text-base);} 
 
-.button{display:inline-block;padding:.75rem 1.5rem;border:2px solid transparent;border-radius:6px;font-weight:600;transition:background .2s,color .2s,border .2s;cursor:pointer;font-size:.9rem;}
+.button{display:inline-block;padding:.75rem 1.5rem;border:2px solid transparent;border-radius:6px;font-weight:600;transition:background .2s,color .2s,border .2s;cursor:pointer;font-size:.9rem;text-decoration:none !important;}
 .button--primary{background:var(--clr-fuchsia);color:var(--clr-white);} .button--primary:hover{background:var(--clr-blue);color:var(--clr-black);} 
 .button--secondary{background:transparent;border-color:var(--clr-fuchsia);color:var(--clr-fuchsia);} .button--secondary:hover{background:var(--clr-fuchsia);color:var(--clr-white);} 
 
