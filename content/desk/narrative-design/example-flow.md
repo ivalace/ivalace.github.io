@@ -3,7 +3,7 @@ title = "Example Flow"
 order = 5
 +++
 
-*Below is an example of my general work flow for a game.*
+*A example of my general work flow for a game.*
 
 ## High Level Narrative Summary
 

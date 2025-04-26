@@ -13,7 +13,7 @@
   <style>
     :root { --font-sans: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-serif; }
     body   { font-family: var(--font-sans); margin:0; background:var(--bg-primary); color:var(--text-base); line-height:1.6; }
-    main   { max-width: 90%; margin:0 auto; padding:2rem 1rem; text-align: center; }
+    main   { max-width: 90%; margin:0 auto; padding:2rem 1rem; }
     header { padding:1rem 0; }
     nav a  { margin-right:1rem; font-weight:600; }
   </style>
@@ -62,11 +62,14 @@
   </header>
 
   
-  <main>
+  <main class="flex">
+    <div class="flex-auto">
+      
   
-    <article>
+    <article class="mw8 center ph3">
       <h1 class="txt-fuchsia">Locations</h1>
-      <p><em>Below is a list of notable locations I have made for Game Masters to drop into their world. These include a name and layout description, and a few other bits such as economic use, interesting landmarks and notable shops. Any that I&rsquo;ve made for a campaign also include hooks to interest players into sticking around and exploring.</em></p>
+      <div class="nested-copy-line-height lh-copy serif f4 nested-links">
+        <p><em>A list of notable locations I have made for Game Masters to drop into their world. These include a name and layout description, and a few other bits such as economic use, interesting landmarks and notable shops. Any that I&rsquo;ve made for a campaign also include hooks to interest players into sticking around and exploring.</em></p>
 <hr>
 <h3 id="wedgerock-cove">Wedgerock Cove</h3>
 <p>Wedgerock Cove is a bustling trading hub, home to the Fairwind Merchants&rsquo; guild hall—a collective of tradesmen and ship captains dealing in luxury goods like silks, spices, and fine jewels. While most of the coves inhabitants are upstanding citizens, a few crooked merchants have found their way into the guilds officers positions. They now use their influence to smuggle drugs and information hidden among their wares. This has caused an undercurrent of tension among the people of the cove, who can feel the unsavory nature of such deals encroaching on their affluent lifestyle.</p>
@@ -217,9 +220,68 @@ A once abandoned fortress consisting of four towers connected by walls, a narrow
 <h3 id="whitebark-bog">Whitebark Bog</h3>
 <p>Whitebark Bog is a dangerous area on the South Western edge of the Farwood. It&rsquo;s filled with perpetual white fog and has a disorienting air to it. What little plant life grows consists of spindly thorny trees, devoid of leaves with a smooth white bark. It is said that those who venture too close to the bog are drawn in by ghosts of lovers long past, tortured with watching their pale visage always just out of reach.</p>
 
+      </div>
     </article>
   
-</main>
+
+    </div>
+    
+    <aside class="w-30 pl4">
+      <div class="sticky top-2">
+    
+    
+      <section class="mb4 toc">
+        <h3 class="f6 ttu tracked">On this page</h3>
+        <nav id="TableOfContents">
+  <ul>
+    <li>
+      <ul>
+        <li><a href="#wedgerock-cove">Wedgerock Cove</a></li>
+        <li><a href="#azure-grove">Azure Grove</a></li>
+        <li><a href="#ruins-of-the-dawning-citadel">Ruins of the Dawning Citadel</a></li>
+        <li><a href="#blitelands">Blitelands</a></li>
+        <li><a href="#nightdust-desert">Nightdust Desert</a></li>
+        <li><a href="#nether-isles">Nether Isles</a></li>
+      </ul>
+    </li>
+    <li><a href="#homebrew-campaign-locations">Homebrew Campaign Locations</a>
+      <ul>
+        <li><a href="#caidour">Caidour</a></li>
+        <li><a href="#temple-of-alva">Temple of Alva</a></li>
+        <li><a href="#glistening-shallows">Glistening Shallows</a></li>
+      </ul>
+    </li>
+    <li><a href="#novel-locations">Novel Locations</a>
+      <ul>
+        <li><a href="#fleece">Fleece</a></li>
+        <li><a href="#tree-of-duality">Tree of Duality</a></li>
+        <li><a href="#whitebark-bog">Whitebark Bog</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+      </section>
+    
+  
+    
+    <section class="mb4">
+      <h3 class="f6 ttu tracked">More to read</h3>
+      <ul class="list pl0">
+        
+      </ul>
+    </section>
+  
+    
+    <section class="mb4 pv2 ph3 ba b--light-gray br2 bg-washed-blue">
+      <p class="f6 b ma0">Written by Ivy Lee</p>
+      <p class="f7 lh-copy mt1">Narrative gremlin, lore hoarder, Farscape evangelist.</p>
+      <a class="f6 link dim" href="/contact/">Say hi →</a>
+    </section>
+  </div>
+  
+    </aside>
+    
+  </main>
 
   
   <footer style="text-align:center;padding:2rem 0;" class="txt-muted">

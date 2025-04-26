@@ -13,7 +13,7 @@
   <style>
     :root { --font-sans: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-serif; }
     body   { font-family: var(--font-sans); margin:0; background:var(--bg-primary); color:var(--text-base); line-height:1.6; }
-    main   { max-width: 90%; margin:0 auto; padding:2rem 1rem; text-align: center; }
+    main   { max-width: 90%; margin:0 auto; padding:2rem 1rem; }
     header { padding:1rem 0; }
     nav a  { margin-right:1rem; font-weight:600; }
   </style>
@@ -62,11 +62,14 @@
   </header>
 
   
-  <main>
+  <main class="flex">
+    <div class="flex-auto">
+      
   
-    <article>
+    <article class="mw8 center ph3">
       <h1 class="txt-fuchsia">About Me</h1>
-      <p>Hello there!</p>
+      <div class="nested-copy-line-height lh-copy serif f4 nested-links">
+        <p>Hello there!</p>
 <p>&hellip;This is where you&rsquo;d respond in your head &lsquo;General Kenobi&rsquo;. Yes? No? Ah, alright. I won&rsquo;t hold that against you. As you&rsquo;ve probably already figured out, my name is Ivy. I live in the Seattle area with my family and have been working as a writer for about five years now. I have written and self published two books under a pen name, worked on homebrew D&amp;D campaigns with my friends, and just generally been tinkering in about fifty other projects. Seriously, you should see my desk.</p>
 <p>When I&rsquo;m not off playing creator in some world or another, I enjoy consuming the works of other creators. This includes reading comics and books, playing board games with my family, playing rpgs, and watching old sci-fi shows. I feel a little obligated to say my favorites, so I&rsquo;ll just list them right here real quick. Keep in mind, favorites are fickle things so if you ever stop me in the street and ask I&rsquo;m likely to say something completely different.</p>
 <ul>
@@ -80,9 +83,36 @@
 <p>Now, my kid is happily back in the classroom where he belongs and I am back to working on my passion. I published my second book during the pandemic and am working on a sequel. I&rsquo;m writing supplemental content for TTRPGs. I&rsquo;m scripting and storyboarding a comic. But most importantly, I&rsquo;m looking forward to working on a game. That is the end goal for me, the reason I do all of these things. More than anything, I&rsquo;d like to help bring your game to life with my writing. I want to help you make a game that gives your players the exact feelings you want them to have. You want them to laugh? Lets make ridiculous items and witty dialog! Want them to cry? Easy, let me write a story that&rsquo;ll have them sobbing. Whatever kind of game you want to make, I can help.</p>
 <p>I hope you got to know me a little better with this! If you&rsquo;re interested in hiring me, you can contact me at <a href="mailto:ivy@lee.social">ivy@lee.social</a>. If you haven&rsquo;t yet checked out my work, you can find links to everything in my <a href="/desk">desk</a>.</p>
 
+      </div>
     </article>
   
-</main>
+
+    </div>
+    
+    <aside class="w-30 pl4">
+      <div class="sticky top-2">
+    
+    
+  
+    
+    <section class="mb4">
+      <h3 class="f6 ttu tracked">More to read</h3>
+      <ul class="list pl0">
+        
+      </ul>
+    </section>
+  
+    
+    <section class="mb4 pv2 ph3 ba b--light-gray br2 bg-washed-blue">
+      <p class="f6 b ma0">Written by Ivy Lee</p>
+      <p class="f7 lh-copy mt1">Narrative gremlin, lore hoarder, Farscape evangelist.</p>
+      <a class="f6 link dim" href="/contact/">Say hi →</a>
+    </section>
+  </div>
+  
+    </aside>
+    
+  </main>
 
   
   <footer style="text-align:center;padding:2rem 0;" class="txt-muted">

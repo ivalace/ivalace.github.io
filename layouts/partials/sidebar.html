@@ -1,0 +1,29 @@
+<div class="sticky top-2">
+    <!-- TOC ----------------------------------------------------------->
+    {{ if gt (len .TableOfContents) 60 }}
+      <section class="mb4 toc">
+        <h3 class="f6 ttu tracked">On this page</h3>
+        {{ .TableOfContents }}
+      </section>
+    {{ end }}
+  
+    <!-- RELATED POSTS ----------------------------------------------->
+    <section class="mb4">
+      <h3 class="f6 ttu tracked">More to read</h3>
+      <ul class="list pl0">
+        {{ range first 3 (where .Site.RegularPages "Section" "inkwell") }}
+          <li class="mb2">
+            <a class="link dim" href="{{ .RelPermalink }}">{{ .Title }}</a>
+          </li>
+        {{ end }}
+      </ul>
+    </section>
+  
+    <!-- AUTHOR CARD -------------------------------------------------->
+    <section class="mb4 pv2 ph3 ba b--light-gray br2 bg-washed-blue">
+      <p class="f6 b ma0">Written by Ivy Lee</p>
+      <p class="f7 lh-copy mt1">Narrative gremlin, lore hoarder, Farscape evangelist.</p>
+      <a class="f6 link dim" href="/contact/">Say hi →</a>
+    </section>
+  </div>
+  

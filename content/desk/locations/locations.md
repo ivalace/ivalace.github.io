@@ -3,7 +3,7 @@ title = "Locations"
 order = 3
 +++
 
-*Below is a list of notable locations I have made for Game Masters to drop into their world. These include a name and layout description, and a few other bits such as economic use, interesting landmarks and notable shops. Any that I've made for a campaign also include hooks to interest players into sticking around and exploring.*
+*A list of notable locations I have made for Game Masters to drop into their world. These include a name and layout description, and a few other bits such as economic use, interesting landmarks and notable shops. Any that I've made for a campaign also include hooks to interest players into sticking around and exploring.*
 
 ---
 ### Wedgerock Cove

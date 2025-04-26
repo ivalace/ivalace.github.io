@@ -13,7 +13,7 @@
   <style>
     :root { --font-sans: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-serif; }
     body   { font-family: var(--font-sans); margin:0; background:var(--bg-primary); color:var(--text-base); line-height:1.6; }
-    main   { max-width: 90%; margin:0 auto; padding:2rem 1rem; text-align: center; }
+    main   { max-width: 90%; margin:0 auto; padding:2rem 1rem; }
     header { padding:1rem 0; }
     nav a  { margin-right:1rem; font-weight:600; }
   </style>
@@ -62,11 +62,14 @@
   </header>
 
   
-  <main>
+  <main class="flex">
+    <div class="flex-auto">
+      
   
-    <article>
+    <article class="mw8 center ph3">
       <h1 class="txt-fuchsia">Characters</h1>
-      <p><em>Below is a list of characters I have made for campaigns I have either run myself or have played as. Most come with a background, a description of appearance and some interesting notes or items they have carried/used.</em></p>
+      <div class="nested-copy-line-height lh-copy serif f4 nested-links">
+        <p><em>A list of characters I have made for campaigns I have either run myself or have played as. Most come with a background, a description of appearance and some interesting notes or items they have carried/used.</em></p>
 <hr>
 <h3 id="azaela">Azaela</h3>
 <p>Azaela is a Tiefling who was born blind on the streets of a coastal town. She was abandoned on the steps of an orphanage, but because of her infernal blood she was discarded and left for dead. Despite this, she was taken in by another Tiefling who ran a small thieving operation with others of their kind. She learned to rely on her other senses and became quite the charlatan, alternating between pickpocketing and conning wealthy nobles out of their accessories by hustling them with her blindness. Eventually, she managed to pilfer a ring that housed a genie. In exchange for sight, she promised to fulfill the genie&rsquo;s every wish. As an adult now, she runs a shop that specializes in extravagant and beautiful adventuring gear. Obsessed with all things colorful and shiny, she enjoys making practical adventuring armor and accessories that don&rsquo;t sacrifice fashion for usability.</p>
@@ -102,9 +105,59 @@ Lucian Icebane is a legendary hero known throughout the land as a banisher of dr
 <li>Shadowstep is the power to call upon darkness and bring it to her, wrapping herself with it and disappearing completely. She leaves no footprints, makes no sound, and can maintain the darkness until she drops it.</li>
 </ul>
 
+      </div>
     </article>
   
-</main>
+
+    </div>
+    
+    <aside class="w-30 pl4">
+      <div class="sticky top-2">
+    
+    
+      <section class="mb4 toc">
+        <h3 class="f6 ttu tracked">On this page</h3>
+        <nav id="TableOfContents">
+  <ul>
+    <li>
+      <ul>
+        <li><a href="#azaela">Azaela</a></li>
+        <li><a href="#madam-rosemary">Madam Rosemary</a></li>
+        <li><a href="#doxthor-shieldfang">Doxthor Shieldfang</a></li>
+        <li><a href="#julie-starchild">Julie Starchild</a></li>
+        <li><a href="#lhoris">Lhoris</a></li>
+        <li><a href="#zokar">Zokar</a></li>
+      </ul>
+    </li>
+    <li><a href="#novel-characters">Novel Characters</a>
+      <ul>
+        <li><a href="#aelyth">Aelyth</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+      </section>
+    
+  
+    
+    <section class="mb4">
+      <h3 class="f6 ttu tracked">More to read</h3>
+      <ul class="list pl0">
+        
+      </ul>
+    </section>
+  
+    
+    <section class="mb4 pv2 ph3 ba b--light-gray br2 bg-washed-blue">
+      <p class="f6 b ma0">Written by Ivy Lee</p>
+      <p class="f7 lh-copy mt1">Narrative gremlin, lore hoarder, Farscape evangelist.</p>
+      <a class="f6 link dim" href="/contact/">Say hi →</a>
+    </section>
+  </div>
+  
+    </aside>
+    
+  </main>
 
   
   <footer style="text-align:center;padding:2rem 0;" class="txt-muted">

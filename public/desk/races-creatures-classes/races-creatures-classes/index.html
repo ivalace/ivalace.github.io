@@ -13,7 +13,7 @@
   <style>
     :root { --font-sans: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-serif; }
     body   { font-family: var(--font-sans); margin:0; background:var(--bg-primary); color:var(--text-base); line-height:1.6; }
-    main   { max-width: 90%; margin:0 auto; padding:2rem 1rem; text-align: center; }
+    main   { max-width: 90%; margin:0 auto; padding:2rem 1rem; }
     header { padding:1rem 0; }
     nav a  { margin-right:1rem; font-weight:600; }
   </style>
@@ -62,11 +62,14 @@
   </header>
 
   
-  <main>
+  <main class="flex">
+    <div class="flex-auto">
+      
   
-    <article>
+    <article class="mw8 center ph3">
       <h1 class="txt-fuchsia">Races, Creatures, and Classes</h1>
-      <p><em>Below is a list of races and creature types that I&rsquo;ve made for Game Masters to add to their world. Most come with special feats or abilities.</em></p>
+      <div class="nested-copy-line-height lh-copy serif f4 nested-links">
+        <p><em>Here is a list of races and creature types that I&rsquo;ve made for Game Masters to add to their world. Most come with special feats or abilities.</em></p>
 <hr>
 <h3 id="araquin">Araquin</h3>
 <p>A race of spider creatures, they possess milky white skin covered in fine hairs that can be colored in grey, black, or tan. Some grow hard, black chitin across their torso. They possess two main eyes and two smaller eyes, lidless and mostly black although there have been some known to have jewel toned colors. The females have small mandibles that grow from the side of their mouths and sharp teeth, while the males can possess two to four extra limbs that end in claws instead of hands or feet.</p>
@@ -94,9 +97,60 @@
 <h3 id="stormborn">Stormborn</h3>
 <p>Children born in the midst of a natural disaster are sometimes cursed as Stormborn, beings with Mother Nature&rsquo;s fury twined deep in their soul. These unlucky children possess chaotic elemental powers tied to their emotions, resulting in localized earthquakes or floods capable of destroying a small village. As they grow older, so do the powers until eventually they become a walking disaster, capable of unleashing Mother Nature&rsquo;s fury in powerful waves across large swaths of land. For this reason, the children are taken shortly after birth by a sect of Druids who serve the temperamental side of Nature. These Druids, all of which are Stormborn as well, raise the children to control their emotions and calm the ragged storms of the land。</p>
 
+      </div>
     </article>
   
-</main>
+
+    </div>
+    
+    <aside class="w-30 pl4">
+      <div class="sticky top-2">
+    
+    
+      <section class="mb4 toc">
+        <h3 class="f6 ttu tracked">On this page</h3>
+        <nav id="TableOfContents">
+  <ul>
+    <li>
+      <ul>
+        <li><a href="#araquin">Araquin</a></li>
+        <li><a href="#wound-worms">Wound Worms</a></li>
+        <li><a href="#dream-walker">Dream Walker</a></li>
+      </ul>
+    </li>
+    <li><a href="#novel">Novel</a>
+      <ul>
+        <li><a href="#shadows">Shadows</a></li>
+        <li><a href="#shades">Shades</a></li>
+        <li><a href="#oraci">Oraci</a></li>
+        <li><a href="#void-kissed">Void Kissed</a></li>
+        <li><a href="#stormborn">Stormborn</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+      </section>
+    
+  
+    
+    <section class="mb4">
+      <h3 class="f6 ttu tracked">More to read</h3>
+      <ul class="list pl0">
+        
+      </ul>
+    </section>
+  
+    
+    <section class="mb4 pv2 ph3 ba b--light-gray br2 bg-washed-blue">
+      <p class="f6 b ma0">Written by Ivy Lee</p>
+      <p class="f7 lh-copy mt1">Narrative gremlin, lore hoarder, Farscape evangelist.</p>
+      <a class="f6 link dim" href="/contact/">Say hi →</a>
+    </section>
+  </div>
+  
+    </aside>
+    
+  </main>
 
   
   <footer style="text-align:center;padding:2rem 0;" class="txt-muted">

@@ -13,7 +13,7 @@
   <style>
     :root { --font-sans: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-serif; }
     body   { font-family: var(--font-sans); margin:0; background:var(--bg-primary); color:var(--text-base); line-height:1.6; }
-    main   { max-width: 90%; margin:0 auto; padding:2rem 1rem; text-align: center; }
+    main   { max-width: 90%; margin:0 auto; padding:2rem 1rem; }
     header { padding:1rem 0; }
     nav a  { margin-right:1rem; font-weight:600; }
   </style>
@@ -62,11 +62,14 @@
   </header>
 
   
-  <main>
+  <main class="flex">
+    <div class="flex-auto">
+      
   
-    <article>
+    <article class="mw8 center ph3">
       <h1 class="txt-fuchsia">Example Flow</h1>
-      <p><em>Below is an example of my general work flow for a game.</em></p>
+      <div class="nested-copy-line-height lh-copy serif f4 nested-links">
+        <p><em>A example of my general work flow for a game.</em></p>
 <h2 id="high-level-narrative-summary">High Level Narrative Summary</h2>
 <p>Zokar is a Myconid with a hunger for power. Above all else, he desires to consume as much power from the world as possible and utilize it to become a new God. Using his strange abilities to grow mushrooms along the surface of the world, he spreads his spores to unsuspecting victims, drawing them to his cause and aiding him in his plans.</p>
 <h2 id="major-locationslevels">Major Locations/Levels</h2>
@@ -137,9 +140,64 @@
 <p>Lhoris is a former wood elf cleric of The Mother turned Sorcerer, currently residing in [[Locations#Motlier|Motlier]] searching for the [[Locations#Temple of Alva|Temple of Alva]]. He was exiled from his home and his family after unwittingly being a pawn of Xeton&rsquo;s to cast down The Mother. Cursed with maddening power that gets worse with every season, he was made immortal by Zokar and forced to wander the continent seeking out magical artifacts and beings. Once had the Maw of Zokar (a brand given to those who serve the Insatiable being) on his left shoulder, which allowed Xeton to track him. His father spent the last of his strength cleansing his flesh and thus removing the mark before tasking him to find Alva and convince her to restore balance to the land. His search led him to [[Locations#Motlier|Motlier]], where he was investigating the ruins near the village. There, he fell in love with Julie Starchild and now hunts her and therefore Xeton to get her back.</p>
 <p>Lhoris is a wood elf with deep, reddish tan skin and yellow eyes. His hair is a deep shade of brown that has a golden hue in the sun, and is kept long and braided back from his face. He&rsquo;s tall, but very thin from the sickness inflicted on him from the bite as well as the after effects of having it removed.</p>
 
+      </div>
     </article>
   
-</main>
+
+    </div>
+    
+    <aside class="w-30 pl4">
+      <div class="sticky top-2">
+    
+    
+      <section class="mb4 toc">
+        <h3 class="f6 ttu tracked">On this page</h3>
+        <nav id="TableOfContents">
+  <ul>
+    <li><a href="#high-level-narrative-summary">High Level Narrative Summary</a></li>
+    <li><a href="#major-locationslevels">Major Locations/Levels</a>
+      <ul>
+        <li><a href="#motlier">Motlier</a></li>
+        <li><a href="#fairhaven">Fairhaven</a></li>
+        <li><a href="#caidour">Caidour</a></li>
+        <li><a href="#glistening-shallows">Glistening Shallows</a></li>
+        <li><a href="#fort-walker">Fort Walker</a></li>
+      </ul>
+    </li>
+    <li><a href="#more-detailed-story-outline">More Detailed Story Outline</a></li>
+    <li><a href="#characters">Characters</a>
+      <ul>
+        <li><a href="#zokar">Zokar</a></li>
+        <li><a href="#ernir">Ernir</a></li>
+        <li><a href="#xeton">Xeton</a></li>
+        <li><a href="#julie-starchild">Julie Starchild</a></li>
+        <li><a href="#lhoris">Lhoris</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+      </section>
+    
+  
+    
+    <section class="mb4">
+      <h3 class="f6 ttu tracked">More to read</h3>
+      <ul class="list pl0">
+        
+      </ul>
+    </section>
+  
+    
+    <section class="mb4 pv2 ph3 ba b--light-gray br2 bg-washed-blue">
+      <p class="f6 b ma0">Written by Ivy Lee</p>
+      <p class="f7 lh-copy mt1">Narrative gremlin, lore hoarder, Farscape evangelist.</p>
+      <a class="f6 link dim" href="/contact/">Say hi →</a>
+    </section>
+  </div>
+  
+    </aside>
+    
+  </main>
 
   
   <footer style="text-align:center;padding:2rem 0;" class="txt-muted">

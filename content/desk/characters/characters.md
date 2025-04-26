@@ -3,7 +3,7 @@ title = "Characters"
 order = 1
 +++
 
-*Below is a list of characters I have made for campaigns I have either run myself or have played as. Most come with a background, a description of appearance and some interesting notes or items they have carried/used.*
+*A list of characters I have made for campaigns I have either run myself or have played as. Most come with a background, a description of appearance and some interesting notes or items they have carried/used.*
 
 ---
 

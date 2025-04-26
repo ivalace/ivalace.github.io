@@ -5,9 +5,11 @@
       {{ .Content }}
     </section>
   {{ else }}
-    <article>
+    <article class="mw8 center ph3">
       <h1 class="txt-fuchsia">{{ .Title }}</h1>
-      {{ .Content }}
+      <div class="nested-copy-line-height lh-copy serif f4 nested-links">
+        {{ .Content }}
+      </div>
     </article>
   {{ end }}
 {{ end }} 

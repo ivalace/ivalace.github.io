@@ -3,7 +3,7 @@ title = "Races, Creatures, and Classes"
 order = 4
 +++
 
-*Below is a list of races and creature types that I've made for Game Masters to add to their world. Most come with special feats or abilities.*
+*Here is a list of races and creature types that I've made for Game Masters to add to their world. Most come with special feats or abilities.*
 
 ---
 ### Araquin

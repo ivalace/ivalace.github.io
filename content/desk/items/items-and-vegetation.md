@@ -3,7 +3,7 @@ title = "Items and Vegetation"
 order = 2
 +++
 
-*Below is a collection of items and plants I have made for various campaigns I have run and novels I have written.*
+*A collection of items and plants I have made for various campaigns I have run and novels I have written.*
 
 ---
 ## Items

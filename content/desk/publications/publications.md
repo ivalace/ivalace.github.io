@@ -4,7 +4,7 @@
 +++
 
 # Publications
-*Below you can find a few of my past publicized works.*
+*Here you can find a few of my past publicized works.*
 
 ## Journalism
 *[Twenty One Pilots: The Bandito Tour](https://web.archive.org/web/20221203230242/https://staticmagazine.net/twenty-one-pilots-bandito-tour/)*, Published by Static Magazine
