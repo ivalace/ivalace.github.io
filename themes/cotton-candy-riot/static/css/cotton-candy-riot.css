@@ -73,3 +73,9 @@ input[type="submit"]:hover,
 input[type="reset"]:hover {
   animation: wiggle .3s ease-in-out infinite;
 }
+
+/* ---------- 8. CONTENT PRE BLOCK WRAP ---------- */
+.nested-copy-line-height pre {
+  white-space: pre-wrap; /* Allow lines to wrap within code/pre blocks */
+  overflow-wrap: break-word; /* Break long words that exceed container width */
+}
