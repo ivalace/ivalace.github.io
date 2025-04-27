@@ -5,7 +5,7 @@ theme = 'cotton-candy-riot'
 [menu]
   [[menu.main]]
     identifier = "about"
-    name = "About Me"
+    name = "Meet the Gremlin"
     url = "/about/"
     weight = 1
 
@@ -17,7 +17,7 @@ theme = 'cotton-candy-riot'
 
   [[menu.main]]
     identifier = "contact"
-    name = "Contact"
+    name = "Summon Me"
     url = "/contact/"
     weight = 3
 

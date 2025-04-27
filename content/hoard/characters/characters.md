@@ -17,11 +17,11 @@ She carries a belt around the waist and a sash across her chest that contains se
 
 She's a Tiefling of the Fierna Bloodline. Her skin is a bright red, crisscrossed with some scars along her hands. She has two large wings that she likes to have painted whenever she can. Her hair is thick and curly, kept short and colored deep purple. She likes to weave colorful threads into the curls whenever she's in the mood for something different.
 
-### Madam Rosemary
+### Boris Grizzlespark
 
-Madam Rosemary is a [[Races-Creatures-Classes#Dream Walker|Dream Walker]], able to see and act as a guide the dreams of people. As she hums, she weaves a tapestry of the dreams she sees. She can help clarify the parties path and in doing so builds an unfinished tapestry of a misleading future.
+Boris is an easy going barkeep with one simple rule: no one hurts his counter. He's a half orc of somewhat smaller stature, with lower tusks and dusky brown skin. His ashen brown hair is kept neatly tied back away from his face, revealing deep laugh lines and slightly pointed ears. Ostracized from his clan for preferring to brew over brawl, he settled in Motlier when he was still rather young. The tavern was built with his own two hands and is the newest building in the town. He is well loved by the townsfolk, although it took some time and some damn good ale to convince them that he wasn't a threat.
 
-Madam Rosemary is an elder of her race. She is very thin and willowy of frame, with pin-straight, waist length raven black hair streaked with long, grey strands. She has large, lidless silver eyes as is normal for her race. She tends to wear very loose fitting robes woven in dark, midnight blue.
+The counter of his bar is a gift from his human mother, though he doesn't like to talk about her much. Truly one of a kind, the wood is dark as obsidian and completely without the natural lines and knots of normal wood. In certain lights, a faint silver grain appears in the wood. If anyone scratches, steps on, or in any way disrespects it Boris will not hesitate. He violently hurls them out into the street and banishes them for life.
 
 ### Doxthor Shieldfang
 
