@@ -269,7 +269,7 @@ I'll start with my biggest complaint about the ending:
 #### Daenerys would have *never* become a tyrant!
 When I first watched the scene where she gives her speech on the steps of the Red Keep, I struggled to reconcile the Breaker of Chains with this person who just massacred half a million people. How could she do something so horrible and then give a victory speech as if she were justified? As if she felt no remorse, no guilt, not even a semblance of doubt? But then this conversation between Varys and Tyrion caught my attention on my rewatch: 
 ```
-Varys: I have served tyrants most of my life. They *all* talk about destiny.
+Varys: I have served tyrants most of my life. They *all* talk about destiny.
 
 Tyrion: She's a girl who walked into a fire with three stones and walked out with three dragons. How could she *not* believe in destiny?
 

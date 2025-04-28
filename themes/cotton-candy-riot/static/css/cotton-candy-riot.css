@@ -79,3 +79,14 @@ input[type="reset"]:hover {
   white-space: pre-wrap; /* Allow lines to wrap within code/pre blocks */
   overflow-wrap: break-word; /* Break long words that exceed container width */
 }
+
+/* ---------- 9. CUSTOM RESPONSIVE OVERRIDES ---------- */
+/* Reduce base article content font size to 1rem */
+.nested-copy-line-height {
+  font-size: 1rem !important;
+}
+
+/* Narrow article max-width to 36rem */
+article.mw8 {
+  max-width: 36rem !important; /* override Tachyons mw8 (48rem) */
+}

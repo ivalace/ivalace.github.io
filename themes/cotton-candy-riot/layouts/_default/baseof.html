@@ -42,7 +42,7 @@
       {{ block "main" . }}{{ end }}
     </div>
     {{ if not (or .IsHome (eq .RelPermalink "/contact/")) }}
-    <aside class="w-100 w-30-l pl0 pl4-l mt4 mt0-l">
+    <aside class="w-100 w-30-l pl0 pl4-l mt4 mt0-l tc tl-l">
       {{ partial "sidebar.html" . }}
     </aside>
     {{ end }}
