@@ -8,23 +8,23 @@ order = 3
 ---
 ### Wedgerock Cove
 
-Wedgerock Cove is a bustling trading hub, home to the Fairwind Merchants' guild hall—a collective of tradesmen and ship captains dealing in luxury goods like silks, spices, and fine jewels. While most of the coves inhabitants are upstanding citizens, a few crooked merchants have found their way into the guilds officers positions. They now use their influence to smuggle drugs and information hidden among their wares. This has caused an undercurrent of tension among the people of the cove, who can feel the unsavory nature of such deals encroaching on their affluent lifestyle.
+Wedgerock Cove is a bustling trading hub, home to the Fairwind Merchants’ guild hall—a collective of tradesmen and ship captains dealing in luxury goods like silks, spices, and fine jewels. While most of the cove's inhabitants are upstanding citizens, a few crooked merchants have found their way into the guild's officers' positions. They now use their influence to smuggle drugs and information hidden among their wares. Tensions simmer beneath the cove's polished surface, and the residents are beginning to feel the unsavory nature of such deals threatening their luxuries.
 
-The layout of the cove is one of the continent's most intriguing feats of natural architecture. It forms an inverted wedge along the eastern coastline, as if some monstrous force had ripped the ocean floor upwards some seventy meters through the rock, leaving a jagged scar in its wake.
+The layout of the cove is one of the continent’s most intriguing feats of natural architecture. It forms an inverted wedge along the eastern coastline, as if some monstrous force had ripped the ocean floor upwards some seventy meters through the rock, leaving a jagged scar in its wake.
 
-Colorful buildings hang from the cove's ceiling, shaped like birdcages with circular flat bottoms and domed tops. Sturdy wooden bridges serve as walkways connecting the buildings, some with intricate carvings along the railings. Some of the less extravagant buildings are are bolted to the rocky surface of the coves walls, with narrow stairs and creaking lifts to carry goods from the ships docked below.
+Colorful buildings hang from the cove's ceiling, shaped like birdcages with circular flat bottoms and domed tops. The smell of ocean brine mingles with the rich scent of spices wafting up from the trade ports below. Sturdy wooden bridges serve as walkways connecting the buildings, the once intricate carvings worn down from the humid wind. Some of the less extravagant buildings are bolted to the rocky surface of the coves walls, with narrow stairs and creaking lifts to carry goods from the ships docked below.
 
-Notable landmark: The Fairwind Guild Hall sits at the wedge's deepest point, carved directly from the stone. It features three diamond-shaped buildings stacked atop one another, each smaller than the last. The smallest, at the base, serves as the main entrance.
+Notable landmark: The Fairwind Guild Hall sits at the wedge’s deepest point, carved directly from the stone. It features three diamond-shaped buildings stacked atop one another, each smaller than the last. The smallest, at the base, serves as the main entrance.
 
-Hook to interest players: Despite the cove's affluent clientele, a rougher crowd lingers around the shops. There's an undercurrent of tension, the people of the cove seeming afraid and on edge. Players who investigate may uncover a pirate captain working with one of the crooked merchants, his crew quietly scouting the cove's defenses in preparation for a daring raid.
+Hook to interest players: Despite the cove’s affluent clientele, a rougher crowd lingers around the shops. The sharp scent of fear lingers on the salty air, and the people of the cove nervously avoid the players eyes. Players who investigate may uncover a pirate captain working with one of the crooked merchants, his crew quietly scouting the cove’s defenses in preparation for a daring raid.
 
 ### Azure Grove 
 
-A druid grove on the rocky ocean shore. Fields of blue grass lead to a collection of tide pools filled with colorful creatures and sea foam-colored algae. The druids live in huts among the blue grass made with reeds from a nearby estuary. They derive healing remedies from the algae in the tide pools and trade them with a local fishing village. In exchange, the village ensures that the corals are not over fished.
+Azure Grove is a serene oasis along the rocky ocean shore. Fields of blue grass grow among the sand, broken up by tide pools filled with colorful creatures. The cool ocean breeze brings lazy waves to lap at the shore, carrying sea foam-colored algae. The druids live in huts among the blue grass made with reeds from a nearby estuary. They derive healing remedies from the algae in the tide pools and trade them with a local fishing village. In exchange, the village ensures that the corals are not overfished.
 
 Notable landmark: the crystal blue waters reveal a beautiful rainbow forest of coral beneath the ocean's surface. Other than that, it is a modest, unremarkable area, easy to pass by without notice.
 
-Hooks to interest players: There could be a problem with the algae, a sickness of some kind poisoning the tide pools and spreading along the shore. If you don't have a party equipped for dealing with sickness or infections in nature, you could keep it simple with damage being done to the coral from a rabid monster shark or even a greedy diver.
+Hooks to interest players: There could be a problem with the algae, a sickness of some kind poisoning the tide pools and spreading along the shore. If your players are less equipped to deal with sickness or contamination, you could keep it simple with a physical form of damage. Perhaps the coral is being destroyed by a rabid shark or picked apart by a greedy diver.
 
 ### Ruins of the Dawning Citadel
 
