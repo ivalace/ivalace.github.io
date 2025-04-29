@@ -6,45 +6,64 @@ order = 3
 *A list of notable locations I have made for Game Masters to drop into their world. These include a name and layout description, and a few other bits such as economic use, interesting landmarks and notable shops. Any that I've made for a campaign also include hooks to interest players into sticking around and exploring.*
 
 ---
+## Regional Wonders
 ### Wedgerock Cove
 
-Wedgerock Cove is a bustling trading hub, home to the Fairwind Merchants’ guild hall—a collective of tradesmen and ship captains dealing in luxury goods like silks, spices, and fine jewels. While most of the cove's inhabitants are upstanding citizens, a few crooked merchants have found their way into the guild's officers' positions. They now use their influence to smuggle drugs and information hidden among their wares. Tensions simmer beneath the cove's polished surface, and the residents are beginning to feel the unsavory nature of such deals threatening their luxuries.
+Wedgerock Cove is a bustling trading hub, home to the Fairwind Merchants’ Guildhall—a collective of tradesmen and ship captains dealing in luxury goods like silks, spices, and fine jewels. While most of the cove's inhabitants are upstanding citizens, a few crooked merchants have found their way into the guild's officers' positions. Hidden among the silks and spices, forbidden goods and insidious secrets flow through the cove unnoticed. Tensions simmer beneath the cove's polished surface, and the residents are beginning to feel the unsavory nature of such deals threatening their luxuries.
 
 The layout of the cove is one of the continent’s most intriguing feats of natural architecture. It forms an inverted wedge along the eastern coastline, as if some monstrous force had ripped the ocean floor upwards some seventy meters through the rock, leaving a jagged scar in its wake.
 
-Colorful buildings hang from the cove's ceiling, shaped like birdcages with circular flat bottoms and domed tops. The smell of ocean brine mingles with the rich scent of spices wafting up from the trade ports below. Sturdy wooden bridges serve as walkways connecting the buildings, the once intricate carvings worn down from the humid wind. Some of the less extravagant buildings are bolted to the rocky surface of the coves walls, with narrow stairs and creaking lifts to carry goods from the ships docked below.
+Colorful buildings hang from the cove's ceiling, shaped like birdcages with circular flat bottoms and domed tops. The smell of ocean brine mingles with the rich scent of spices from the trade ports below. Sturdy wooden bridges serve as walkways connecting the buildings, the once intricate carvings worn down from the humid wind. Some of the less extravagant buildings are bolted to the rocky surface of the cove's walls, with narrow stairs and creaking lifts to carry goods from the ships docked below.
 
-Notable landmark: The Fairwind Guild Hall sits at the wedge’s deepest point, carved directly from the stone. It features three diamond-shaped buildings stacked atop one another, each smaller than the last. The smallest, at the base, serves as the main entrance.
+Notable Landmark: Carved directly from the stone in the deepest part of the wedge, the Fairwind Merchants' Guildhall is an intriguing feat of architecture. Curiously monolithic compared to the rest of the cove's colorful structures, it serves as both the main office and bank for all of its merchants. Three interlocking diamond-shaped buildings varied in size are cut from the stone, the smallest of which is at the base. Serving as the main entrance, the lower floor contains nothing more than a desk and a single gatekeeper. If one can prove their worth, by rank or by coin, they may travel up to the higher levels whose sizes are reflective of their importance.
 
-Hook to interest players: Despite the cove’s affluent clientele, a rougher crowd lingers around the shops. The sharp scent of fear lingers on the salty air, and the people of the cove nervously avoid the players eyes. Players who investigate may uncover a pirate captain working with one of the crooked merchants, his crew quietly scouting the cove’s defenses in preparation for a daring raid.
+Hook for GMs: Despite the cove’s affluent clientele, a rougher crowd lingers around the shops. The sharp scent of fear hangs in the salty air, and the people of the cove nervously avoid the players' eyes. A pirate captain working with one of the crooked merchants plots in a ship anchored further along the shore, his crew quietly scouting the cove’s defenses in preparation for a daring raid.
 
 ### Azure Grove 
 
 Azure Grove is a serene oasis along the rocky ocean shore. Fields of blue grass grow among the sand, broken up by tide pools filled with colorful creatures. The cool ocean breeze brings lazy waves to lap at the shore, carrying sea foam-colored algae. The druids live in huts among the blue grass made with reeds from a nearby estuary. They derive healing remedies from the algae in the tide pools and trade them with a local fishing village. In exchange, the village ensures that the corals are not overfished.
 
-Notable landmark: the crystal blue waters reveal a beautiful rainbow forest of coral beneath the ocean's surface. Other than that, it is a modest, unremarkable area, easy to pass by without notice.
+Notable Landmark: The grove appears no different from any other at first glance. Only those who gain the village's trust are allowed to see the true beauty the druids protect: a brilliant forest of rainbow coral thriving beneath the ocean's surface, and home to some species unknown to the rest of the realm.
 
-Hooks to interest players: There could be a problem with the algae, a sickness of some kind poisoning the tide pools and spreading along the shore. If your players are less equipped to deal with sickness or contamination, you could keep it simple with a physical form of damage. Perhaps the coral is being destroyed by a rabid shark or picked apart by a greedy diver.
+Hook for GMs: A sickness seeps through the reef, painting the algae with an oil-slick opalescence. This was no mere act of nature. Someone, or *something*, has poisoned the grove, spreading a sickness that suspiciously only affects the druids.
 
 ### Ruins of the Dawning Citadel
 
-A once prosperous citadel of magic users, primarily sorcerers, that worked for the prosperity and advancement of all living things. One of the few places that openly welcomed the magical study of death and afterlife, the citadel attracted many well to do necromancers and a few unsavory types that hid their intentions well enough to go unnoticed. One such necromancer had an experiment go wrong which resulted in the entire citadel being pulled into a mass grave in the earth, burying it in ruins and killing all within. The ruins are filled with the decaying corpses of the inhabitants, preserved in the aftershocks of the necromancers failed experiment but kept dormant by the artifact the necromancer had been experimenting on. Improper removal of said artifact from the citadel would result in an army of 10,000 mindless undead with no directive except to kill.
-- The skeletons all grow various strengths of [[Items-and-Vegetations#^031498|Intellite]].
-- This is meant to be a place for players to find after hearing rumors of it's location and/or stumbling blindly upon it and thus has no hooks.
+Buried deep in the earth and kept away from the harsh duality of morals, the Dawning Citadel is one of the few places where all studies of the arcane were encouraged. A place of great scientific advancement, the citadel attracted any and all people who sought the betterment of the world through their experiments. The citadel's blurred morals made it a haven for necromancers. Most came driven by a hunger for knowledge, but a select few harbored darker urges. One such necromancer hid his motives just long enough for his experiment to go horribly wrong.
+
+In a single explosion of necrotic magic, the entire citadel was buried in a mass grave, ripping the souls from the inhabitants and trapping them in a single gem. The ruins are filled with tens of thousands of slowly decaying corpses, preserved in eerie detail in the exact moment of their death. Trapped in the aftershocks of the necromancer's failed experiment, their eyes follow the players as they move through the citadel. The only thing keeping the horde at bay is a counter artifact hidden somewhere in the citadel. A simple lantern crafted by a holy cleric to keep the darkness contained.
+
+Because of the unstable nature of the curse still rippling through the citadel, players must use extreme caution if they wish to remove either artifact. If the lantern goes dark, or the gem is removed before being purified, an army of mindless undead would be freed, driven by a single directive: kill.
+
+Notable Landmark: Once a masterful blend of Dwarven masonry and scholastic ingenuity, the Dawning Citadel now lies in ruin. Its once grand halls and carved towers have crumbled into hollow echoes of the citadel's former glory. Only two wonders remain: the ten thousand corpses of the citadel's powerful inhabitants, and the strange crystals jutting from their skulls.
+
+Hook for GMs: Whispers coil through the magic circles of the surface: the ruins of the Dawning Citadel have been found. No proof, just tales. But to those who listen closely, tales can become trails. And riches are never free.
 
 ### Blitelands
 
-A desecrated patch of land where a sect of paladins waged war on a group of Death cultists and infernal beings. When victory for the paladins was clear, Death's chosen champion cursed the land with eternal decay, killing everyone on the battlefield.
-- A tall, pristine white tower is situated in the very center of the land, with blue glass windows making up the spiral tipped dome. Within the tower prowls the spirit of the paladins leader, [[Characters#Doxthor Shieldfang|Doxthor Shieldfang]], keeping vigil over the land.
-- Most paladins know of this location and some choose to make a pilgrimage and pay their respects, regardless of their order or deity.
-- I created this location as one of three made specifically for players in one of my campaigns, so the hook ties into the backstory of one of those players.
+Along the far, eastern edge of the continent stands a single, gleaming tower among a ravaged land. Once home to an order of paladins, the Blitelands are the desecrated remains of their war against Death's cult. Though the paladins won the battle, Death struck the final blow. In an act of spite, his Champion cursed the land to rot in a state of eternal decay. The entire order fell, the land forever fetid with the festering corpses of both sides. Only the tower remains, a beacon of light among a blighted land.
+
+It is a place of pilgrimage for paladins, where oaths are tested against the tragic cost of holy wars. Those who survive the land's corrupting touch and hold fast to their vows are granted an audience with the ghostly specter of Doxthor Shieldfang, head of the paladin order. He remains trapped within the tower, willingly forsaking the afterlife in order to bind his soul to the tainted land.
+
+Ever the paladin, Doxthor sacrificed his soul to keep the blight contained, forever a lone sentinel guarding the realm from death.
+
+Notable Landmark: Standing tall at the center of the Blitelands is the last remaining structure of the Shieldfang Keep. Walls crumble on either side of the base, the only evidence that there was ever more to this singular tower. Pristine white stone rises high and unbroken, topped with a cone of glass. Blue and green mosaic art depict the order's Coat of Arms as well as the holy symbol for the Goddess they serve.
+
+Hook for GMs: Recent reports from the holy cities across the continent all share a disturbing fact: paladins have not been returning from their pilgrimage. The weaker of the orders have been known to forsake their oaths when confronted with the true cost of war. However, ripples of unease begin to spread through the veterans of the order when even the truest of souls don't return. Frantic generals fear the blight grows stronger while the braver youth confront the unthinkable: Is the danger the guardian within?
 
 ### Nightdust Desert
 
-Desert of black sand with crystal-like plants that glow when the moon is full
-The days are frigidly cold, despite the hot sun and the nights are pleasantly balmy. 
+Spread across a vast swath of the southern shore, the Nightdust Desert glitters with sand black as night. Strange crystalline plants cut through the midnight dunes, glowing hands stretched out in silent worship. When one is touched, the rest begin to hum with a pure melody that echoes across the landscape. The days are frigid, despite the hot sun beating down on the land. The nights, however, are temperate and balmy, warmed by the strange breath of the desert's living flora.
 
-Two settlements are here, one of which is a tribal village of snake-people who worship the moon. Being cold blooded, this makes being predominantly nocturnal a challenge for the younger snakes. The elders are fully nocturnal and draw power from the moonstones mined in the rocky areas of the desert. The other settlement is newer and smaller, a group of researchers who have made a home here studying the strange crystal plants that seem to grow with the light of the moon. The two settlements do not interact.
+Two settlements inhabit this alien landscape, living in an uneasy harmony. The first is a tribal sect of Lizardfolk. Worshipers of the moon, they live in communal burrows beneath the sands during the day to preserve their warmth, only emerging once the sun has set. Due to their cold-blooded nature, the young struggle with the fully nocturnal habits of the clan. They spend the nights sifting the sands for moonstones in the rockier parts of the desert near the shore.
+
+The second settlement is new to the desert, erecting a small base on the surface. Made up entirely of researchers, this group has come to study the strange structure of the plant life. The expedition was funded by a retired adventurer, who in his old age has become obsessed with the idea of a keep spun from the rarest materials in the realm.
+
+No matter the cost.
+
+Notable Landmark: Among the desert's crystalline plant life, one tree stands out. Its size and shape are unremarkable, but the strange offerings adorning it draw curious eyes. Silvery scales hang from the branches, clinking faintly in the warm, night-born breeze.
+
+Hook for GMs: Despite their mundane appearance, arcanists among the researchers believe the stones in the Nightdust Desert hold more than spiritual significance. They amplify magic in wondrous yet unpredictable ways. The other researchers urge caution, for the local tribe does not suffer those who abuse the gifts of the moon.
 
 <!--
 ### Howling Fjords
