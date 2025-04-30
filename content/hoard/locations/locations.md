@@ -3,7 +3,8 @@ title = "Locations"
 order = 3
 +++
 
-*A list of notable locations I have made for Game Masters to drop into their world. These include a name and layout description, and a few other bits such as economic use, interesting landmarks and notable shops. Any that I've made for a campaign also include hooks to interest players into sticking around and exploring.*
+
+*Worlds are shaped from our perceptions, and the actions of those that came before us..*
 
 ---
 ## Regional Wonders
@@ -65,113 +66,83 @@ Notable Landmark: Among the desert's crystalline plant life, one tree stands out
 
 Hook for GMs: Despite their mundane appearance, arcanists among the researchers believe the stones in the Nightdust Desert hold more than spiritual significance. They amplify magic in wondrous yet unpredictable ways. The other researchers urge caution, for the local tribe does not suffer those who abuse the gifts of the moon.
 
-<!--
-### Howling Fjords
-
-A land of ice at the top of the continent. Beneath the ice is a cave system with a central cavern that is the final resting place of [[Characters#Lucian Icebane|Lucian Icebane]]. He stands perpetually frozen in the center, brandishing his legendary forked sword [[Items-and-Vegetations#^3ba6fe|Serpent Tongue]]. Curling around his statue is the frozen form of [[Characters#Oraxis|Oraxis]], an Ice Dragon and the last of the dragons on this plane of existence.
--->
-### Nether Isles
-
-A collection of mysterious islands that recently sprang into existence. There are five total, each completely unique and housing an item of rare value. The appearance of the islands coincides with the disappearance of [[Characters#Lhoris|Lhoris]] from Motlier, as he is responsible for hiding the items on the islands. However, his unstable magic caused the influence of the items to spread and infect the land around them, which is why each island reflects the item it houses in some way.
-- Shattered Bog
-	- A marshy bog criss crossed with green, slimy waters, giving the land its shattered look. It's the only island inhabited by intelligent life, with swamp hags forming from the bog waters itself. The artifact is known as Mossmire Staff, a gnarled staff covered in moss that seeps with slimy, putrid smelling acid from the three rounded knots at the top.
-- Planar Beach
-	- An endless beach full of strange planar rifts that cause unpredictable events the closer one gets to the artifact. The fabric of reality bends and shifts, causing the existence of other planes to bleed into the one on the beach. The item is known as the Ethereal Gaze, a set of glasses that allows the wearer to see across large distances, into other planes and even through objects, but only one at a time.
-- Crystal Mountain
-	- A tall mountain with cave entrance at the very top. The entire inside of the mountain is made of multihued crystals, with a stairway circling down the mountains center leading to the artifact. The artifact is known as the Ring of Prismorphism, a ring of crystal that grows into a thin but hard armor shell around the body.
-- Blueglow Jungle
-	- Bioluminescent jungle full of glowing plant and wildlife. The island is pitch black otherwise, making the plants and creatures appear to exist in an inky void. The artifact is known as the Lumismic, a glass prism that houses a cloud of luminescent mist. It can change colors and form rudimentary shapes within based off of the desires of the wielder. Its light shines in all forms of darkness.
-- Fearspire
-	- An imposing tower seemingly made out of darkness itself rising from the water. The waters around the water are perfectly still, devoid of current and covered in a thick, grey fog. Anyone attempting to get to the island without the artifacts from the other islands will continuously be turned around and unable to reach the spire. The Fearspire houses an illusionary double of [[Characters#Lhoris|Lhoris]], instructed to give the players [[Items-and-Vegetations#^cc2787|Naruvi's Orb]] and reveal his location.
-
-## Homebrew Campaign Locations
-
-The following are notes on locations I have used in my 5th Edition D&D Homebrew campaign. You can find the narrative design document for the campaign [[Example-Flow|here]].
-<!--
-### Motlier
-
-*A quick forward on Motlier: Motlier started as a town for my larger campaign and eventually I spent a little more time with it and turned it into a fully fleshed out town that a DM could add to their campaign with a One-Shot for those days when you just need some buffer. It can be found [[Motlier-One-Off|here]].*
-
-Motlier is a lumber town in the Stormsong Peaks, providing timber and building materials to the nearby cities of Fairhaven and Caidour in exchange for Caidour's minerals/ore and Fairhaven crops.
-- The town of Motlier contains the following:
-    - Red Manner - Mayors House ^eea8d7
-        - Made of the Crimson Trees that grew where the town now stands.
-    - Futhar's Steel - Blacksmith ^db5cdf
-        - Has a display case of staffs he's carved from the Guardian Redwoods that surround the lumber yard.
-    - Boars Head Tavern - Inn and Tavern Combo, with a stable attached for the frequent merchants. ^90781b
-        - The bar is made of a wood dark as obsidian, with no discernible lines or knots. No one knows where it was harvested, as no trees in the entire region possess black wood.
-    - Alice's General Shop - supply store for travelers ^20aea8
-        - Contains a secret basement where [[Characters#Alice Rivershield|Alice]] stores her treasures from her travels. She only shows it to those who are worthy and wealthy
-    - Blade and Twine - a butcher shop ^37acc0
-        - Contains a room enchanted with permafrost by one of the original mages of Caidour.
-    - Motlier Timbermill- run by [[Characters#Futhar Stonebeard|Futhar]] as well as some of the local men.  ^150774
-        - The lumber yard is magic, with the trees growing back at the end of every moon cycle.
-	- Surefoot Cobbles - Home and shop of a cobbler named [[Characters#Tiberius (Tib) Silverfoot|Tib]]
-        - Supplies shoes to all the people and horses in the area; Has a special boots made from goblin hide ^69f8d0
-
-
-### Fairhaven
-
-A farming settlement at the base of the Stormsong Peaks, blessed by The Great Mother. The farm land yields crops that make it through even the harshest of winters and droughts and never suffer from any sort of infestation or disease. Anything that is planted will grow in abundance all the way to the borders of the town.
-
-One of the most notable parts of Fairhaven is the lush thicket that grows along the northern borders. Rich, sweet blackberries the size of a babies fists grow in abundance among the thicket. Kore uses this to produce a sweet berry mead that is highly sought after in cities around the continent.
-- The Wanton Minstrel
-	- A modest adventurer's tavern, managed by a retired adventuring couple who play music every night.
-		- Kore will request a fresh carcass of meat be brought to the outskirts of town in exchange for free food and lodging. She won't say why.
-		- Percy wants some herbs found near a kobold camp to preform a ritual to renew their soil, is willing to pay 5 gold or permanent free drinks/lodging at the inn
-			- Kobold camp is near the "abandoned" Fort Walker, and was made by Yara to catch any unwanted visitors. Kobolds are 50/50 on their loyalty to The Violet Ravens
-- Sabenn's Masonry
-	- The workshop of a female human stonemason named Sabenn, known for her weirdly specific knowledge of giants.
-	- Wants to live in Caidour studying the rare ore mined from the Stormsong Peaks but was denied due to her elvish features
-	- Sabenn will speak of the remnants of a giant village in the far north. If players show interest, she'll mention some runes depicting a story that she couldn't decipher. It's a sore spot for her.
-	- Will mention that she thought to ask someone named [[Yara]] to help her get the job in Caidour but decided she wants to be let in on her merits or not at all. She met [[Yara]] near the old, "abandoned" Fort Walker
-- Boltrof Estate
-	- Large farmhouse where [[Boltrof]] lives
-	- [[Boltrof]] will request the players take a missive to Caidour requesting the presence of one of their mages to asses the farm grounds, and informing them of bandits attacking merchants and stealing goods along the roads
-- Fairhaven Farming Grounds
-	- Farm run primarily by [[Thomas]] and his boy [[Henry]]
-	- Is currently struggling as the soil is infested with a black, slime type substance
--->
+## Towns and Cities
 
 ### Caidour
 
-Caidour is a large mining town built into the Stormsong Peaks that leads into the Gwallian Pass. It is governed by a council made up of the heads of two noble families, the foreman who oversees the mines, the head of trade, the regions mage and two members of the Golden Owl Merchants guild. All important matters happening at the base of the Stormsong Peaks are overheard and ruled upon by the council. They also oversee the economic growth of the region, and control the exports and imports of goods through the Gwallian Pass
-- The House of Coprasos is a large timber and brick theater, known for its week-long Dwarven epics. It's a big attraction during the Solstice Festivals and draws a large crowd from all over the southern half of the continent.
-- Iron Woman Armorer is a shop that makes custom armor that is both functional and fashionable. It is run by an old, retired character of mine named [[Characters#Azaela|Azaela]].
-- Celestial Hammers is a blacksmith shop run by [[Ugmal]], who is a retired paladin.
-- The Drunken Pick is a Tavern in central district geared towards travelers and merchants, run by [[Thallda]], who is very short with people.
-    - Has a monopoly on Black Diamond Ale
-- Black Diamond Brewery produces the elusive Black Diamond Ale, a highly addictive and intoxicating brew created by [[Gredga]]
-    - [[Gredga]] puts powdered mushrooms that grow deep into the forbidden caverns into her ale, which gives it the addictive quality. Recently she's been experimenting with the multi-colored mushrooms that have begun sprouting in the caverns, which means any magic users that drink a new brew will find themselves magically impotent while the ale is in their system.
-- Sleepy Miners Inn is the other major competitor for Inns, boasting better rooms and nicer beds but not as good food, and especially bad ale. Run by [[Notch]]
-    - [[Notch]] will request players somehow secure him cask of [[Gredga]]'s Black Diamond Ale. He doesn't care what has to be done, and is willing to turn a blind eye to any mischief as long as he gets a crate of the ale OR the recipe.
-- Tinker Tricks and Curiosities is a shop of strange artifacts, toys, and general curiosities by [[Bumela]], a human mage who loves strange things.
+A large mining town built into the Stormsong Peaks, Caidour stands at one of the four largest cities across the continent, and the source of power in the northern realm. All important matters happening within the region are overheard and ruled upon by the council, which is comprised of seven leaders within the city.
 
-### Temple of Alva
+#### Black Diamond Brewery and Inn
+Known for its elusive Black Diamond ale, a brew known to empty pockets and fog minds created by the owner, Gredga. The establishment itself leaves much to be desired, with fleas in the straw pallets and chairs that have splinters sharp as a blade. The addictive nature of the ale is the only thing keeping it in business, and result in it being one of the most frequented pubs in the region.
 
-Hidden in the cavern beneath the ruins in Motlier behind a illusory wall. The temple, untouched by time, everything pristine with not a spec of dust or dirt. Two braziers glow with a white fire that offers no heat. On the wall is a large mural that depicts a woman wrapped in robes flowing down from the moon on her left and the sun on her right. Her arms extend outward, each hand hovering under the depictions of sun and moon as if to weigh their importance in her grasp. A small alter rests at her feet, in between the dual brazers. The stone atop the alter glows faintly with a blue light.
+#### The Dancing Pick
+Another tavern and inn on the main level, this is the only other place one can find Black Diamond ale but at a steep up charge. Located near the East gate, the rooms here are more comfortable and -perhaps more importantly- clean and bug free. The owner Thalldah tends snap at travelers like a feral cat, but her food has a way of making one beg for seconds. During the solstice festivals, a famous traveling music trope plays every night from dusk till dawn.
 
-### Glistening Shallows
+#### The Sleepy Miners Inn
+The Sleepy Miners inn has the unfortunate luck to be located not only on the lower level, but near smoldering heat of the furnaces. Despite boasting the nicest rooms in the region, most travelers never even discover this inn even exists. One may be able to get a good night's rest in the homey rooms, but the owner Notch simply cannot compete with the likes of Black Diamond Ale. Especially as his own brew has been known to carry unfortunate side effects.
 
-A set of six legendary hot springs across the continent. Each hot spring has a three to four story tall white stone tower where a sect of monks live and tend to the springs. The waters of the springs have the ability to cleanse all magic from whatever baths within it, including items one might wear. The monks guard the springs fiercely, but also will allow those who are truly good in their heart and in great need to rest in the waters.
+#### Celestial Hammers
+Run by retired paladin Ugmaul, Celestial Hammers is *the* place to go for a custom weapon. While she does carry a basic inventory, the real draw is her ability to read a person and craft a weapon especially to them. Some even say that she has a bit of a psychic gift, crafting weapons that end up being life saving in the strangest situations.
 
-<!--
-### Fort Walker
+Her workshop is on the lower level, near the smelting furnaces, but she has a showroom on the main level along the north western edge that her apprentice runs three days a week. The two of them also offer basic weapons training for free once a month, helping to equip all with the priceless gift of saving themselves.
 
-A once abandoned fortress consisting of four towers connected by walls, a narrow main building, and a courtyard. The walls are patrolled and the windows of the towers usually have a set of two archers, one at the higher window, one at the lower. The fort, presumed to be abandoned, is home to a local contingent of the Violet Ravens. Fort Walker is one of many such forts across the continent, all housing a different contingent of the Violet Ravens.
--->
+#### Tinkering, Tricks and Curiosities
+An eccentric looking shop that seems to be made of various chunks of wood and metal stitched together with a confusing kind of logic and attached to the south eastern wall on the main floor. Despite the different materials, it gives off a sense of charm with colorful nicknacks set in the multitude of little glass windows all over the shop. Two gems set into the stone on either side of the door glow faintly, and a variety of flowers and clover grows out from them in a mini garden, forming a perfect semi-circle of about fifteen feet in diameter from the shop's door. The inside looks like an unorganized mess of hanging bits and bobs, metal casing with springs and gears sticking out, and one very odd dwarf named Bumela bumbling about the confined quarters.
 
-## Novel Locations
+#### Iron Woman Armorer
+Set away from the walls and closer to the bustling market, the Iron Woman Armorer is one of the few permanent fixtures of the merchants row, a building of timber with large sheets of glass giving outsiders a view of extravagant displays of armor in action. Azaela, the owner and designer, is an Azmodian Tiefling with wings painted with wild patterns and dressed in colorful leathers with sharp, metal accents. Her armor is known throughout all major hubs in the continent for being as fashionable as it is effective. A custom set of armor by her is known to increase survivability by up to fifteen percent on even the most foolhardy of missions and is, of course, stylish to boot. However, given her notability, a full set can cost upwards of 50 platinum pieces.
 
-*Below are a few locations I've created for my novels.*
-### Fleece
+#### House of Zultor
+A playhouse and amphitheater known for its week long Dwarven epics, the House of Zultor is located in the upper level on the north eastern wall. Carved at a downward angle into the wall are rows of seating and steps leading down to a circular dais filled with pipes and gears that allow the actors to perform intricate illusions during their performances. Behind the stage is the playhouse itself, with balconies and walkways used during performances. A hidden entrance further along the east allows actors and stage hands to enter the backrooms, used to store costumes and props and as a dressing area for the actors. Performances are held once per season, and run anywhere from two days to a full week. They often center around the life stories of the greatest heroes in Dwarven and Gnomish history. When not in use by the performers, the area doubles as a place for speeches given by council members and town hall events for important members of the region.
 
-A nomadic town of thieves and outlaws in the Farwood, run by an old, retired mercenary named Cain. It consists mostly of about ten to twenty residents half of which remain in the camp. After the start of the war with King Cairac, Fleece grows rather large as it doubles as a camp for refugees fleeing from the war. Given it's size, it would be impossible to hide without the use of fey runes placed by a Shadow named Ashier. The runes hide the noise and sight of the camp. Any who step into the borders of the camp without accompaniment of Ashier is teleported to the other side of the camp. 
+#### Caidour City Hall
+Caidour's City Hall is a sprawling complex built into the northern side of the upper level. It consists of multiple sections dedicated to various aspects of running, among the most important are the High Mage's Study, the Treasury, The Records Department, and The Deep Deliberate.
 
-### Tree of Duality
+##### High Mages Study
+Dug upwards into the mountain, into a hollow near the peak. A set of lifts using enchanted gems mined from within the mountain make getting up to the peak quick, but require a High Mage to activate them.
+##### Treasury
+The treasury is the second deepest location in the mountain, stopping just short of the The Deep Deliberate. The vault within contains the bulk of the regions wealth, managed by both Alkif Nightwalker and Sigva Proudspear. Admittance requires traversing a complex maze with multiple locked gates to enter, plus both the Nightwalker and Proudspear keys.
+##### Records Department
+Stooped, ink stained and perpetually smelling of candle wax, the Records Department is run by Yusef. He is responsible for maintaining the family ancestries of the original families and keeping detailed accounts of all the businesses and guilds operating in the city. All who desire permanent residence within the city, or the rights to open a shop, must first obtain a signed writ from Yusef.
+##### The Deep Deliberate
+A grand hall set into the deepest reaches of the mountain, it contains towering statues of the original council members. Carved in stark relief, their stern gaze face the high table where the council deliberates. The weight of the city above rests on their stone shoulders, an ever present reminder of the council's obligations to those above.
 
-Two trees that sprouted from the single seed of the world. The tree grew to cover the world, a network of roots criss crossing across the entire planet. The trees began as the same sprout, separating at the trunk as they grew before rejoining into a single tree in a tangle of branches at the top. This forms a perfect circle in the center, which is where the First Oraci draws forth Shades as well as her fellow sister Oraci. The trees themselves are a representation of the balance in the world, the left tree a pristine white bark, smooth like marble with golden, smooth edged leaves. The right side is jet black with rough bark and gnarled knots, with silver three pronged leaves with serrated edges.
+#### Crystal Gardens
+Encircling the entrance to the City Hall is an intricate garden of rare cave flowers, squat trees made of blown glass and crystalline statues. Each plant was brought forth as a gift from the affluent nobles and the other High Mages across the continent, a tradition the Proudspear family returns with the rare riches within the Stormsong Peaks. A river of twinkling lights runs through the garden, a gift by the former High Mage of the Dawning Citadel. The lights shift to reflect the approaching weather across the region, glowing brightly with sunny days ahead and darkening to a slate grey with encroaching storms.
 
-### Whitebark Bog
+#### Mineral Library
+The Mineral Library of Caidour is one of the four great sources of knowledge on the continent. Spanning all three levels and stretching deep into the mountainside, the Mineral Library possesses at least one of every known earthen material on the continent, and even some from other planes. It is run by the Stone Maidens, caretakers of the minerals and houses of knowledge on all things earth. Merely by holding a stone, they can give you a detailed accounting on the purity, physical and mystical properties, and the history of the stone. This comes after a lifetime of harsh training, and often results in the dulling of other senses. Some of the older Stone Maiden's are fully blind and deaf, only able to traverse the library through memory and a unique ability to feel the changes in the stones through their hands and feet.
 
-Whitebark Bog is a dangerous area on the South Western edge of the Farwood. It's filled with perpetual white fog and has a disorienting air to it. What little plant life grows consists of spindly thorny trees, devoid of leaves with a smooth white bark. It is said that those who venture too close to the bog are drawn in by ghosts of lovers long past, tortured with watching their pale visage always just out of reach.
+### Motlier
+*The full details of Motlier can be found on DMs Guild.*
+#### Alice's General Shop
+Alice is the only person in all of Motlier who has explored the world outside the immediate region. She spent the entirety of her youth traveling the continent, and has amassed a small fortune thanks to some odd jobs she ran. Her general store is mostly stocked for the townsfolk, but she does have the basic necessities for adventurers and merchants that pass through town. Tucked away in the basement is where the real goods lie, stashed away for those who she thinks have that special something that makes for a good adventurer- and the gold to afford it.
+
+#### Futhar's Steele
+Futhar sells three types of things: building materials, basic weapons, and to the people he likes, wooden staves. He likes to joke that steel is his trade, but wood is his passion, which you can clearly see in the detail of his work. He can carve anything with great detail into a staff, and has been known to take the occasional commission. Being as busy as he is, he only has two or three available to sell at any given moment, but is happy to share in his knowledge of the craft at any opportunity.
+
+That being said, his work comes at a hefty costs. People travel from all over hoping to win favor with him in order to buy one of his masterpieces. If the players are judged to be good, moral people, he will happily sell one of two staves. The first is of a pale wood with the head of a fox carved into the top. Where the hand naturally goes to grasp it, he's carved a grip by adding twisting ridges. Molten silver paints the head to accentuate the foxes natural coloring. The second is a dark wood, polished and dyed to look nearly black. The top twists and turns like gnarled branches to form a inverted dome, clearly made to hold a crystal or orb within. Gold flecks mingle with the dye, causing it to shimmer in the light. Pearl designs carved along the top and bottom of the ridges add a unique flare to the grip.
+
+All staves come with a note marking it as one of his, which can be used as a way to curry favor with the High Mage of Caidour. If a staff made by Futhar is brought before the High Mage, they will bestow an enchantment to ensure it withstands the trials of battle.
+
+## The Nether Isles: A Race for Ascension
+*Zokar's apostles hunt the realm for the lost relics of the gods. Each tied to a former deity's ascension, one on the cusp of godhood must consume the arcane from each holy relic. Lhoris, the initiate that escaped, makes a risky gambit. Stealing the five artifacts, he uses the last of his power to seal them away on five islands hidden among different realms.*
+
+*But his body weakens, his power still tied to the insatiable hunger of the Myconid, and creates an unstable rift. The islands are drawn into a single place, appearing along the continent's southern coast. The rifts, combined with the immense power of the relics, warp the islands. They now infect the land they inhabit, warping it to reflect the deific power.
+
+*In his weakened state, he must seek out the aid of a chosen few to find these relics and bring them to him. Once gathered, the energies can be reforged into a weapon to stop the ascension and end Zokar's hunger once and for all.*
+
+#### Shattered Bog
+ Like a fetid pustule crisscrossed with sickly green veins, the Shattered Bog is a marshy swamp with soft soil and slimy waters. It's the only island inhabited by intelligent life, with swamp hags forming from the bog waters themselves. The artifact is known as Mossmire Staff, a gnarled staff covered in moss that seeps with slimy, putrid-smelling acid from the three rounded knots at the top.
+
+#### Planar Beach
+The fabric of reality bends along an endless beach. Planar rifts bleed into one another, causing unpredictable events and distorted physics the closer one gets to the artifact: The Ethereal Gaze. A set of overlapping lenses rests on the withered skull with eight eye sockets. It allows the wearer to see across large distances, into other planes and even through objects, but only one at a time.
+
+#### Fractured Mountain
+Towering above the clouds, a single mountain dominates the island's surface, made entirely of multihued crystal with a single entrance at its peak. A stairway circles endlessly down the center of the mountain, leading to the artifact nestled within the mountain's heart. The Ring of Prismorphism is known to grant unparalleled protection, saving the wearer from death's blow. However, removing the indestructible armor is a feat none have managed to accomplish short of death.
+
+#### Lumine Jungle
+Wreathed in a nearly oppressive inky darkness, this island is home to an alien variety of glowing life. Plants and jungle creatures offer the only light on the island, glowing with a hypnotic bioluminescence. Lumismic, the artifact found deep within the illuminated jungle, is a glass prism that houses a cloud of luminescent mist. Swirling, shifting, the mist is nearly lifelike in its ability to change based on the wielder's moods. Its light forever shines in all forms of darkness.
+
+#### Fearspire
+An imposing tower seemingly made of darkness itself, it rises directly from the ocean's surface. The waters around the spire are perfectly still, devoid of current and covered in a thick, grey fog. All who attempt to approach the tower are lost, trapped within the fog. The path through the eerie waters lies with those who hold the remaining keys to godhood. At the tip of the tower, an illusionary double of Lhoris awaits the chosen champions with the last of the artifacts: Naruvi's Orb, a conduit for great arcane powers. If used by evil minds, it could consume great swaths of the magic blanketing the continent. It is the final key to Zokar's ascension.

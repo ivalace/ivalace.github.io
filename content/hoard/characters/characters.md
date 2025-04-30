@@ -4,6 +4,8 @@ order = 1
 +++
 
 *What is a world without people to fill it?*
+
+---
 # Campaign Characters
 
 ## The Heart of Motlier
@@ -47,22 +49,3 @@ Her most important and precious possession is the goggles gifted by the genie th
 She carries a belt around the waist and a sash across her chest that contains several spools of thread in various colors and vials of dye. A pouch of needles in various sizes sits where the hilt of a dagger would rest. Her gloves are tipped in shiny metal claws painted a bright shade of yellow mixed with flecks of gold foil. Her patent adventuring boots have a stiletto heel that folds upwards into the sole of the shoe in order to make traversing difficult terrain easier. She repurposed the ring that holds the genie into an earring that hangs from her left ear, along with several other dangling chains and a few spiked rings. Her other ear sports an earring made from a baby owlbear's feather. She refuses to speak of how she got such a feather.
 
 She's a Tiefling of the Fierna Bloodline. The bright red skin of her hands and knees are covered with a lattice work of scars, remnants of her time blindly scraping her way through cobbled streets. While manning her shop, she keeps her two large wings painted to resemble some new and interesting creature seen on her travels. Her hair is a thick and curly purple, woven with colorful threads.
-
-# Novel
-
-## Of Shadows Sight
-*Prophecy named her Champion. She chose vengeance instead.*
-
-### Aelyth
-
-Growing up believing herself to be a child of prophecy, Aelyth was a wild and untamed child. Her raw talent bordered on supernatural, and her uncanny ability to always get out of trouble only enforced the belief that she was special. Child of destiny, the last prophecy of the Oraci. Until one fateful night, destiny crumbles under the blinding light of grief and despair. The loss of her best friend and the love of her life breaks the willful, stubborn warrior leaving behind a scared little girl who runs.
-
-But she can't outrun time. The day of prophecy arrives and with it, the razing of her village. She returns to find her people dead, homes burned, blackened, the smoldering arms of her parents open wide to welcome her home. Prophecy cared not for the weight of her failure. It bids her to rise, and she obeys. The first of her gifts unlock as she takes a sword to the gut, Deathsight granting her the chance for revenge.
-
-The first of her powers, Deathsight, grants her the gift to cheat death but with a heavy price. A moment suspended in time, she experiences the world first bleeding of color and then the blow itself. Slow, agonizing, she feels every prolonged second of her death until she draws her last breath. With the next gasp of life, color rushes back into razor sharp focus and she has a moment for her battle instincts to kick in and dodge the blow. Only through years of training does she learn to use the visions to her benefit, ignoring the pain and formulating how to not just dodge *but counter*.
-
-Later, under the training of another with a similar ability, she discovers her second gift: Shadowstep. The power to bend darkness to her, wrapping it around herself in order to create a portal into the realm of the Shades. Those who have found their way here are haunted, driven mad by the original Shade before being spat out across the continent. But this realm is as much her birthright as is the future. Through her training she learns to travel this strange, twisted echo of reality instead of merely using it as a gateway from one shadow to the next as her master does. It grants her the ability to live echoes of the past, as well as hide from her enemies, ambushing them when the fires go dark.
-
-Armed with her birthright, she wreaks havoc on the soldiers who stole everything from her, hellbent on murdering the king who ordered it. She finds herself unwittingly becoming exactly what the prophecy demands, even as she rejects the call of her true heritage: A child of the Mother Oraci and the Original Shadow.
-
-Hers is a story about the cost of prophecy, and those who are chosen by its cruel hand. Through her tale she grapples with what is right and what is foretold, balancing her thirst for vengeance with her desire to defend the place she learns to call home. What it means to be born the only one of your kind, forever torn between the light of the future and the shadows of the past.
