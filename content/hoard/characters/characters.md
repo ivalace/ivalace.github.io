@@ -3,7 +3,7 @@ title = "Characters"
 order = 1
 +++
 
-*What is a world without people to fill it?*
+*Because a hyper uniform population isn't all that interesting.*
 
 ---
 # Campaign Characters

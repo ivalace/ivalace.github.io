@@ -1,70 +1,32 @@
 +++
 title = "Locations"
-order = 3
+order = 2
 +++
 
-
-*Worlds are shaped from our perceptions, and the actions of those that came before us..*
+*Because no one wants to travel through yet another generic forest.*
 
 ---
-## Regional Wonders
-### Wedgerock Cove
+## The Nether Isles: A Race for Ascension
+*Zokar's apostles hunt the realm for the lost relics of the gods. Each tied to a former deity's ascension, one on the cusp of godhood must consume the arcane from each holy relic. Lhoris, the initiate that escaped, makes a risky gambit. Stealing the five artifacts, he uses the last of his power to seal them away on five islands hidden among different realms.*
 
-Wedgerock Cove is a bustling trading hub, home to the Fairwind Merchants’ Guildhall—a collective of tradesmen and ship captains dealing in luxury goods like silks, spices, and fine jewels. While most of the cove's inhabitants are upstanding citizens, a few crooked merchants have found their way into the guild's officers' positions. Hidden among the silks and spices, forbidden goods and insidious secrets flow through the cove unnoticed. Tensions simmer beneath the cove's polished surface, and the residents are beginning to feel the unsavory nature of such deals threatening their luxuries.
+*But his body weakens, his power still tied to the insatiable hunger of the Myconid, and creates an unstable rift. The islands are drawn into a single place, appearing along the continent's southern coast. The rifts, combined with the immense power of the relics, warp the islands. They now infect the land they inhabit, warping it to reflect the deific power.
 
-The layout of the cove is one of the continent’s most intriguing feats of natural architecture. It forms an inverted wedge along the eastern coastline, as if some monstrous force had ripped the ocean floor upwards some seventy meters through the rock, leaving a jagged scar in its wake.
+*In his weakened state, he must seek out the aid of a chosen few to find these relics and bring them to him. Once gathered, the energies can be reforged into a weapon to stop the ascension and end Zokar's hunger once and for all.*
 
-Colorful buildings hang from the cove's ceiling, shaped like birdcages with circular flat bottoms and domed tops. The smell of ocean brine mingles with the rich scent of spices from the trade ports below. Sturdy wooden bridges serve as walkways connecting the buildings, the once intricate carvings worn down from the humid wind. Some of the less extravagant buildings are bolted to the rocky surface of the cove's walls, with narrow stairs and creaking lifts to carry goods from the ships docked below.
+#### Shattered Bog
+ Like a fetid pustule crisscrossed with sickly green veins, the Shattered Bog is a marshy swamp with soft soil and slimy waters. It's the only island inhabited by intelligent life, with swamp hags forming from the bog waters themselves. The artifact is known as Mossmire Staff, a gnarled staff covered in moss that seeps with slimy, putrid-smelling acid from the three rounded knots at the top.
 
-Notable Landmark: Carved directly from the stone in the deepest part of the wedge, the Fairwind Merchants' Guildhall is an intriguing feat of architecture. Curiously monolithic compared to the rest of the cove's colorful structures, it serves as both the main office and bank for all of its merchants. Three interlocking diamond-shaped buildings varied in size are cut from the stone, the smallest of which is at the base. Serving as the main entrance, the lower floor contains nothing more than a desk and a single gatekeeper. If one can prove their worth, by rank or by coin, they may travel up to the higher levels whose sizes are reflective of their importance.
+#### Planar Beach
+The fabric of reality bends along an endless beach. Planar rifts bleed into one another, causing unpredictable events and distorted physics the closer one gets to the artifact: The Ethereal Gaze. A set of overlapping lenses rests on the withered skull with eight eye sockets. It allows the wearer to see across large distances, into other planes and even through objects, but only one at a time.
 
-Hook for GMs: Despite the cove’s affluent clientele, a rougher crowd lingers around the shops. The sharp scent of fear hangs in the salty air, and the people of the cove nervously avoid the players' eyes. A pirate captain working with one of the crooked merchants plots in a ship anchored further along the shore, his crew quietly scouting the cove’s defenses in preparation for a daring raid.
+#### Fractured Mountain
+Towering above the clouds, a single mountain dominates the island's surface, made entirely of multihued crystal with a single entrance at its peak. A stairway circles endlessly down the center of the mountain, leading to the artifact nestled within the mountain's heart. The Ring of Prismorphism is known to grant unparalleled protection, saving the wearer from death's blow. However, removing the indestructible armor is a feat none have managed to accomplish short of death.
 
-### Azure Grove 
+#### Lumine Jungle
+Wreathed in a nearly oppressive inky darkness, this island is home to an alien variety of glowing life. Plants and jungle creatures offer the only light on the island, glowing with a hypnotic bioluminescence. Lumismic, the artifact found deep within the illuminated jungle, is a glass prism that houses a cloud of luminescent mist. Swirling, shifting, the mist is nearly lifelike in its ability to change based on the wielder's moods. Its light forever shines in all forms of darkness.
 
-Azure Grove is a serene oasis along the rocky ocean shore. Fields of blue grass grow among the sand, broken up by tide pools filled with colorful creatures. The cool ocean breeze brings lazy waves to lap at the shore, carrying sea foam-colored algae. The druids live in huts among the blue grass made with reeds from a nearby estuary. They derive healing remedies from the algae in the tide pools and trade them with a local fishing village. In exchange, the village ensures that the corals are not overfished.
-
-Notable Landmark: The grove appears no different from any other at first glance. Only those who gain the village's trust are allowed to see the true beauty the druids protect: a brilliant forest of rainbow coral thriving beneath the ocean's surface, and home to some species unknown to the rest of the realm.
-
-Hook for GMs: A sickness seeps through the reef, painting the algae with an oil-slick opalescence. This was no mere act of nature. Someone, or *something*, has poisoned the grove, spreading a sickness that suspiciously only affects the druids.
-
-### Ruins of the Dawning Citadel
-
-Buried deep in the earth and kept away from the harsh duality of morals, the Dawning Citadel is one of the few places where all studies of the arcane were encouraged. A place of great scientific advancement, the citadel attracted any and all people who sought the betterment of the world through their experiments. The citadel's blurred morals made it a haven for necromancers. Most came driven by a hunger for knowledge, but a select few harbored darker urges. One such necromancer hid his motives just long enough for his experiment to go horribly wrong.
-
-In a single explosion of necrotic magic, the entire citadel was buried in a mass grave, ripping the souls from the inhabitants and trapping them in a single gem. The ruins are filled with tens of thousands of slowly decaying corpses, preserved in eerie detail in the exact moment of their death. Trapped in the aftershocks of the necromancer's failed experiment, their eyes follow the players as they move through the citadel. The only thing keeping the horde at bay is a counter artifact hidden somewhere in the citadel. A simple lantern crafted by a holy cleric to keep the darkness contained.
-
-Because of the unstable nature of the curse still rippling through the citadel, players must use extreme caution if they wish to remove either artifact. If the lantern goes dark, or the gem is removed before being purified, an army of mindless undead would be freed, driven by a single directive: kill.
-
-Notable Landmark: Once a masterful blend of Dwarven masonry and scholastic ingenuity, the Dawning Citadel now lies in ruin. Its once grand halls and carved towers have crumbled into hollow echoes of the citadel's former glory. Only two wonders remain: the ten thousand corpses of the citadel's powerful inhabitants, and the strange crystals jutting from their skulls.
-
-Hook for GMs: Whispers coil through the magic circles of the surface: the ruins of the Dawning Citadel have been found. No proof, just tales. But to those who listen closely, tales can become trails. And riches are never free.
-
-### Blitelands
-
-Along the far, eastern edge of the continent stands a single, gleaming tower among a ravaged land. Once home to an order of paladins, the Blitelands are the desecrated remains of their war against Death's cult. Though the paladins won the battle, Death struck the final blow. In an act of spite, his Champion cursed the land to rot in a state of eternal decay. The entire order fell, the land forever fetid with the festering corpses of both sides. Only the tower remains, a beacon of light among a blighted land.
-
-It is a place of pilgrimage for paladins, where oaths are tested against the tragic cost of holy wars. Those who survive the land's corrupting touch and hold fast to their vows are granted an audience with the ghostly specter of Doxthor Shieldfang, head of the paladin order. He remains trapped within the tower, willingly forsaking the afterlife in order to bind his soul to the tainted land.
-
-Ever the paladin, Doxthor sacrificed his soul to keep the blight contained, forever a lone sentinel guarding the realm from death.
-
-Notable Landmark: Standing tall at the center of the Blitelands is the last remaining structure of the Shieldfang Keep. Walls crumble on either side of the base, the only evidence that there was ever more to this singular tower. Pristine white stone rises high and unbroken, topped with a cone of glass. Blue and green mosaic art depict the order's Coat of Arms as well as the holy symbol for the Goddess they serve.
-
-Hook for GMs: Recent reports from the holy cities across the continent all share a disturbing fact: paladins have not been returning from their pilgrimage. The weaker of the orders have been known to forsake their oaths when confronted with the true cost of war. However, ripples of unease begin to spread through the veterans of the order when even the truest of souls don't return. Frantic generals fear the blight grows stronger while the braver youth confront the unthinkable: Is the danger the guardian within?
-
-### Nightdust Desert
-
-Spread across a vast swath of the southern shore, the Nightdust Desert glitters with sand black as night. Strange crystalline plants cut through the midnight dunes, glowing hands stretched out in silent worship. When one is touched, the rest begin to hum with a pure melody that echoes across the landscape. The days are frigid, despite the hot sun beating down on the land. The nights, however, are temperate and balmy, warmed by the strange breath of the desert's living flora.
-
-Two settlements inhabit this alien landscape, living in an uneasy harmony. The first is a tribal sect of Lizardfolk. Worshipers of the moon, they live in communal burrows beneath the sands during the day to preserve their warmth, only emerging once the sun has set. Due to their cold-blooded nature, the young struggle with the fully nocturnal habits of the clan. They spend the nights sifting the sands for moonstones in the rockier parts of the desert near the shore.
-
-The second settlement is new to the desert, erecting a small base on the surface. Made up entirely of researchers, this group has come to study the strange structure of the plant life. The expedition was funded by a retired adventurer, who in his old age has become obsessed with the idea of a keep spun from the rarest materials in the realm.
-
-No matter the cost.
-
-Notable Landmark: Among the desert's crystalline plant life, one tree stands out. Its size and shape are unremarkable, but the strange offerings adorning it draw curious eyes. Silvery scales hang from the branches, clinking faintly in the warm, night-born breeze.
-
-Hook for GMs: Despite their mundane appearance, arcanists among the researchers believe the stones in the Nightdust Desert hold more than spiritual significance. They amplify magic in wondrous yet unpredictable ways. The other researchers urge caution, for the local tribe does not suffer those who abuse the gifts of the moon.
+#### Fearspire
+An imposing tower seemingly made of darkness itself, it rises directly from the ocean's surface. The waters around the spire are perfectly still, devoid of current and covered in a thick, grey fog. All who attempt to approach the tower are lost, trapped within the fog. The path through the eerie waters lies with those who hold the remaining keys to godhood. At the tip of the tower, an illusionary double of Lhoris awaits the chosen champions with the last of the artifacts: Naruvi's Orb, a conduit for great arcane powers. If used by evil minds, it could consume great swaths of the magic blanketing the continent. It is the final key to Zokar's ascension.
 
 ## Towns and Cities
 
@@ -125,24 +87,62 @@ That being said, his work comes at a hefty costs. People travel from all over ho
 
 All staves come with a note marking it as one of his, which can be used as a way to curry favor with the High Mage of Caidour. If a staff made by Futhar is brought before the High Mage, they will bestow an enchantment to ensure it withstands the trials of battle.
 
-## The Nether Isles: A Race for Ascension
-*Zokar's apostles hunt the realm for the lost relics of the gods. Each tied to a former deity's ascension, one on the cusp of godhood must consume the arcane from each holy relic. Lhoris, the initiate that escaped, makes a risky gambit. Stealing the five artifacts, he uses the last of his power to seal them away on five islands hidden among different realms.*
+## Regional Wonders
 
-*But his body weakens, his power still tied to the insatiable hunger of the Myconid, and creates an unstable rift. The islands are drawn into a single place, appearing along the continent's southern coast. The rifts, combined with the immense power of the relics, warp the islands. They now infect the land they inhabit, warping it to reflect the deific power.
+### Ruins of the Dawning Citadel
 
-*In his weakened state, he must seek out the aid of a chosen few to find these relics and bring them to him. Once gathered, the energies can be reforged into a weapon to stop the ascension and end Zokar's hunger once and for all.*
+Buried deep in the earth and kept away from the harsh duality of morals, the Dawning Citadel is one of the few places where all studies of the arcane were encouraged. A place of great scientific advancement, the citadel attracted any and all people who sought the betterment of the world through their experiments. The citadel's blurred morals made it a haven for necromancers. Most came driven by a hunger for knowledge, but a select few harbored darker urges. One such necromancer hid his motives just long enough for his experiment to go horribly wrong.
 
-#### Shattered Bog
- Like a fetid pustule crisscrossed with sickly green veins, the Shattered Bog is a marshy swamp with soft soil and slimy waters. It's the only island inhabited by intelligent life, with swamp hags forming from the bog waters themselves. The artifact is known as Mossmire Staff, a gnarled staff covered in moss that seeps with slimy, putrid-smelling acid from the three rounded knots at the top.
+In a single explosion of necrotic magic, the entire citadel was buried in a mass grave, ripping the souls from the inhabitants and trapping them in a single gem. The ruins are filled with tens of thousands of slowly decaying corpses, preserved in eerie detail in the exact moment of their death. Trapped in the aftershocks of the necromancer's failed experiment, their eyes follow the players as they move through the citadel. The only thing keeping the horde at bay is a counter artifact hidden somewhere in the citadel. A simple lantern crafted by a holy cleric to keep the darkness contained.
 
-#### Planar Beach
-The fabric of reality bends along an endless beach. Planar rifts bleed into one another, causing unpredictable events and distorted physics the closer one gets to the artifact: The Ethereal Gaze. A set of overlapping lenses rests on the withered skull with eight eye sockets. It allows the wearer to see across large distances, into other planes and even through objects, but only one at a time.
+Because of the unstable nature of the curse still rippling through the citadel, players must use extreme caution if they wish to remove either artifact. If the lantern goes dark, or the gem is removed before being purified, an army of mindless undead would be freed, driven by a single directive: kill.
 
-#### Fractured Mountain
-Towering above the clouds, a single mountain dominates the island's surface, made entirely of multihued crystal with a single entrance at its peak. A stairway circles endlessly down the center of the mountain, leading to the artifact nestled within the mountain's heart. The Ring of Prismorphism is known to grant unparalleled protection, saving the wearer from death's blow. However, removing the indestructible armor is a feat none have managed to accomplish short of death.
+Notable Landmark: Once a masterful blend of Dwarven masonry and scholastic ingenuity, the Dawning Citadel now lies in ruin. Its once grand halls and carved towers have crumbled into hollow echoes of the citadel's former glory. Only two wonders remain: the ten thousand corpses of the citadel's powerful inhabitants, and the strange crystals jutting from their skulls.
 
-#### Lumine Jungle
-Wreathed in a nearly oppressive inky darkness, this island is home to an alien variety of glowing life. Plants and jungle creatures offer the only light on the island, glowing with a hypnotic bioluminescence. Lumismic, the artifact found deep within the illuminated jungle, is a glass prism that houses a cloud of luminescent mist. Swirling, shifting, the mist is nearly lifelike in its ability to change based on the wielder's moods. Its light forever shines in all forms of darkness.
+Hook for GMs: Whispers coil through the magic circles of the surface: the ruins of the Dawning Citadel have been found. No proof, just tales. But to those who listen closely, tales can become trails. And riches are never free.
 
-#### Fearspire
-An imposing tower seemingly made of darkness itself, it rises directly from the ocean's surface. The waters around the spire are perfectly still, devoid of current and covered in a thick, grey fog. All who attempt to approach the tower are lost, trapped within the fog. The path through the eerie waters lies with those who hold the remaining keys to godhood. At the tip of the tower, an illusionary double of Lhoris awaits the chosen champions with the last of the artifacts: Naruvi's Orb, a conduit for great arcane powers. If used by evil minds, it could consume great swaths of the magic blanketing the continent. It is the final key to Zokar's ascension.
+### Wedgerock Cove
+
+Wedgerock Cove is a bustling trading hub, home to the Fairwind Merchants’ Guildhall—a collective of tradesmen and ship captains dealing in luxury goods like silks, spices, and fine jewels. While most of the cove's inhabitants are upstanding citizens, a few crooked merchants have found their way into the guild's officers' positions. Hidden among the silks and spices, forbidden goods and insidious secrets flow through the cove unnoticed. Tensions simmer beneath the cove's polished surface, and the residents are beginning to feel the unsavory nature of such deals threatening their luxuries.
+
+The layout of the cove is one of the continent’s most intriguing feats of natural architecture. It forms an inverted wedge along the eastern coastline, as if some monstrous force had ripped the ocean floor upwards some seventy meters through the rock, leaving a jagged scar in its wake.
+
+Colorful buildings hang from the cove's ceiling, shaped like birdcages with circular flat bottoms and domed tops. The smell of ocean brine mingles with the rich scent of spices from the trade ports below. Sturdy wooden bridges serve as walkways connecting the buildings, the once intricate carvings worn down from the humid wind. Some of the less extravagant buildings are bolted to the rocky surface of the cove's walls, with narrow stairs and creaking lifts to carry goods from the ships docked below.
+
+Notable Landmark: Carved directly from the stone in the deepest part of the wedge, the Fairwind Merchants' Guildhall is an intriguing feat of architecture. Curiously monolithic compared to the rest of the cove's colorful structures, it serves as both the main office and bank for all of its merchants. Three interlocking diamond-shaped buildings varied in size are cut from the stone, the smallest of which is at the base. Serving as the main entrance, the lower floor contains nothing more than a desk and a single gatekeeper. If one can prove their worth, by rank or by coin, they may travel up to the higher levels whose sizes are reflective of their importance.
+
+Hook for GMs: Despite the cove’s affluent clientele, a rougher crowd lingers around the shops. The sharp scent of fear hangs in the salty air, and the people of the cove nervously avoid the players' eyes. A pirate captain working with one of the crooked merchants plots in a ship anchored further along the shore, his crew quietly scouting the cove’s defenses in preparation for a daring raid.
+
+### Azure Grove 
+
+Azure Grove is a serene oasis along the rocky ocean shore. Fields of blue grass grow among the sand, broken up by tide pools filled with colorful creatures. The cool ocean breeze brings lazy waves to lap at the shore, carrying sea foam-colored algae. The druids live in huts among the blue grass made with reeds from a nearby estuary. They derive healing remedies from the algae in the tide pools and trade them with a local fishing village. In exchange, the village ensures that the corals are not overfished.
+
+Notable Landmark: The grove appears no different from any other at first glance. Only those who gain the village's trust are allowed to see the true beauty the druids protect: a brilliant forest of rainbow coral thriving beneath the ocean's surface, and home to some species unknown to the rest of the realm.
+
+Hook for GMs: A sickness seeps through the reef, painting the algae with an oil-slick opalescence. This was no mere act of nature. Someone, or *something*, has poisoned the grove, spreading a sickness that suspiciously only affects the druids.
+
+### Blitelands
+
+Along the far, eastern edge of the continent stands a single, gleaming tower among a ravaged land. Once home to an order of paladins, the Blitelands are the desecrated remains of their war against Death's cult. Though the paladins won the battle, Death struck the final blow. In an act of spite, his Champion cursed the land to rot in a state of eternal decay. The entire order fell, the land forever fetid with the festering corpses of both sides. Only the tower remains, a beacon of light among a blighted land.
+
+It is a place of pilgrimage for paladins, where oaths are tested against the tragic cost of holy wars. Those who survive the land's corrupting touch and hold fast to their vows are granted an audience with the ghostly specter of Doxthor Shieldfang, head of the paladin order. He remains trapped within the tower, willingly forsaking the afterlife in order to bind his soul to the tainted land.
+
+Ever the paladin, Doxthor sacrificed his soul to keep the blight contained, forever a lone sentinel guarding the realm from death.
+
+Notable Landmark: Standing tall at the center of the Blitelands is the last remaining structure of the Shieldfang Keep. Walls crumble on either side of the base, the only evidence that there was ever more to this singular tower. Pristine white stone rises high and unbroken, topped with a cone of glass. Blue and green mosaic art depict the order's Coat of Arms as well as the holy symbol for the Goddess they serve.
+
+Hook for GMs: Recent reports from the holy cities across the continent all share a disturbing fact: paladins have not been returning from their pilgrimage. The weaker of the orders have been known to forsake their oaths when confronted with the true cost of war. However, ripples of unease begin to spread through the veterans of the order when even the truest of souls don't return. Frantic generals fear the blight grows stronger while the braver youth confront the unthinkable: Is the danger the guardian within?
+
+### Nightdust Desert
+
+Spread across a vast swath of the southern shore, the Nightdust Desert glitters with sand black as night. Strange crystalline plants cut through the midnight dunes, glowing hands stretched out in silent worship. When one is touched, the rest begin to hum with a pure melody that echoes across the landscape. The days are frigid, despite the hot sun beating down on the land. The nights, however, are temperate and balmy, warmed by the strange breath of the desert's living flora.
+
+Two settlements inhabit this alien landscape, living in an uneasy harmony. The first is a tribal sect of Lizardfolk. Worshipers of the moon, they live in communal burrows beneath the sands during the day to preserve their warmth, only emerging once the sun has set. Due to their cold-blooded nature, the young struggle with the fully nocturnal habits of the clan. They spend the nights sifting the sands for moonstones in the rockier parts of the desert near the shore.
+
+The second settlement is new to the desert, erecting a small base on the surface. Made up entirely of researchers, this group has come to study the strange structure of the plant life. The expedition was funded by a retired adventurer, who in his old age has become obsessed with the idea of a keep spun from the rarest materials in the realm.
+
+No matter the cost.
+
+Notable Landmark: Among the desert's crystalline plant life, one tree stands out. Its size and shape are unremarkable, but the strange offerings adorning it draw curious eyes. Silvery scales hang from the branches, clinking faintly in the warm, night-born breeze.
+
+Hook for GMs: Despite their mundane appearance, arcanists among the researchers believe the stones in the Nightdust Desert hold more than spiritual significance. They amplify magic in wondrous yet unpredictable ways. The other researchers urge caution, for the local tribe does not suffer those who abuse the gifts of the moon.
