@@ -9,11 +9,26 @@ theme = 'cotton-candy-riot'
     url = "/about/"
     weight = 1
 
+    [menu.main.params]
+      subtext = "About Me"
+
   [[menu.main]]
     identifier = "hoard"
     name = "Lore Hoard"
     url = "/hoard/"
     weight = 2
+
+    [menu.main.params]
+      subtext = "Portfolio"
+
+  [[menu.main]]
+    identifier = "publications"
+    name = "Trophies"
+    url = "/publications/"
+    weight = 3
+
+    [menu.main.params]
+      subtext = "Publications"
 
   [[menu.main]]
     identifier = "contact"
@@ -21,11 +36,17 @@ theme = 'cotton-candy-riot'
     url = "/contact/"
     weight = 3
 
+    [menu.main.params]
+      subtext = "Contact Me"
+
   [[menu.main]]
     identifier = "blog"
     name = "Inkwell Archives"
     url = "/blog/"
     weight = 3
+
+    [menu.main.params]
+      subtext = "Blog"
 
 [markup]
   [markup.goldmark]

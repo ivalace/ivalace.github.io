@@ -28,10 +28,14 @@
 
       {{ range .Site.Menus.main }}
       {{ $entryURL := .URL | relURL }}
-      <a href='{{ $entryURL }}'
-         {{ if eq $entryURL $current }}class='active' aria-current='page'{{ end }}>
-        {{ .Name }}
-      </a>
+      <div class="menu-item dib mh2 tc">
+        <a href="{{ $entryURL }}" class="dib{{ if eq $entryURL $current }} active{{ end }}"{{ if eq $entryURL $current }} aria-current="page"{{ end }}>
+          {{ .Name }}
+        </a>
+        {{ with .Params.subtext }}
+        <div class="f6 mid-gray mt0">{{ . }}</div>
+        {{ end }}
+      </div>
       {{ end }}
     </nav>
   </header>
