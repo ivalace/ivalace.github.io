@@ -34,7 +34,7 @@ theme = 'cotton-candy-riot'
     identifier = "contact"
     name = "Summon Me"
     url = "/contact/"
-    weight = 3
+    weight = 5
 
     [menu.main.params]
       subtext = "Contact Me"
@@ -43,7 +43,7 @@ theme = 'cotton-candy-riot'
     identifier = "blog"
     name = "Inkwell Archives"
     url = "/blog/"
-    weight = 3
+    weight = 4
 
     [menu.main.params]
       subtext = "Blog"

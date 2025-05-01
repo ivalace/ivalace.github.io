@@ -20,11 +20,14 @@
     <nav style='padding:0 1rem;text-align:center;'>
       {{ $current := .RelPermalink }}
 
-      <a href='/'
-         class='txt-fuchsia{{ if eq "/" $current }} active{{ end }}'
-         {{ if eq "/" $current }}aria-current='page'{{ end }}>
-        {{ .Site.Title }}
-      </a>
+      <div class="menu-item dib mh2 tc">
+        <a href="/"
+           class="dib txt-fuchsia{{ if eq "/" $current }} active{{ end }}"
+           {{ if eq "/" $current }}aria-current="page"{{ end }}>
+          {{ .Site.Title }}
+        </a>
+        <div class="f6 mid-gray mt0">Home</div>
+      </div>
 
       {{ range .Site.Menus.main }}
       {{ $entryURL := .URL | relURL }}
