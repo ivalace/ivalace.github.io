@@ -3,73 +3,225 @@
 
 /* ---------- 1. LIGHT MODE ---------- */
 :root {
-  --clr-fuchsia:#F928A0;
-  --clr-pink:#FF73B5;
-  --clr-peach:#FFB3AB;
-  --clr-blue:#A5F0FF;
-  --clr-black:#0D0D0D;
-  --clr-graphite:#302F2F;
-  --clr-white:#FFFFFF;
-  --text-base:var(--clr-black);
-  --text-muted:#444;
-  --bg-primary:var(--clr-white);
-  --bg-secondary:var(--clr-peach);
+  --clr-fuchsia: #F928A0;
+  --clr-pink: #FF73B5;
+  --clr-peach: #FFB3AB;
+  --clr-blue: #A5F0FF;
+  --clr-black: #0D0D0D;
+  --clr-graphite: #302F2F;
+  --clr-white: #FFFFFF;
+  --text-base: var(--clr-black);
+  --text-muted: #444;
+  --bg-primary: var(--clr-white);
+  --bg-secondary: var(--clr-peach);
 }
 
 /* ---------- 2. DARK MODE ---------- */
-@media (prefers-color-scheme: dark){
-  :root{
-    --clr-fuchsia:#F928A0;
-    --clr-pink:#C65C8E;
-    --clr-peach:#B2747A;
-    --clr-blue:#72D6E6;
-    --clr-black:#101010;
-    --clr-graphite:#1E1E1E;
-    --clr-white:#E8E8E8;
-    --text-base:var(--clr-white);
-    --text-muted:#B3B3B3;
-    --bg-primary:var(--clr-black);
-    --bg-secondary:#161616;
+@media (prefers-color-scheme: dark) {
+  :root {
+    --clr-fuchsia: #F928A0;
+    --clr-pink: #C65C8E;
+    --clr-peach: #B2747A;
+    --clr-blue: #72D6E6;
+    --clr-black: #101010;
+    --clr-graphite: #1E1E1E;
+    --clr-white: #E8E8E8;
+    --text-base: var(--clr-white);
+    --text-muted: #B3B3B3;
+    --bg-primary: var(--clr-black);
+    --bg-secondary: #161616;
   }
 }
 
 /* ---- GLOBAL TYPOGRAPHY ---- */
-h1, h2, h3, h4, h5, h6 { color: var(--clr-fuchsia); margin-top: 0; }
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: var(--clr-fuchsia);
+  margin-top: 0;
+}
 
 /* ---------- 3. GLOBAL LAYOUT ---------- */
-body{margin:0;overflow-x:hidden;background:var(--bg-primary);color:var(--text-base);}/*less whitespace*/
-main{padding:1.5rem 1rem;max-width:90%;margin:0 auto;}
+body {
+  margin: 0;
+  overflow-x: hidden;
+  background: var(--bg-primary);
+  color: var(--text-base);
+}
+
+/*less whitespace*/
+main {
+  padding: 1.5rem 1rem;
+  max-width: 90%;
+  margin: 0 auto;
+}
 
 /* ---------- 4. HEADER STRIPE ---------- */
-.header--stripe::after{content:"";display:block;height:8px;width:100%;background:linear-gradient(90deg,var(--clr-fuchsia),var(--clr-blue));}
+.header--stripe::after {
+  content: "";
+  display: block;
+  height: 8px;
+  width: 100%;
+  background: linear-gradient(90deg, var(--clr-fuchsia), var(--clr-blue));
+}
 
 /* ---------- 5. NAVIGATION ---------- */
-nav a{color:var(--clr-fuchsia);text-decoration:none;transition:color .2s ease;border-bottom:2px solid transparent;padding:1.5rem 0.5rem 0.5rem;font-size:1.25rem;}
-nav a:hover{color:var(--clr-blue);border-bottom:none !important;text-decoration:none !important;}/*hover*/
-nav a.active,nav a[aria-current="page"]{color:var(--clr-blue) !important;border-bottom:none !important;text-decoration:none !important;}/*stay blue on current page but no underline*/
+nav a {
+  color: var(--clr-fuchsia);
+  text-decoration: none;
+  transition: color .2s ease;
+  border-bottom: 2px solid transparent;
+  padding: 1.5rem 0 0.25rem 0;
+  font-size: 1.25rem;
+}
+
+nav a:hover {
+  color: var(--clr-blue);
+  border-bottom: none !important;
+  text-decoration: none !important;
+}
+
+/*hover*/
+nav a.active,
+nav a[aria-current="page"] {
+  color: var(--clr-blue) !important;
+  border-bottom: none !important;
+  text-decoration: none !important;
+}
+
+/*stay blue on current page but no underline*/
 
 /* ---------- 6. HERO CARD ---------- */
-.hero-card{background:linear-gradient(135deg,rgba(255,179,171,.9),rgba(255,115,181,.9));padding:2.5rem;border-radius:12px;box-shadow:0 8px 20px rgb(0 0 0/10%);text-align:center;max-width:60ch;margin:3rem auto 2rem;}
-.hero-card h1{margin-top:0;font-size:clamp(2rem,4vw,3rem);color:var(--clr-fuchsia);} 
-.hero-card p{font-size:1.125rem;margin:1rem 0 2rem;}
-/* Override hero-card content to left-align text */
-.hero-card p, .hero-card ul, .hero-card ol, .hero-card blockquote {
-  text-align: left;
+.hero-card {
+  background: linear-gradient(135deg, rgba(255, 179, 171, .9), rgba(255, 115, 181, .9));
+  padding: 2.5rem;
+  border-radius: 12px;
+  box-shadow: 0 8px 20px rgb(0 0 0/10%);
+  max-width: 60ch;
+  margin: 3rem auto 2rem;
+}
+
+.hero-card h1 {
+  margin-top: 0;
+  font-size: clamp(2rem, 4vw, 3rem);
+  color: var(--clr-fuchsia);
+}
+
+.hero-card p {
+  font-size: 1.125rem;
+  margin: 1rem 0 2rem;
+}
+
+.hero-card .hero-title,
+.hero-card .hero-subtitle,
+.hero-card .buttons {
+  text-align: center;
+}
+
+.hero-card .cv-button-container {
+  margin: 1rem 0 1rem 0;
 }
 
 /* ---------- 7. UTILITIES ---------- */
-.bg-fuchsia{background:var(--clr-fuchsia);} .bg-pink{background:var(--clr-pink);} .bg-peach{background:var(--clr-peach);} .bg-blue{background:var(--clr-blue);} .bg-primary{background:var(--bg-primary);} .bg-secondary{background:var(--bg-secondary);} 
+.bg-fuchsia {
+  background: var(--clr-fuchsia);
+}
 
-.txt-fuchsia{color:var(--clr-fuchsia);} .txt-blue{color:var(--clr-blue);} .txt-muted{color:var(--text-muted);} .txt-base{color:var(--text-base);} 
+.bg-pink {
+  background: var(--clr-pink);
+}
 
-.button{display:inline-block;padding:.75rem 1.5rem;border:2px solid transparent;border-radius:6px;font-weight:600;transition:background .2s,color .2s,border .2s;cursor:pointer;font-size:.9rem;text-decoration:none !important;}
-.button--primary{background:var(--clr-fuchsia);color:var(--clr-white);} .button--primary:hover{background:var(--clr-blue);color:var(--clr-black);} 
-.button--secondary{background:transparent;border-color:var(--clr-fuchsia);color:var(--clr-fuchsia);} .button--secondary:hover{background:var(--clr-fuchsia);color:var(--clr-white);} 
+.bg-peach {
+  background: var(--clr-peach);
+}
 
-.card{background:var(--bg-secondary);padding:1.25rem;border-radius:10px;box-shadow:0 3px 8px rgb(0 0 0/8%);} 
+.bg-blue {
+  background: var(--clr-blue);
+}
 
-@keyframes wiggle{0%,100%{transform:rotate(-2deg);}50%{transform:rotate(2deg);} }
-.wiggle:hover{animation:wiggle .3s ease-in-out infinite;}
+.bg-primary {
+  background: var(--bg-primary);
+}
+
+.bg-secondary {
+  background: var(--bg-secondary);
+}
+
+.txt-fuchsia {
+  color: var(--clr-fuchsia);
+}
+
+.txt-blue {
+  color: var(--clr-blue);
+}
+
+.txt-muted {
+  color: var(--text-muted);
+}
+
+.txt-base {
+  color: var(--text-base);
+}
+
+.button {
+  display: inline-block;
+  padding: .75rem 1.5rem;
+  border: 2px solid transparent;
+  border-radius: 6px;
+  font-weight: 600;
+  transition: background .2s, color .2s, border .2s;
+  cursor: pointer;
+  font-size: .9rem;
+  text-decoration: none !important;
+}
+
+.button--primary {
+  background: var(--clr-fuchsia);
+  color: var(--clr-white);
+}
+
+.button--primary:hover {
+  background: var(--clr-blue);
+  color: var(--clr-black);
+}
+
+.button--secondary {
+  background: transparent;
+  border-color: var(--clr-fuchsia);
+  color: var(--clr-fuchsia);
+}
+
+.button--secondary:hover {
+  background: var(--clr-fuchsia);
+  color: var(--clr-white);
+}
+
+.card {
+  background: var(--bg-secondary);
+  padding: 1.25rem;
+  border-radius: 10px;
+  box-shadow: 0 3px 8px rgb(0 0 0/8%);
+}
+
+@keyframes wiggle {
+
+  0%,
+  100% {
+    transform: rotate(-2deg);
+  }
+
+  50% {
+    transform: rotate(2deg);
+  }
+}
+
+.wiggle:hover {
+  animation: wiggle .3s ease-in-out infinite;
+}
+
 .button:hover,
 button:hover,
 input[type="button"]:hover,
@@ -80,8 +232,10 @@ input[type="reset"]:hover {
 
 /* ---------- 8. CONTENT PRE BLOCK WRAP ---------- */
 .nested-copy-line-height pre {
-  white-space: pre-wrap; /* Allow lines to wrap within code/pre blocks */
-  overflow-wrap: break-word; /* Break long words that exceed container width */
+  white-space: pre-wrap;
+  /* Allow lines to wrap within code/pre blocks */
+  overflow-wrap: break-word;
+  /* Break long words that exceed container width */
 }
 
 /* ---------- 9. CUSTOM RESPONSIVE OVERRIDES ---------- */
@@ -92,5 +246,6 @@ input[type="reset"]:hover {
 
 /* Narrow article max-width to 36rem */
 article.mw8 {
-  max-width: 36rem !important; /* override Tachyons mw8 (48rem) */
+  max-width: 36rem !important;
+  /* override Tachyons mw8 (48rem) */
 }

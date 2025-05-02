@@ -1,13 +1,17 @@
 {{ define "main" }}
   <section class="hero-card">
-    <h1>Ivy Lee</h1>
-    <h2>Narrative Gremlin for Hire</h2>
+    <h1 class="hero-title">Ivy Lee</h1>
+    <h2 class="hero-subtitle">Narrative Gremlin for Hire</h2>
     <!-- <p>Lore-hoarder. Chaos-weaver. Indie RPG & narrative design specialist.</p> -->
     {{ .Content }}
-    <a href="/hoard/publications" class="button button--primary wiggle">Inspect Trophies</a>
-    <a href="/hoard" class="button button--primary wiggle">Pillage Hoard</a>
-    <!-- Place your CV file at static/cv.pdf so it is available at /cv.pdf -->
-    <a href="/IvyLee_CV.pdf" class="button button--primary wiggle" download>Download CV</a>
+    <div class="buttons">
+      <a href="/hoard/publications" class="button button--primary wiggle">Inspect Trophies</a>
+      <a href="/hoard" class="button button--primary wiggle">Pillage Hoard</a>
+    </div>
+    <div class="cv-button-container buttons">
+      <!-- Place your CV file at static/cv.pdf so it is available at /cv.pdf -->
+      <a href="/IvyLee_CV.pdf" class="button button--primary wiggle" download>Download CV</a>
+    </div>
   </section>
 {{ end }}
 

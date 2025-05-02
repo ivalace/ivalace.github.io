@@ -20,7 +20,7 @@
     <nav style='padding:0 1rem;text-align:center;'>
       {{ $current := .RelPermalink }}
 
-      <div class="menu-item dib mh2 tc">
+      <div class="menu-item dib mh3 tc">
         <a href="/"
            class="dib txt-fuchsia{{ if eq "/" $current }} active{{ end }}"
            {{ if eq "/" $current }}aria-current="page"{{ end }}>
@@ -31,7 +31,7 @@
 
       {{ range .Site.Menus.main }}
       {{ $entryURL := .URL | relURL }}
-      <div class="menu-item dib mh2 tc">
+      <div class="menu-item dib mh3 tc">
         <a href="{{ $entryURL }}" class="dib{{ if eq $entryURL $current }} active{{ end }}"{{ if eq $entryURL $current }} aria-current="page"{{ end }}>
           {{ .Name }}
         </a>
