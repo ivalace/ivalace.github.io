@@ -31,6 +31,10 @@
     --bg-primary: var(--clr-black);
     --bg-secondary: #161616;
   }
+  /* menu button subtext white in dark theme */
+  nav .menu-item .f6.mid-gray {
+    color: var(--clr-white);
+  }
 }
 
 /* ---- GLOBAL TYPOGRAPHY ---- */
@@ -164,6 +168,17 @@ nav a[aria-current="page"] {
 
 .txt-base {
   color: var(--text-base);
+}
+
+/* navigation subtext in light and dark modes */
+.txt-nav-subtext {
+  color: var(--text-muted);
+}
+
+@media (prefers-color-scheme: dark) {
+  .txt-nav-subtext {
+    color: var(--clr-white);
+  }
 }
 
 .button {

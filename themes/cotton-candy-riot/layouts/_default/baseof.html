@@ -26,7 +26,7 @@
            {{ if eq "/" $current }}aria-current="page"{{ end }}>
           {{ .Site.Title }}
         </a>
-        <div class="f6 mid-gray mt0">Home</div>
+        <div class="f6 txt-nav-subtext mt0">Home</div>
       </div>
 
       {{ range .Site.Menus.main }}
@@ -36,7 +36,7 @@
           {{ .Name }}
         </a>
         {{ with .Params.subtext }}
-        <div class="f6 mid-gray mt0">{{ . }}</div>
+        <div class="f6 txt-nav-subtext mt0">{{ . }}</div>
         {{ end }}
       </div>
       {{ end }}
