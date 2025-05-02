@@ -40,7 +40,7 @@ A tome that grants the reader one of three spells at random:
 	- Allows you to explode a corpse, causing a mess of blood and bits to rain down on enemies, making the ground slippery and dealing damage
 
 ## The Savory Broth
-*All souls have a place in my cosmic soup*
+*All souls have a place in my cosmic soup.*
 
 ### Seamstress
 With a love of beauty mixed with utility, they strive to make adventuring gear that is fabulous and fearsome.
