@@ -3,7 +3,9 @@ title = "Creative Cauldron"
 order = 5
 +++
 
-*What do we do with unrefined bits? We put them in the pot and cook it till it's tasty.*
+*What do we do with unrefined bits? We put them in the pot and cook till tasty.*
+
+---
 
 ## The Nutritious Bits
 *An important part of the diet for all growing adventurers.*

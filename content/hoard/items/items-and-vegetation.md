@@ -3,8 +3,9 @@ title = "Items and Vegetation"
 order = 3
 +++
 
+
 ## Alchemical Regents
-All ingredients are part of my *Beginners Guide to Alchemy*, which can be found on DMs Guild.
+*Because you know someone's gonna try to eat it anyway.*
 
 ### Crab's Veil
 
@@ -30,7 +31,7 @@ Tall reeds with perforated stems that emit a soft, airy song when the wind blows
 A greying crystal that grows along the skulls of deceased magic users. Intellite can be crushed and rubbed along the gums in order to gain a magical high for anyone, regardless of innate affinity for magic. Some unfortunate magic users, however, use it to boost their spells temporarily and grow addicted to it. Withdraws result in random bursts of wild magic exploding out of the addict.
 
 ## The Nether Isles' Items of Ascension
-*Items from the late game quest line in my campaign.*
+*Eventually, even mountains of gold get boring.*
 ### Mossmire Staff
 
 A gnarled staff wielded by a once moral shaman, she channeled the fell energies within her bog to trap trespassers in the mire. After her ascension to the demigoddess Beldraga Mirewatcher, her staff sunk into the bog, lost to time. It now infects the Shattered Bog, used by a hag who shares in her likeness. It's made of a sickly pale wood, covered in moss and seeping with slimy, putrid smelling acid from the three rounded knots at the top.

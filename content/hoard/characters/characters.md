@@ -6,7 +6,6 @@ order = 1
 *Because a hyper uniform population isn't all that interesting.*
 
 ---
-# Campaign Characters
 
 ## The Heart of Motlier
 *Cozy characters made with love... And perhaps a touch of magic.*

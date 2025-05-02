@@ -6,6 +6,7 @@ order = 2
 *Because no one wants to travel through yet another generic forest.*
 
 ---
+
 ## The Nether Isles: A Race for Ascension
 *Zokar's apostles hunt the realm for the lost relics of the gods. Each tied to a former deity's ascension, one on the cusp of godhood must consume the arcane from each holy relic. Lhoris, the initiate that escaped, makes a risky gambit. Stealing the five artifacts, he uses the last of his power to seal them away on five islands hidden among different realms.*
 
