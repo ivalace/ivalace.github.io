@@ -48,6 +48,15 @@ theme = 'cotton-candy-riot'
     [menu.main.params]
       subtext = "Blog"
 
+  [[menu.main]]
+    identifier = "ink"
+    name = "The Tavern"
+    url = "/ink-game/"
+    weight = 50
+
+    [menu.main.params]
+      subtext = "Ink Sample"
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
