@@ -1,4 +1,4 @@
-I promise only my stories bite. I'm Ivy, narrative gremlin extraordinaire. I'd shake your hand, but mine are perpetually covered in ink. I've been making worlds to play in since I was nothing more than a little floor gremlin.
+I promise only my stories bite. I'm Ivy, narrative gremlin extraordinaire. I'd shake hands, but mine are perpetually covered in ink. I've been making worlds to play in since I was nothing more than a little floor gremlin.
 
 Why you should summon me:
 - Two self-published novels, over 150 copies sold
