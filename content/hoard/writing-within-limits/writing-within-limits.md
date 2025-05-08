@@ -3,13 +3,13 @@ title = "Writing Within Limits"
 order = 6
 +++
 
-*Bite sized words for pocket dimensions.*
+*This is where I go to test my skills against the final boss: Word Limits.*
 
 ---
 
 ## Character Dialogue
 
-*The Gremlin Guarantee: learn my NPCs in 50 characters or less.*
+*Learn my NPCs in 50 characters or less.*
 
 ### Xeton
 - Ah, so you're the rats who crept into my woods.
@@ -50,7 +50,7 @@ order = 6
 
 ## Scenario Writing
 
-*Cinematic scenarios in under 200 words. Because nobody likes a ten minute monologue.*
+*Cinematic scenarios in under 200 words.*
 
 ### Percy's Purification Ritual
 Percy, a legendary arch druid in my campaign, purifies his land from the corrupting influence of Zokar's spores.

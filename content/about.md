@@ -8,7 +8,9 @@ title = "About The Gremlin"
 
 Hello there!
 
-This is where you'd respond in your head "General Kenobi". As you've probably already figured out, my name is Ivy. I am a narrative gremlin living in the Seattle area with my family. I've been weaving stories and forging worlds for about five years now. I have written novels, created supplements for tired Game Masters, covered concerts for magazines, and just generally been tinkering in about fifty other projects. Seriously, you should see my hoard.
+*This is where you'd respond in your head "General Kenobi".* 
+
+My name is Ivy. I am a narrative gremlin living in the Seattle area with my family. I published my first novel in 2017 and have been weaving stories and forging worlds ever since. I have written novels, created supplements for tired Game Masters, covered concerts for magazines, and just generally been tinkering in about fifty other projects. Seriously, you should see my hoard.
 
 When I'm not off swimming in the chaos of creation, I enjoy consuming the works of other creators. This includes reading comics and books, learning about TTRPGs, screaming at my TV while playing video games, and watching old sci-fi shows. I feel a little obligated to say my favorites, so I'll just list them right here real quick (but fair warning: favorites are fickle things so if you ever stop me in the street, I'm likely to say something completely different).
 
