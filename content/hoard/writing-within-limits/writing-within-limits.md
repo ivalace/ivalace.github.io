@@ -3,10 +3,14 @@ title = "Writing Within Limits"
 order = 6
 +++
 
-Bite sized words for pocket dimensions.
+*Bite sized words for pocket dimensions.*
+
+---
 
 ## Character Dialogue
-The Gremlin Guarantee: learn my NPCs in 50 characters or less.
+
+*The Gremlin Guarantee: learn my NPCs in 50 characters or less.*
+
 ### Xeton
 - Ah, so you're the rats who crept into my woods.
 - I suppose even rats are useful as bait.
@@ -46,14 +50,14 @@ The Gremlin Guarantee: learn my NPCs in 50 characters or less.
 
 ## Scenario Writing
 
-Cinematic scenarios in under 200 words. Because nobody likes a ten minute monologue.
+*Cinematic scenarios in under 200 words. Because nobody likes a ten minute monologue.*
 
 ### Percy's Purification Ritual
 Percy, a legendary arch druid in my campaign, purifies his land from the corrupting influence of Zokar's spores.
 
 Percy begins to chant, low and deep, tracing his fingers through the air. They trail a green light, leaving druidic runes glowing before him. The electric current of his magic fills the air, raising the small hairs on the back of your neck. Music, soft and sweet, rises from the earth, growing louder as the runes shift and dance in the air. Throwing open his eyes, he bursts alight, awash in nature's hues before slamming his hands into the earth at his feet.
 
-“*BY THE BLESSINGS OF THE MOTHER, THE SPIRIT OF THIS LAND COMMANDS YOU! YOU, WHO WOULD HINDER HER BALANCE WITH YOUR FOUL MAGICS! WITHER AND WASTE BEFORE THE LIGHT OF HER SUN!*”
+“By the blessings of the Mother, the spirit of this land commands you! You, who would hinder her balance with your foul rot! Wither and waste before the light of her sun!”
 
 In a blinding flash, the light explodes from him, blanketing the hills in a wave of green and gold. An awful screeching echoes from the very depths of the earth, deep, deeper than any light can be found. The spores' dying wail reverberates through your bones, the pain of it bringing you to your knees. And then as quickly as it began, silence. The fading song of the land drifting away on the wind.
 
@@ -66,7 +70,8 @@ Though he has no mouth, he speaks, his voice vibrating through the spores in the
 
 ## Quest Text
 
-How many words does it take to kill a god? 132 by my count.
+*How many words does it take to kill a god? 132 by my count.*
+
 ### Relics of Ascension
 
 The astral projection of Lhoris hovers before you, his mouth drawn in a firm line. "I do not know what will come of the other gods infected by his spores. We may very well be ending divinity itself. But without intervention, Zokar will unmake the world." With a wave of his hand, he summons ghostly images of the four relics, the fifth appearing in his hand. "We must obtain the relics of ascension. If Zokar ascends, his gluttony will consume all. He must be stopped, even if we must sacrifice the gods. I have hidden them among the Nether Isles, off the coast of the Nightdust Desert. I will await your arrival at the Arcane Spire, with the final relic. Blessing upon you, traveler, while the gods still live to grant it."
