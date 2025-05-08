@@ -19,7 +19,7 @@ theme = 'cotton-candy-riot'
     weight = 2
 
     [menu.main.params]
-      subtext = "Portfolio"
+      subtext = "Samples"
 
   [[menu.main]]
     identifier = "publications"
