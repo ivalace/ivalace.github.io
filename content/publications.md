@@ -32,11 +32,11 @@
 
 ### Inkwell Archive
 
-*[Where Did All The Aliens Go?](https://ivylee.ink/blog/where-did-all-the-aliens-go/)*
+*[Where Did All The Aliens Go?](https://ivylee.ink/blog/where-did-all-the-aliens-go/)* Modern sci-fi is boring. Bring back the puppets.
 
-*[Game of Thrones: A Retrospective](https://ivylee.ink/blog/game-of-thrones/)*
+*[Game of Thrones: A Retrospective](https://ivylee.ink/blog/game-of-thrones/)* A messy autopsy of a beloved show and why it deserves a rewatch.
 
-*[The Last of Us Part II: A Hollow Victory](https://ivylee.ink/blog/the-last-of-us-pt-2/)*
+*[The Last of Us Part II: A Hollow Victory](https://ivylee.ink/blog/the-last-of-us-pt-2/)* An unapologetic defense of the writers who broke my heart; and my controller.
 
 ### Ivory Desk
 
