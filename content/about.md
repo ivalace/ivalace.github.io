@@ -20,6 +20,6 @@ When I'm not off swimming in the chaos of creation, I enjoy consuming the works 
 
 - Favorite Book: The Stormlight Archive series by Brandon Sanderson. I also loved reading through the World of Warcraft Chronicles.
 
-After publishing my first book in 2017, I splashed around in the freelance pool as a concert and event journalist. When my family relocated to Seattle, I decided to embrace my love of creative chaos. After a brief detour into homeschooling during The Great Zoompocalypse, I am back to full-time gremlin operations—tinkering, weaving, and bringing obsessive gremlin energy to your project! Life is messy and chaotic, and you know what they say about art imitating life. Let me help give your work the loving, messy writing it deserves.
+After publishing my first book in 2017, I splashed around in the freelance pool as a concert and event journalist. When my family relocated to Seattle, I decided to embrace my love of creative chaos. After a brief detour into homeschooling during The Great Zoompocalypse, I am back to full-time gremlin operations—tinkering, weaving, and bringing obsessive gremlin energy to your project! Let me help give your work the loving, messy writing it deserves.
 
 I hope you enjoyed your glimpse into the madness! If you're interested in hiring me, you can contact me at [ivy@lee.social](mailto:ivy@lee.social). If you haven't yet checked out my work, you can find links to everything in my [hoard](/hoard).
