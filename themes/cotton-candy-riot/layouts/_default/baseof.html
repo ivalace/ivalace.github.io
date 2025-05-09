@@ -18,34 +18,39 @@
 <body>
   <!-- site header -->
   <header class="header--stripe txt-base">
-    <nav style='padding:0 1rem;display:flex;align-items:center;'>
+    <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center; padding: 0 1rem;">
       {{ $current := .RelPermalink }}
+      
+      <!-- Left section: Ivy Lee -->
+      <div class="txt-fuchsia f4 pl2">Ivy Lee</div>
+      
+      <!-- Center section: Menu items -->
+      <nav style="text-align: center;">
+        <div class="menu-item dib mh3 tc">
+          <a href="/"
+             class="dib txt-fuchsia{{ if eq "/" $current }} active{{ end }}"
+             {{ if eq "/" $current }}aria-current="page"{{ end }}>
+            {{ .Site.Title }}
+          </a>
+          <div class="f6 txt-nav-subtext mt0">Home</div>
+        </div>
 
-      <div class="menu-item mr-auto">
-        <span class="dib txt-fuchsia f4">Ivy Lee</span>
-      </div>
-
-      <div class="menu-item dib mh3 tc">
-        <a href="/"
-           class="dib txt-fuchsia{{ if eq "/" $current }} active{{ end }}"
-           {{ if eq "/" $current }}aria-current="page"{{ end }}>
-          {{ .Site.Title }}
-        </a>
-        <div class="f6 txt-nav-subtext mt0">Home</div>
-      </div>
-
-      {{ range .Site.Menus.main }}
-      {{ $entryURL := .URL | relURL }}
-      <div class="menu-item dib mh3 tc">
-        <a href="{{ $entryURL }}" class="dib{{ if eq $entryURL $current }} active{{ end }}"{{ if eq $entryURL $current }} aria-current="page"{{ end }}>
-          {{ .Name }}
-        </a>
-        {{ with .Params.subtext }}
-        <div class="f6 txt-nav-subtext mt0">{{ . }}</div>
+        {{ range .Site.Menus.main }}
+        {{ $entryURL := .URL | relURL }}
+        <div class="menu-item dib mh3 tc">
+          <a href="{{ $entryURL }}" class="dib{{ if eq $entryURL $current }} active{{ end }}"{{ if eq $entryURL $current }} aria-current="page"{{ end }}>
+            {{ .Name }}
+          </a>
+          {{ with .Params.subtext }}
+          <div class="f6 txt-nav-subtext mt0">{{ . }}</div>
+          {{ end }}
+        </div>
         {{ end }}
-      </div>
-      {{ end }}
-    </nav>
+      </nav>
+      
+      <!-- Right section: Empty for balance -->
+      <div></div>
+    </div>
   </header>
 
   <!-- main content -->
