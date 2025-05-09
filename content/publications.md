@@ -10,12 +10,13 @@
 *[The Town of Fairhaven](https://www.dmsguild.com/product/497847/The-Town-of-Fairhaven)*, Published on DMs Guild in 2024
 
 ## Novels
-*[The Doppelgänger Files](https://a.co/d/dhHRVhb)*, Published on Amazon in 2017
+*[The Doppelgänger Files](https://www.amazon.com/dp/B077SG115Z)*, Published on Amazon in 2017
 
-*[Haunted](https://a.co/d/hKKJ3ym)*, Published on Amazon in 2021
+*[Haunted](https://www.amazon.com/dp/B0F85628YF)*, Published on Amazon in 2021
 
 # Nonfiction
 ## Journalism
+*All articles are published under my previous name, Mallory Lee.*
 
 *[La Dispute Live in Dallas](https://web.archive.org/web/20221203224429/https://staticmagazine.net/ladispute2018/)* (Static Magazine, 2019)
 
