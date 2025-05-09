@@ -1,6 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = "Ivy's Lair"
+title = "My Lair"
 theme = 'cotton-candy-riot'
 [menu]
   [[menu.main]]

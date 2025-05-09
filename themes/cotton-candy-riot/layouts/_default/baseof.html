@@ -18,8 +18,12 @@
 <body>
   <!-- site header -->
   <header class="header--stripe txt-base">
-    <nav style='padding:0 1rem;text-align:center;'>
+    <nav style='padding:0 1rem;display:flex;align-items:center;'>
       {{ $current := .RelPermalink }}
+
+      <div class="menu-item mr-auto">
+        <span class="dib txt-fuchsia f4">Ivy Lee</span>
+      </div>
 
       <div class="menu-item dib mh3 tc">
         <a href="/"
