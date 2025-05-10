@@ -72,6 +72,11 @@ main {
   background: linear-gradient(90deg, var(--clr-fuchsia), var(--clr-blue));
 }
 
+/* Make header a positioning context for mobile absolute nav */
+.header--stripe {
+  position: relative;
+}
+
 /* ---------- 5. NAVIGATION ---------- */
 nav a {
   color: var(--clr-fuchsia);
@@ -286,7 +291,14 @@ article.mw8 {
   /* Hide nav until toggled */
   nav#siteNav {
     display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
     width: 100%;
+    background: var(--bg-primary);
+    z-index: 1000; /* sit above page content */
+    box-shadow: 0 4px 12px rgb(0 0 0 / 10%);
   }
   nav#siteNav.show {
     display: block;
