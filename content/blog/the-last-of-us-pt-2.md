@@ -3,6 +3,9 @@ title = "The Last of Us Part II: A Hollow Victory"
 order = 3
 +++
 
+# Joel Lovers: Proceed With Caution
+*I'm about to make a lot of people mad with this one...*
+
 It's time for season two of The Last of Us and my god have I been vibrating with excitement for this. I decided against replaying the game before it came out, partially to give the writers a chance to impress me, but mostly because I simply do not have that kind of time right now. Either way, as I waited for the first episode to drop I exchanged a stark realization with my husband:
 
 There are people who don't know Joel dies.
@@ -11,7 +14,7 @@ Dropped my fork full of pasta when he said that to me. Holy shit. People who hav
 
 Only... people weren't mad at Abby. They were mad at the... writers? What the heck? Left and right people were saying they were going to drop the show. That they didn't want to watch anymore. That they were pissed they lost the main character. And I just. Don't. *GET IT*.
 
-## Joel Deserved To Die
+# Joel Deserved To Die
 *That's right, I'm coming out swinging.*
 
 Let me just say, I absolutely love Joel. He is such a classic, midwestern dad style trope. Gruff, scarred, battle hardened and ultimately a big soft teddy bear who would bareknuckle brawl an army for you. I love it. And I loved every moment playing as him for the first game.
@@ -26,7 +29,7 @@ Either way, it's too similar to the first game and isn't interesting. And apart 
 
 We all loved Joel. That does not absolve him of his sins.
 
-## Abby Wasn't Rage Bait
+# Abby Wasn't Rage Bait
 
 Dear *god* did I hate Abby. Few things have made me hate a character like The Last of Us 2 made me hate Abby. After she killed Joel, I was about to throw fists at my TV. Full of bloodlust and righteous anger, I was ready to fucking *go*. And then suddenly... I was playing as Abby. I won't lie, when they switched me to Abby, I almost stopped playing. The realization of what they were doing made me even angrier. They were going to make me play as her to humanize her, weren't they? They were going to make me play as her so I would understand her motives. They even gave her a kid to look after, as if that would make me see some maternal side to her. It only hardened my resolve. I was the hero, and she was the villain. Nothing they could do would humanize her.
 
@@ -34,7 +37,7 @@ Except... they were never trying to humanize her.
 
 That was never the point. We played as Abby to show that you *can't* humanize someone like that. Because when you kill a helpless, defenseless man like she killed Joel? You don't come back from that. There is no salvation for you. A piece of you is gone forever. We aren't meant to root for Abby. We aren't meant to see Joel in her connection with the kid. We're supposed to see how her hatred, her bloodlust, and ultimately her choice to torture and murder a man in her thirst for revenge took everything from her. She lost the respect of her crew. She lost Owen. Worst of all, she lost her humanity. And it never came back.
 
-## A Hollow Victory
+# A Hollow Victory
 
 It finally comes. Ellie catches up to them at the beach. This fight scene was so beautifully perfect. The whole game I clung to my anger. But with every bridge Ellie burned, with every line she crossed, with every blackening of her heart a piece of me died inside. But still, I held fast. I was determined Abby would not live.
 
@@ -50,7 +53,7 @@ We saw what revenge did to Abby. We saw how it cost her everything. How she had 
 
 I fought all that way for *Joel*. I killed all those people for *Joel*. This whole journey was meant to *bring justice for Joel*. The man who sacrificed all of humanity for this one girl to have a chance to grow up. Is it truly vengeance if it betrays his sacrifice?
 
-## Ellie Is Not A Villain
+# Ellie Is Not A Villain
 
 After some time to reflect and consider the ending, I stand by the fact that Ellie walking away wasn't just the better choice, but the *right* choice. The writers made a statement with it, and it was bold and fresh. They understood the depths of what Ellie would lose by finishing the story she set out to write.
 
