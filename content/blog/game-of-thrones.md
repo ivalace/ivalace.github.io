@@ -3,14 +3,6 @@ title = "Game of Thrones: A Retrospective"
 order = 2
 +++
 
----
-Date: 2025-01-24 16:18
-Title: Game of Thrones: A Retrospective
-Type: Post
-Location: /inkwell-archives/game-of-thrones-retrospective
----
-
-
 It has been six years since Game of Thrones ended.
 
 Jesus Christ.
