@@ -264,3 +264,42 @@ article.mw8 {
   max-width: 36rem !important;
   /* override Tachyons mw8 (48rem) */
 }
+
+/* ---------- 10. MOBILE NAVIGATION ---------- */
+.mobile-menu-button {
+  display: none; /* hidden by default, shown on small screens */
+  background: transparent;
+  border: 0;
+  font-size: 2rem;
+  line-height: 1;
+  color: var(--clr-fuchsia);
+  cursor: pointer;
+  padding: 1rem;
+}
+
+@media screen and (max-width: 768px) {
+  /* Show the menu button */
+  .mobile-menu-button {
+    display: block;
+  }
+
+  /* Hide nav until toggled */
+  nav#siteNav {
+    display: none;
+    width: 100%;
+  }
+  nav#siteNav.show {
+    display: block;
+  }
+  /* Stack menu items vertically on mobile */
+  nav#siteNav .menu-item {
+    display: block;
+    margin: 0.5rem 0;
+  }
+  nav#siteNav .menu-item a {
+    display: inline-block;
+    padding: 0.75rem 0;
+    width: 100%;
+    font-size: 1.25rem;
+  }
+}

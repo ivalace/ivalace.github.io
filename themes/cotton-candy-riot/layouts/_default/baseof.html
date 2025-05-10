@@ -25,7 +25,7 @@
       <div class="txt-fuchsia f4 pl2">Ivy Lee</div>
       
       <!-- Center section: Menu items -->
-      <nav style="text-align: center;">
+      <nav id="siteNav" style="text-align: center;">
         <div class="menu-item dib mh3 tc">
           <a href="/"
              class="dib txt-fuchsia{{ if eq "/" $current }} active{{ end }}"
@@ -48,8 +48,10 @@
         {{ end }}
       </nav>
       
-      <!-- Right section: Empty for balance -->
-      <div></div>
+      <!-- Right section: Mobile menu button -->
+      <div class="tr">
+        <button id="navToggle" class="mobile-menu-button" aria-label="Toggle navigation" aria-controls="siteNav" aria-expanded="false">☰</button>
+      </div>
     </div>
   </header>
 
@@ -69,6 +71,20 @@
   <footer style="text-align:center;padding:2rem 0;" class="txt-muted">
     © {{ now.Format "2006" }} {{ .Site.Title }} — Built with Hugo & ❤︎
   </footer>
+
+  <!-- mobile nav toggle script -->
+  <script>
+    document.addEventListener('DOMContentLoaded', function () {
+      var navToggle = document.getElementById('navToggle');
+      var siteNav = document.getElementById('siteNav');
+      if (navToggle && siteNav) {
+        navToggle.addEventListener('click', function () {
+          var isOpen = siteNav.classList.toggle('show');
+          navToggle.setAttribute('aria-expanded', isOpen);
+        });
+      }
+    });
+  </script>
 
   {{ block "footer-scripts" . }}{{ end }}
 </body>
