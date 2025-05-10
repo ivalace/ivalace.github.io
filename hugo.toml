@@ -61,3 +61,7 @@ theme = 'cotton-candy-riot'
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+  # Include H1 headings in Hugo's generated Table of Contents so the sidebar outline shows top-level headers.
+  [markup.tableOfContents]
+    startLevel = 1
+    endLevel = 6
