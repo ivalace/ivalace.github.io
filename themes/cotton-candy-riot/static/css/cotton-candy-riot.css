@@ -283,6 +283,11 @@ article.mw8 {
 }
 
 @media screen and (max-width: 768px) {
+  /* Adjust header grid to two columns (title + button) */
+  header.header--stripe > div {
+    grid-template-columns: 1fr auto !important;
+  }
+
   /* Show the menu button */
   .mobile-menu-button {
     display: block;
