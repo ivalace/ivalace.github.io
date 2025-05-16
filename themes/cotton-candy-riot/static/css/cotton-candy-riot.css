@@ -264,12 +264,6 @@ input[type="reset"]:hover {
   font-size: 1rem !important;
 }
 
-/* Narrow article max-width to 36rem */
-article.mw8 {
-  max-width: 36rem !important;
-  /* override Tachyons mw8 (48rem) */
-}
-
 /* ---------- 10. MOBILE NAVIGATION ---------- */
 .mobile-menu-button {
   display: none; /* hidden by default, shown on small screens */
