@@ -102,8 +102,7 @@ h2 {
     display: block;
     max-width: 600px;
     margin: 0 auto;
-    padding: 20px;
-    padding-top: 4em;
+    padding: 4em 20px;
     background: white;
 }
 
