@@ -76,7 +76,7 @@ A gallery with a painter with a touch of prophetic abilities. They paint mostly 
 ## Seabound
 A bait and tackle shop near the coast, sells fishing gear and will take the occasional adventurer to nearby islands for free if they can catch a fish with a spear.
 
-# Shower Scraps
+# Kitchen Scraps
 *Because we don't waste food in this lair.*
 
 Need a reason to curse honey coming from the bee farm in Fairhaven. All I know is the bees keep secrets.

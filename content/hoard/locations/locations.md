@@ -10,7 +10,7 @@ order = 2
 # The Nether Isles: A Race for Ascension
 *Zokar's apostles hunt the realm for the lost relics of the gods. Each tied to a former deity's ascension, one on the cusp of godhood must consume the arcane from each holy relic. Lhoris, the initiate that escaped, makes a risky gambit. Stealing the five artifacts, he uses the last of his power to seal them away on five islands hidden among different realms.*
 
-*But his body weakens, his power still tied to the insatiable hunger of the Myconid, and creates an unstable rift. The islands are drawn into a single place, appearing along the continent's southern coast. The rifts, combined with the immense power of the relics, warp the islands. They now infect the land they inhabit, warping it to reflect the deific power.
+*But his body weakens, his power still tied to the insatiable hunger of the Myconid, and creates an unstable rift. The islands are drawn into a single place, appearing along the continent's southern coast. The rifts, combined with the immense power of the relics, warp the islands. They now infect the land they inhabit, warping it to reflect the deific power.*
 
 *In his weakened state, he must seek out the aid of a chosen few to find these relics and bring them to him. Once gathered, the energies can be reforged into a weapon to stop the ascension and end Zokar's hunger once and for all.*
 
