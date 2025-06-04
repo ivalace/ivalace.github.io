@@ -134,6 +134,21 @@ nav a[aria-current="page"] {
   margin: 1rem 0 1rem 0;
 }
 
+/* Responsive: stack hero buttons with equal spacing on mobile */
+@media screen and (max-width: 600px) {
+  .hero-card .buttons,
+  .hero-card .cv-button-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+    margin: 0;
+  }
+  .hero-card .cv-button-container {
+    margin-top: 1rem;
+  }
+}
+
 /* ---------- 7. UTILITIES ---------- */
 .bg-fuchsia {
   background: var(--clr-fuchsia);
