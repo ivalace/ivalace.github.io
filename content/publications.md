@@ -5,6 +5,8 @@
 
 # Fiction
 ## Game Resources
+*[The City of Caidour](https://www.dmsguild.com/product/525482/The-City-of-Caidour?affiliate_id=4377766)*, Published on DMs Guild in 2025
+
 *[The Town of Motlier](https://www.dmsguild.com/product/489522/The-Town-of-Motlier?affiliate_id=4377766)*, Published on DMs Guild in 2024
 
 *[The Town of Fairhaven](https://www.dmsguild.com/product/497847/The-Town-of-Fairhaven)*, Published on DMs Guild in 2024
