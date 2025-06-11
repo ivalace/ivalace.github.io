@@ -2,7 +2,7 @@ I promise only my stories bite. I'm Ivy, narrative gremlin extraordinaire. I'd s
 
 Why you should summon me:
 - Two self-published novels, over 150 copies sold
-- Two RPG supplements on DMs Guild, over 500 downloads
+- Three RPG supplements on DMs Guild, over 500 downloads
 - Branching narratives scripted in Ink
 - An ear for character voice rivaled only by an eye for detail
 - Worlds built to fit any genre or ruleset
