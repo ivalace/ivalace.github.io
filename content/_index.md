@@ -12,4 +12,4 @@ What you get with your summons:
 - Adaptability to any medium, from zines to CRPGs
 - Every word forged with precision
 
-Check out my Trophies, or dive right into the Lore Hoard! Pressed for time? Download my CV below.
+Check out my publications, or dive right into samples of my work! Pressed for time? Download my CV below.
