@@ -5,16 +5,25 @@
 
 # Fiction
 ## Game Resources
-*[The City of Caidour](https://www.dmsguild.com/product/525482/The-City-of-Caidour?affiliate_id=4377766)*, Published on DMs Guild in 2025
+*Fungal Scavengers*, Published in 2025
+- On Itch.io: https://ivalace.itch.io/fungal-scavengers
+- On DriveThruRPG: https://legacy.drivethrurpg.com/product/528187/Fungal-Scavengers
 
-*[The Town of Motlier](https://www.dmsguild.com/product/489522/The-Town-of-Motlier?affiliate_id=4377766)*, Published on DMs Guild in 2024
+*The City of Caidour*, Published in 2025
+- On DMs Guild: https://www.dmsguild.com/product/525482/The-City-of-Caidour
 
-*[The Town of Fairhaven](https://www.dmsguild.com/product/497847/The-Town-of-Fairhaven)*, Published on DMs Guild in 2024
+*The Town of Motlier*, Published in 2024
+- On DMs Guild: https://www.dmsguild.com/product/489522/The-Town-of-Motlier
+
+*The Town of Fairhaven*, Published in 2024
+- On DMs Guild: https://www.dmsguild.com/product/497847/The-Town-of-Fairhaven
 
 ## Novels
-*[The Doppelgänger Files](https://www.amazon.com/dp/B077SG115Z)*, Published on Amazon in 2017
+*The Doppelgänger Files*, Published in 2017
+- On Kindle: https://www.amazon.com/dp/B077SG115Z
 
-*[Haunted](https://www.amazon.com/dp/B0F85628YF)*, Published on Amazon in 2021
+*Haunted*, Published in 2021
+- On Kindle: https://www.amazon.com/dp/B0F85628YF
 
 # Nonfiction
 ## Journalism
@@ -36,11 +45,17 @@
 
 ### Inkwell Archives
 
-*[Where Did All The Aliens Go?](https://ivylee.ink/blog/where-did-all-the-aliens-go/)* Modern sci-fi is boring. Bring back the puppets.
+*Where Did All The Aliens Go?*
+Modern sci-fi is boring. Bring back the puppets.
+- On Substack: https://open.substack.com/pub/ivalace/p/where-did-all-the-aliens-go
 
-*[Game of Thrones: A Retrospective](https://ivylee.ink/blog/game-of-thrones/)* A messy autopsy of a beloved show and why it deserves a rewatch.
+Game of Thrones: A Retrospective
+A messy autopsy of a beloved show and why it deserves a rewatch.
+- On Substack: https://open.substack.com/pub/ivalace/p/game-of-thrones-a-retrospective
 
-*[The Last of Us Part II: A Hollow Victory](https://ivylee.ink/blog/the-last-of-us-pt-2/)* An unapologetic defense of the writers who broke my heart; and my controller.
+*The Last of Us Part II: A Hollow Victory*
+An unapologetic defense of the writers who broke my heart... and my controller.
+- On Inkwell Archives: https://ivylee.ink/blog/the-last-of-us-pt-2/
 
 ### Ivory Desk
 
