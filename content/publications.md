@@ -1,11 +1,24 @@
 +++
  title = "Publications"
- order = 6
+ order = 9
 +++
 
 # Fiction
 
 ## Game Resources
+
+_Kiva and the Maglev Heist_, Published in 2026
+
+- On Itch.io: https://ivalace.itch.io/maglev-heist
+- On DriveThruRPG: https://legacy.drivethrurpg.com/product/558643/Kiva-and-the-Maglev-Heist
+
+_Hollow Market_, Published in 2026
+
+- On Itch.io: https://ivalace.itch.io/hollow-market
+
+_The Stone of Keeping_, Published in 2026
+
+- On Itch.io: https://ivalace.itch.io/the-stone-of-keeping
 
 _Varth's Veingud Vaxis_, Published in 2025
 
