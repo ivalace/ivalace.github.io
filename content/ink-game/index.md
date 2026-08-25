@@ -1,5 +1,6 @@
 ---
 title: "The Tavern"
+layout: "static"
 ---
 
 <picture style="display:inline-block;height:1em;width:1em;margin-right:.25em;vertical-align:text-bottom;">
@@ -8,4 +9,4 @@ title: "The Tavern"
 </picture>
 Source code <a href="https://github.com/ivalace/motlier-tavern-ink" target="_blank" rel="noopener">here</a>
 
-<iframe src="/motlier-ink/index.html" style="width:100%; height:80vh; border: 2px solid var(--clr-pink); border-radius: 1rem; min-height: 48rem;"></iframe>
+<iframe src="/motlier-ink/index.html" style="width:100%; height:80vh; border: 2px solid currentColor; border-radius: 1rem; min-height: 48rem;"></iframe>

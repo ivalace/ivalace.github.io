@@ -1,6 +1,7 @@
 +++
  title = "Publications"
  order = 9
+ layout = "static"
 +++
 
 # Fiction

@@ -1,13 +1,10 @@
 +++
-
 title = "Races and Creatures"
-
-order = 4
-
+weight = 4
+layout = "static"
 +++
 
-
-*A world beyond Elves and Goblins*
+_A world beyond Elves and Goblins_
 
 ---
 
