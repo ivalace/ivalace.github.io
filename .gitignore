@@ -2,3 +2,4 @@
 .hugo_cache
 public/
 public_build/
+node_modules/

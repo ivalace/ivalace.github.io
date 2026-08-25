@@ -1,0 +1,17 @@
+{{ define "main" }}
+<div id="single-post">
+    <article>
+        <h2>{{ .Title }}</h2>
+
+        {{ .Content }}
+
+        <ul>
+            {{ range .RegularPages.ByWeight }}
+            <li>
+                <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+            </li>
+            {{ end }}
+        </ul>
+    </article>
+</div>
+{{ end }}

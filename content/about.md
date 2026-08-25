@@ -2,6 +2,8 @@
 
 title = "About The Gremlin"
 
+layout = "static"
+
 +++
 
   

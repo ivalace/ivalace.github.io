@@ -1,0 +1,28 @@
+baseURL: "https://ivalace.github.io/"
+locale: "en-us"
+title: "My Lair"
+theme: "neopost"
+permalinks:
+  posts: "/blog/:filename/"
+
+params:
+  theme: "light-purple"
+  posts-per-page: 5
+  read-more:
+    length-limit: 400
+    text:
+      more: "read more"
+      less: "read less"
+  sidebar:
+    tags:
+      enable: true
+      limit: 5
+      more-text: "more tags..."
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  tableOfContents:
+    startLevel: 1
+    endLevel: 6
