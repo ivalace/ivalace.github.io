@@ -12,7 +12,7 @@
     <meta name="description" content="{{ with .Params.description }}{{ . }}{{ else }}{{ .Summary }}{{ end }}">
 
     {{ if isset .Params "tags" }}
-    <meta name="keywords" content="{{ with .Params.tags }}{{ delimit . " , " }}{{ end }}">
+        <meta name="keywords" content="{{ with .Params.tags }}{{ delimit . ", " }}{{ end }}">
     {{ end }}
 
     {{ partial "style.html" . }}
@@ -24,7 +24,7 @@
 
 <body>
     <header>
-        <h1 id="{{ .Site.Title }}"><a href="{{ absLangURL " /" }}">{{ .Site.Title }}</a></h1>
+        <h1 id="{{ .Site.Title }}"><a href="{{ absLangURL "/" }}">{{ .Site.Title }}</a></h1>
     </header>
     <main>
         {{ block "main" . }}{{ end }}

@@ -16,7 +16,7 @@ And why we peaked with Farscape.
 
 <!--more-->
 
-# Foreword
+## Foreword
 
 Once upon a time, I stubbornly refused to like sci-fi. Space was boring and frankly all the techy stuff made my eyes glaze over. Give me swords and orcs over aliens and space ships any day. Then I watched Star Wars for the first time when I was twenty years old. Rather, my newlywed husband made me watch them all because The Force Awakens was coming out that year and we were going to see it in theaters with his entire friends and family. I relented, with much grumbling and huffing and when the credits rolled on Episode 3, I had lost my ever-loving mind. The lasers! Jabba the Hutt! Han Solo! Stormtroopers! I was absolutely appalled that my uneducated former self had stolen such amazing movies from me.
 
@@ -32,7 +32,7 @@ It wasn't until I watched all of Farscape that I finally had to begrudgingly adm
 
 At first blush, the answer seems rather simple. Aliens. Not scary monster aliens, but proper aliens. Farscape aliens. But this problem goes so much deeper and spreads so much farther than that. So let's see if we can break it down into bite-sized pieces.
 
-# Humor
+## Humor
 
 The first one can actually be applied to so much of modern media, I could probably write a whole separate essay on it. But for now, let's just try to remain focused on sci-fi specifically. Back when Stargate SG1 and Farscape came out, meme culture didn't really exist. Especially not to the extent that it does today. I think, because of the rise of meme culture, what the average person sees as funny is wildly different. The bar for a laugh is now set so low, if you have one character addicted to coffee or feeling the slog of a job or acting ADHD in any way you've got a chuckle. Make it their whole character, and you've got a meme. Or worse, a _M O O D_. But does this mean that wittier, better written humor isn't funny? Is today's generation unable to appreciate the sharp wit or wisecracks of old?
 
@@ -48,7 +48,7 @@ Modern-day shows are missing this. The line between comedy and drama has grown i
 
 Now, I'm not saying there isn't a place for dark, serious sci-fi shows and movies. Some of my favorite movies are dark, dramatic, edge-of-my-seat rides. Whether it's the more modern shows like Interstellar or oldies like Alien, not every movie and show has to be a wacky, comedic romp. But the divide is so wide that anything that _is_ meant to be funny tends to be _only_ funny. Rick and Morty is just funny. Futurama is just funny.
 
-# CGI and Realism
+## CGI and Realism
 
 This is a problem I believe many games also suffer from: everyone is obsessed with hyper-realism. Even the grit has polish! Technology has advanced exponentially since the first sci-fi movies and shows came out. Even as recent as the 2000s, we have seen leaps and bounds in what we are capable of doing when it comes to CGI and special effects. Unfortunately, I think the lessening of restrictions has resulted in more boring visuals. While technological feats are cool, and I love me some crazy machinery and realistic explosions, there is just something special about the weird, wacky prosthetics of old. Aliens in Star Wars and Farscape were amazing and wonderful and most importantly _diverse_. It's a wild and weird multiple galaxies out there, it shouldn't be filled with humans.
 
@@ -82,7 +82,7 @@ Yoda was... an unfortunate casualty in the world of CGI. I don't claim to be any
 
 <img src="http://images4.fanpop.com/image/photos/21100000/Ka-D-Argo-farscape-21175060-2048-2560.jpg" width="450" height="600">
 
-# Oh, the _variety_! ...or lack thereof
+## Oh, the _variety_! ...or lack thereof
 
 Setting aside mere appearances, where is the variety of alien civilizations? Do you know how big the universe is? Let's say for a moment that you have an Earth or Earth-like planet, with equivalent life. Are all planets really just going to be copy-and-pasted versions of ferns and humans? Or worse, completely devoid of any sentient/sapient lifeforms? Where are my hive-minded plant people? My crustaceans that communicate with clicks of their claws? Just imagine for a moment, an entire forest of sentient trees debating their war against the encroaching ferns through patterned leaf rustling. Knitting their branches together to provide shelter for their bird friends. Other non-humanoid races, either technologically advanced or pre-agrarian, should exist in the universe. At least from a story perspective. Either we're alone or we are among many. But even beyond what would be _plausible_ (hello, no one watches TV for reality, not even people who watch 'reality tv') I just think it's not very interesting to see mindless monsters invading Earth. What, you're telling me an entire alien race mastered interstellar travel just to growl at us? They don't exhibit any sort of hierarchy? They don't have any sort of higher intelligence beyond basic murder instincts? That, to me, is lazy writing and a missed opportunity. And any sentient, sapient alien race with a hierarchy society capable of interstellar travel would have at least one individual with wit and/or a sense of humor. It's just... how thought works, okay? So why do we keep making these boring, _Ooo scary alien_ shows?
 
@@ -102,7 +102,7 @@ For this point, I want to reach for Farscape- _kidding!_ Can you tell I've recen
 
 Now whether or not it's still classified as a virus in the show, it does eventually grow and evolve to the point where it speaks through O'Neill revealing its history and its intentions. It may be a virus, but it is also a sentient race whose desire isn't necessarily to kill. It simply doesn't care if it kills all life on earth if it means it can have a chance to restart. This was a brilliant move on the writer's part. They could have simply made it an artifact that was a bioweapon containing a mindless virus. It would have still been scary, still made the episode a good one, but would it have stuck in my memory? Not even a little. For a monster-of-the-week episode, it was definitely one of the better in the early seasons thanks to the simple move of making the virus sentient and giving it a lore and a purpose.
 
-# Politics
+## Politics
 
 Listen. It's uh... spicy out there. Thankfully, sci-fi is a great medium to talk about. After all, we're already living in a world that 20, 40, 60 years ago only existed in paper back novels. But why the hell does every sci-fi show want to pretend as if thinly veiled allegories about climate change, lack of privacy, and capitalism are the only way to incorporate politics into a show? I feel like so many movies and shows are trying to make political statements by repeatedly using these same narratives. And they try to make them as dark and doomsday as possible. The politics in *Stargate SG-1* were real and relevant, without making me want to turn my TV off and go back to reality because at least we aren't all living in a bunker yet. An even better example would be the multitude of political issues explored in Farscape. Moya is a sentient being—and a _spaceship_. What kind of freedom is such a being allowed? And Zhaan, being a Delvian priestess, is constantly caught between the politics of her religious and the group's need for survival as run away prisoners. I'd just like to ask the people of this fair and foul planet: which would you rather watch? A) A show that is basically just Earth in the darkest possible future where climate change has driven us all into a bunker or we're living under an authoritarian government with no personal freedom, or B) A show where two people are turned into living statues and placed outside a government building for eighty of the planet's cycles to learn the wisdom of governance before they are set to rule? I'd say the choice is obvious. Both are political, but one is new and exciting. The other is just more of the same, overused, uninspired tropes.
 
@@ -114,7 +114,7 @@ I would argue that it is borderline necessary to bring politics into sci-fi when
 
 Me too, Anakin. Me too.
 
-# Conclusion
+## Conclusion
 
 Honestly, it's hard not to wrap this all up as just an obsessive fans ranting about how nothing could ever be as good as Farscape. But I mean... has anything been as good? Farscape was messy. It was crazy. The aliens were creative and unique, the characters unapologetically wacky and wild while still being complex, 3 dimensional beings with growth. The story had it all, the humor, the grit, the drama, the politics! It was STRANGE it was WONDERFUL and by GOD IT HAD THIS CRAZY MOTHERFUCKER:
 
