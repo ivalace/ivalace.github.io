@@ -56,7 +56,7 @@ _Yes, I am aware Stargate is filled with humans. Yes, I can be critical of my fa
 
 _My apologies to the writers. I still love your work. Please give us more Stargate._
 
-<img src="https://media1.tenor.com/m/3toTRlXDjLQAAAAC/gif.gif">
+<img src="https://media.tenor.com/3toTRlXDjLQAAAAC/gif.gif">
 
 It also shouldn't be filled with non sentient blobs with teeth. Non-sentient monsters, especially ones of invading Earth? Parasitic creatures that invade spaceships? These are cool and all, but aside from being boring from a written perspective they are also boring from a design perspective. Oh, look. Another hulking black thing that you never get to see clearly. Vaguely bestial, probably has sharp teeth, runs on all fours. You know what's really scary? Halosians. Let me share with you an excerpt on the descriptions of Halosians from the Farscape Fandom Wiki page:
 
@@ -90,7 +90,7 @@ Now, I know what some of you are thinking. There is an argument to be made for a
 
 It's BORING. Are you telling me we peaked with this form? No wings? No scales? Can't even consume sunlight as a primary nutrition? Can only breathe a very specific atmosphere? Honestly, who cares how scientifically sound a lore is. Again, we don't come here for reality. We come here for the cool shit, primarily, aliens. It's so hard for me to justify watching and consuming new shows and movies when I know I could just go back and watch Farscape again. Why would I watch Invasion when the trailer _literally shows me a black blob with teeth?_ I'm not even kidding, look at this shit:
 
-<img src="https://dab57h0r8ahff.cloudfront.net/555801/uploads/af28b9d0-596a-11ec-81c9-5555ddd2a913_1200_630.png">
+[*Invasion* trailers and videos](https://www.apple.com/tv-pr/originals/invasion/trailers-videos/)
 
 And what about the new prequel to A Quiet Place? Like, okay, the original movie was _amazing_. The direction was great, the writing was great, and I loved the premise of a silent world and monsters that could only hear. But that's what they were: monsters. Not aliens, but utterly terrifying monsters. These creatures shouldn't be capable of interstellar travel. It shouldn't have been possible for them to arrive in our solar system and invade our planet. They're predatory monsters, plain and simple. No matter how good the direction or cinematography is, when you boil it down... it's just another boring, generic scary alien monster movie. And that's disappointing.
 
