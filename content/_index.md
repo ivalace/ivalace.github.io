@@ -5,18 +5,6 @@ aliases:
 
 I promise only my stories bite. I'm Ivy, narrative gremlin extraordinaire. I'd shake hands, but mine are perpetually covered in ink. I've been making worlds to play in since I was nothing more than a little floor gremlin.
 
-Why you should summon me:
+Nowadays, you can find me creeping through the weeds of projects, ensuring consistency and quality across every level of design. That could mean writing and editing player facing prose, helping communicate design ideas to artists, or going through each system and mechanic and painstakingly ensuring it reflects the story you're trying to tell.
 
-- Two self-published novels, over 150 copies sold
-- Multiple TTRPG supplements on DMs Guild, DriveThruRPG and Itch
-- Branching narratives scripted in Ink
-- An ear for character voice rivaled only by an eye for detail
-- Worlds built to fit any genre or ruleset
-
-What you get with your summons:
-
-- Prose seasoned precisely to your liking
-- Adaptability to any medium, from zines to CRPGs
-- Every word forged with precision
-
-Check out my publications, or dive right into samples of my work! Pressed for time? Download my CV below.
+Even if you don't write a single word, every game tells a story. Let me help you tell yours.
