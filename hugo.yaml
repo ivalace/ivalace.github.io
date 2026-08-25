@@ -1,4 +1,4 @@
-baseURL: "https://ivalace.github.io/"
+baseURL: "https://ivylee.ink/"
 locale: "en-us"
 title: "My Lair"
 theme: "neopost"
@@ -7,6 +7,7 @@ permalinks:
 
 params:
   theme: "light-purple"
+  favicon: "/favicon.png"
   posts-per-page: 5
   read-more:
     length-limit: 400
