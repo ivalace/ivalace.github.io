@@ -1,7 +1,7 @@
 ---
 headless: true
-icon-use-flower-shape: true
-icon-path: "/old-pixel-profile.png"
+icon-use-flower-shape: false
+icon-path: "/SelfPortraiteWip.png"
 links:
   - name: "about"
     link: "/about/"
