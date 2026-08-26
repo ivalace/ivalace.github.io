@@ -20,6 +20,8 @@ My name is Ivy, I'm a Narrative Gremlin living in Tokyo with my family. I publis
 
 - Favorite Movie: A Knight's Tale. Mostly because the writing for Chaucer is my comfort food.
 
+- Favorite Anime: YuYu Hakusho and My Dress Up Darling
+
 - Favorite Book: The Stormlight Archive series by Brandon Sanderson. I also loved reading through the World of Warcraft Chronicles.
 
 I hope you enjoyed your glimpse into the madness! If you're interested in hiring me, you can contact me at [ivy@lee.social](mailto:ivy@lee.social). If you haven't yet checked out my work, you can find links to all my publications in my [trophies](/publications).
