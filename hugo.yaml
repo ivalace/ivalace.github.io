@@ -6,6 +6,8 @@ permalinks:
   posts: "/blog/:filename/"
 
 params:
+  images:
+    - "/social-preview.png"
   theme: "light-purple"
   favicon: "/favicon.png"
   posts-per-page: 5
