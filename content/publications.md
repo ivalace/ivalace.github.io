@@ -1,12 +1,15 @@
 +++
  title = "Publications"
- order = 9
+ order = 10
  layout = "static"
 +++
 
 # Fiction
 
 ## Game Resources
+
+_Scraps and Slaps_, Published in 2026
+- On Itch.io: https://ivalace.itch.io/scraps-and-slaps
 
 _Kiva and the Maglev Heist_, Published in 2026
 
