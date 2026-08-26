@@ -1,5 +1,7 @@
 .flower {
+    display: block;
     width: 256px;
     height: 256px;
+    margin-inline: auto;
     image-rendering: pixelated;
 }
