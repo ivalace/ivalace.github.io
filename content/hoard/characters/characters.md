@@ -8,52 +8,59 @@ _Because a hyper uniform population isn't all that interesting._
 
 ---
 
-# The Heart of Motlier
+# Sci-Fi and Cyberpunk
 
-_Cozy characters made with love... And perhaps a touch of magic._
+_From Fallout to Farscape, characters for the most dubious of settings._
 
-## Julie Starchild
+## Varth
+*No need for pretty titles. I'm not like those sleek skinned fools who fancy themself a braincell.*
+Varth is a rather repugnant man of dubious morals. Sitting hunched behind his counter, he's always got some manner of mess before him, usually liquid and almost certainly dangerous. "Call it insurance," he'll say. "Little bit of enlightenment for misguided customers, eh?" The walls are covered in insane scribbles and crude drawings of atoms, senseless to all but Varth, his assistant Milgath and oddly his pet bird, Screnik.
 
-An orphan, discovered abandoned in the town square, Julie was raised by the entire town and is seen to all as a daughter. She spent most of her days at the Ram's Horn Tavern learning to cook. Despite an insatiable curiosity of the outside world, she is scared of outsiders and has never traveled beyond the surrounding woods. When the tavern keeper's wife passed away, she took up the role as the new chef. All who eat her food can feel a deep sense of healing from it, a gift she unwittingly bestows upon every weary traveler to pass through town. When Lhoris makes an appearance in town, she finds herself drawn to his solitary nature. After sharing a meal, a bond forges between them, growing fast into something deeper.
+- **Role**: Doc/Scientist/Inventor
+- **Motivation**: Money to fund his experiments.
+- **Fears, Flaws, and Habits**: He is addicted to his work, constantly injecting himself with all manner of concoctions in the name of science.
 
-Unbeknownst to all, she is the daughter of the Mother, a druidic goddess of Life and Love. Her cooking is a focus for the powers of her heritage. When The Mother was cast down into her slumber, she sent her only true daughter to a place where she could live in peace, hidden away from the gods.
+## Buckets
+"*Kill, KILL, ki-ki-kiss? Eliminate bacteria. B-b-huma-cteria bad. Bucket will destroy.*"
+Another one of Varth's misfits, Buckets is a refurbished military enforcer bot. Though he swears up and down he reprogrammed the thing, Milgath and Screnik both are unconvinced. To alleviate their concerns, Varth painted a big, hot pink smile over the bots helmet and replaced it's chest cannon with a sanitizer.
+- **Role**: Sanitizer and handler of hazardous wastes
+- **Motivation**: Definitely NOT to eradicate all creatures of flesh. Just the bacteria inside them.
+- **Fears, Flaws, and Habits**: Buckets channels it's thirst for destruction in a much healthier manner than other ex-military bots: destroying bacteria off Varth's equipment. And his counter. And sometimes his guts. But hey, that's what the yellow slime mold in the fridge is for!
 
-## Boris Grizzlespark
+### Valen "Slugs" Tins
+*Let's play a game. We'll both take these pistols here and see who can blast the others toes off first! Wait, where are you going?*
 
-Boris is an easy going barkeep with one simple rule: no one hurts his counter. He's a half orc of somewhat smaller stature, with lower tusks and dusky brown skin. His ashen brown hair is kept neatly tied back away from his face, revealing deep laugh lines and slightly pointed ears. Ostracized from his clan for preferring to brew over brawl, he settled in Motlier when he was still rather young. The tavern was built with his own two hands and is the newest building in the town. He is well loved by the townsfolk, although it took some time and some damn good ale to convince them that he wasn't a threat.
+Slugs is a loose cannon, living for the thrill of the fight and the high of the heist. While they've mellowed a bit since joining the crew, they can't always shake the desire to taunt death, racing towards the edge of the knife.
 
-The counter of his bar is a gift from his human mother, though he doesn't like to talk about her much. Truly one of a kind, the wood is dark as obsidian and completely without the natural lines and knots of normal wood. In certain lights, a faint silver grain appears in the wood. If anyone scratches, steps on, or in any way disrespects it Boris will not hesitate. He hurls them out into the street and banishes them for life.
+Suggested Build
+- **Role**: Support, Ranged DPS, AoE
+- **Class and Theme**: Gunslinger, Daredevil
+- **Special Abilities**: *Ricochet* - bullets bounce off enemies, lessens damage but increases amount of enemies hit. *Point Blank* - Shoot an enemy directly beside you with an explosive blast, high damage but risk of shrapnel blowback.
 
-# The Exiled Wanderer
+Character Flavor
+- **Motivation**: They really just want to put as many holes in the world as they can.
+- **Fears, Flaws, and Habits**: Is addicted to gambling, but with their own life. They've got the addiction under control. Mostly.
+- **Spending**: Slugs spends half their shares chasing the most bombastic, time stopping bullets and gun combos, and the other half gambling that they can keep all their limbs while handling them.
 
-_The old must suffer the consequences of youth._
 
-## Lhoris
+# Fantasy
 
-Tainted by the cursed spores of Zokar, Lhoris is a wild magic sorcerer exiled from his clan. Son of a renowned druid, his destiny as the next clan leader was irrevocably shattered upon a foolish choice made in the curiosity of youth. After exploring the forbidden fetid grotto, he discovered an unfamiliar species of fungus. A fungus which was among the first of Zokar's influence appearing on the surface. What began with an innocent hunger for knowledge quickly became a tale of horror. The spores infected him, tainting his innate power and bringing him into the Maw. He was spared the horrible fate by his father, who upon discovering his son was an unwilling initiate of the cult, used the last of his powers to purge the mark from his flesh. Unable to fully heal his son of the corruption, he was forced by the circle to cast him from their lands into exile.
+_Wizards, Warlocks, Maidens, oh my!_
 
-Cursed with immortality and the sickness of wild magic by the spores, he wanders the continent seeking not only redemption, but the aid to fight the growing threat of the myconid's twisted power. His search takes him to Motlier, where he hopes to uncover the temple of Alva. What he finds instead is ruins overtaken by the fungal growth, and a kind woman with an innate magic that reminds him of home.
+## Matron Tholgrith
 
-# An Insatiable Greed
+The oldest living Stone Maiden and keeper of the vault. She undertook the Rite before modern protections were added, and her body reflects the reasons for the updated measures. Hair grows in sharp, grey spikes from her skull, her stone skin covered in a cracked lattice of mineral veins. Gold and silver cut like tears across her cheeks, and her fingers grow sharp, crystalized nails. Completely blind and deaf, she relies on her communion with the stones beneath her feet to navigate the library and to speak with her fellow Stone Maidens.
 
-_Beware the gluttonous spores._
-
-## Zokar
-
-Consumed by a never ending hunger for magical essence, Zokar is a being on the brink of godhood. As he spreads his spores across the Underdark, he taints the arcane, twisting it into a form he can devour. Denizens of the Underdark have begun to avoid his domain, driving even the Drow from the far corners. Yet those with darkness in their heart gather under his spores, worshiping his greed. The original four that serve him are known as apostles, leaders of his cult, each with their own twisted hungers.
-
-Zokar is a giant myconid of brilliant, prismatic coloring with gnarled, twisted stems and a large multi-layered crown. The rippling, hypnotic mass of his crown grows larger the more he consumes, releasing more of his spores into both the Underdark and now seeping through the cracks to the surface. His only thought is to sate the endless hunger. As he warps and consumes arcane energies, his influence on those infected with his spores grows.
-
-# The Sun Among The Stars
-
-_Not all covers lie._
+- **Role**: Matron Leader of the Stone Maidens
+- **Motivation**: The continued protection and care of the Mineral Library.
+- **Fears, Flaws and Habits**: She is hard on all new recruits, and believes the updated measures result in weakened Maidens.
 
 ## Azaela
 
-Azaela is a Tiefling who was born blind on the streets of a coastal town. She was abandoned on the steps of an orphanage, but because of her infernal blood she was discarded and left for dead. However, she was taken in by another Tiefling who ran a small thieving operation with others of their kind. She learned to rely on her other senses and became quite the charlatan, alternating between pickpocketing and conning wealthy nobles out of their accessories by hustling them with her blindness. Eventually, she managed to pilfer a ring that housed a genie. In exchange for sight, she promised to fulfill the genie's every wish. As an adult now, she runs a shop that specializes in extravagant and beautiful adventuring gear. Obsessed with all things colorful and shiny, she enjoys making practical adventuring armor and accessories that don't sacrifice fashion for usability.
+Azaela is a Tiefling living in the city of Caidour. She runs a shop that specializes in extravagant and beautiful adventuring gear. Obsessed with all things colorful and shiny, she enjoys making practical adventuring armor and accessories that don't sacrifice fashion for usability.
 
-Her most important and precious possession is the goggles gifted by the genie that allow her to see. These are fitted to her by leather straps around the back of her head. Bronze metal frames house mirrored magenta lenses, obscuring her eyes underneath. They grant her vision, but without them she remains blind. Therefore, she never takes them off, even in sleep. Given her extravagant and extremely eccentric fashion style, most people chalk it up to her simply being strange.
+Her prized possession is her Mirrored Goggles: thick, bronze metal casing with hot pink mirrored lenses, they connect to her face with black leather straps. They were gifted to her by her genie patron and allow her to see.
 
-She carries a belt around the waist and a sash across her chest that contains several spools of thread in various colors and vials of dye. A pouch of needles in various sizes sits where the hilt of a dagger would rest. Her gloves are tipped in shiny metal claws painted a bright shade of yellow mixed with flecks of gold foil. Her patent adventuring boots have a stiletto heel that folds upwards into the sole of the shoe in order to make traversing difficult terrain easier. She repurposed the ring that holds the genie into an earring that hangs from her left ear, along with several other dangling chains and a few spiked rings. Her other ear sports an earring made from a baby owlbear's feather. She refuses to speak of how she got such a feather.
-
-She's a Tiefling of the Fierna Bloodline. The bright red skin of her hands and knees are covered with a lattice work of scars, remnants of her time blindly scraping her way through cobbled streets. While manning her shop, she keeps her two large wings painted to resemble some new and interesting creature seen on her travels. Her hair is a thick and curly purple, woven with colorful threads.
+- **Role**: Owner of Iron Woman Armorer
+- **Motivation**: To make a set of armor out of the bones of a God.
+- **Fears, Flaws, and Habits**: Being born blind, her biggest fear is the loss of the goggles that grant her sight.
