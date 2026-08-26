@@ -3,7 +3,7 @@ headless: true
 icon-use-flower-shape: false
 icon-path: "/SelfPortraiteWip.png"
 links:
-  - name: "Work With Me"
+  - name: "work with me"
     link: "/hire-me/"
   - name: "publications"
     link: "/publications/"
