@@ -5,3 +5,35 @@
     margin-inline: auto;
     image-rendering: pixelated;
 }
+
+#content > main,
+#single-post > article {
+    min-width: 0;
+}
+
+article {
+    overflow-wrap: anywhere;
+}
+
+iframe,
+video {
+    max-width: 100%;
+}
+
+@media only screen and (max-width: 800px) {
+    #sidebar {
+        width: 100%;
+        min-width: 0;
+        max-width: 100%;
+    }
+
+    #content > main,
+    #single-post > article {
+        width: 100%;
+    }
+
+    .flower {
+        width: min(256px, 100%);
+        height: auto;
+    }
+}
