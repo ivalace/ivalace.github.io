@@ -1,0 +1,10 @@
+{{ $current := .RelPermalink }}
+{{ with .Site.GetPage "/sidebar" }}
+<nav class="site-navigation" aria-label="Main navigation">
+    <ul>
+        {{ range .Params.links }}
+        <li><a href="{{ .link | relURL }}"{{ if eq $current .link }} aria-current="page"{{ end }}>{{ .name }}</a></li>
+        {{ end }}
+    </ul>
+</nav>
+{{ end }}

@@ -27,6 +27,7 @@
 <body>
     <header>
         <h1 id="{{ .Site.Title }}"><a href="{{ absLangURL "/" }}">{{ .Site.Title }}</a></h1>
+        {{ partial "site-navigation.html" . }}
     </header>
     <main>
         {{ block "main" . }}{{ end }}
