@@ -1,3 +1,16 @@
+---
+title: "Patreon Launch!"
+date: "2026-09-05"
+author: "Ivy Lee"
+draft: false
+tags:
+  - life
+  - blog
+description: "patreon"
+table-of-contents: true
+toc-auto-numbering: false
+---
+
 Patreon is now LIVE! Welcome to the [Inkwell Archives](https://www.patreon.com/cw/Ivalace)~
 
 # The Tiers
