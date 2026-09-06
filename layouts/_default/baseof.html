@@ -30,8 +30,17 @@
         {{ partial "site-navigation.html" . }}
     </header>
     <main>
+        {{ if not .IsHome }}
+        <div id="content" class="inner-page-layout">
+            {{ partial "profile-sidebar.html" . }}
+            <div class="page-content">
+        {{ end }}
         {{ block "main" . }}{{ end }}
         {{ if .Param "nextprev" }}{{ partial "nextprev.html" . }}{{ end }}
+        {{ if not .IsHome }}
+            </div>
+        </div>
+        {{ end }}
     </main>
 </body>
 

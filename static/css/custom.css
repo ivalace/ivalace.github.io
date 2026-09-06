@@ -142,3 +142,31 @@ body > header {
         width: 100%;
     }
 }
+
+/* Keep the profile beside page content on desktop, as on the homepage. */
+.inner-page-layout > .page-content {
+    min-width: 0;
+    width: 100%;
+}
+
+@media (min-width: 801px) {
+    #sidebar {
+        width: 320px;
+        flex-shrink: 0;
+    }
+
+    .inner-page-layout > .page-content {
+        flex: 1;
+        padding: 0 1em 1em;
+    }
+
+    .inner-page-layout #single-post > article {
+        width: 100%;
+    }
+}
+
+@media (max-width: 800px) {
+    .inner-page-layout > #sidebar {
+        display: none;
+    }
+}

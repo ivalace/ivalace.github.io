@@ -11,31 +11,7 @@
     </nav>
     {{ end }}
     <div id="content">
-    <aside id="sidebar">
-        <div id="avatar">
-            {{ with .Site.GetPage "section" "/sidebar/_index.md" }}
-            <img class="flower" src="{{ index .Params "icon-path" }}">
-            {{ end }}
-        </div>
-
-        <div id="bio">
-        {{ with .Site.GetPage "section" "/sidebar/bio.md" }}
-            {{ .Content | safeHTML }}
-        {{ end }}
-        </div>
-
-        <div class="small-box">
-            {{ with .Site.GetPage "section" "/sidebar/basic-info.md" }}
-                {{ .Content | safeHTML }}
-            {{ end }}
-            </ul>
-        </div>
-
-        <div class="sidebar-support">
-            <a class="patreon-button" href="https://www.patreon.com/cw/Ivalace">Patreon!</a>
-        </div>
-
-    </aside>
+    {{ partial "profile-sidebar.html" . }}
     <main>
         <article id="top" class="clearfix">
             {{ with .Site.GetPage "section" "/welcome-header/_index.md" }}
