@@ -113,3 +113,32 @@ body > header {
     padding-inline: 1rem;
     max-width: 272px;
 }
+
+/* Stack profile sections whenever the page uses its mobile layout. */
+@media (max-width: 800px) {
+    #sidebar {
+        flex-direction: column;
+        flex-wrap: nowrap;
+        align-items: stretch;
+    }
+
+    #sidebar > #avatar {
+        max-width: none;
+    }
+
+    #sidebar > #bio {
+        width: auto;
+    }
+
+    #sidebar > .small-box {
+        width: calc(100% - 2rem);
+    }
+
+    #sidebar > .small-box ul {
+        display: block;
+    }
+
+    #sidebar > .sidebar-support {
+        width: 100%;
+    }
+}
