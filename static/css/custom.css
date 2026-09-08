@@ -109,9 +109,16 @@ body > header {
 }
 
 .sidebar-support {
+    display: flex;
+    flex-direction: column;
+    gap: .6rem;
     margin: 1.25rem auto;
     padding-inline: 1rem;
     max-width: 272px;
+}
+
+.sidebar-support .patreon-button {
+    height: auto;
 }
 
 /* Stack profile sections whenever the page uses its mobile layout. */
