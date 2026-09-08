@@ -119,6 +119,14 @@ body > header {
 
 .sidebar-support .patreon-button {
     height: auto;
+    gap: .5rem;
+}
+
+.sidebar-support .social-icon {
+    width: 20px;
+    height: 20px;
+    flex-shrink: 0;
+    object-fit: contain;
 }
 
 /* Stack profile sections whenever the page uses its mobile layout. */
