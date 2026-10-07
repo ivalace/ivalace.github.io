@@ -8,6 +8,9 @@
 
 ## Game Resources
 
+_The Red Marshes_, 2026
+- On Itch.io: https://ivalace.itch.io/the-red-marshes
+
 _Scraps and Slaps_, 2026
 - On Itch.io: https://ivalace.itch.io/scraps-and-slaps
 

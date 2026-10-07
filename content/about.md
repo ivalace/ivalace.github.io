@@ -14,7 +14,7 @@ My name is Ivy, I'm a Narrative Gremlin living in Tokyo with my family. I publis
 
 - Favorite TV Show: Farscape. Full stop.
 
-- Favorite Video Game: Currently? Core Keeper. In ten minutes? Hades. Yesterday? Crawl. A week ago? Vampire Survivors. See where I'm going with this?
+- Favorite Video Game: Currently? Core Keeper. In ten minutes? Princess Farmer. Yesterday? Crawl. A week ago? Vampire Survivors. See where I'm going with this?
 
 - Favorite Movie: A Knight's Tale. Mostly because the writing for Chaucer is my comfort food.
 
