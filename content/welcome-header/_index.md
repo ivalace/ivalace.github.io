@@ -7,7 +7,7 @@ image: "/favicon.png"
 list:
   name: "Currently:"
   items:
-    - "Working on: Thorge, Pixel Art Assets"
-    - "Reading: Yumi and the Nightmare Painter by Brandon Sanderson"
-    - "Playing: Princess Farmer; Disco Elysium"
+    - "Working on: Cursed Cafe, Wingback Isles"
+    - "Reading: The Fires of December by Brandon Sanderson"
+    - "Playing: Cyberpunk 2077"
 ---

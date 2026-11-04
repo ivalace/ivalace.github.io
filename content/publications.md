@@ -6,7 +6,22 @@
 
 # Fiction
 
+## Games
+
+_Thorge_, 2026
+
+- On Itch.io: https://hazy-glow-games.itch.io/thorge
+- On Newgrounds: https://www.newgrounds.com/portal/view/1057236
+
 ## Game Resources
+
+_Soft Spaces_, The Hearth Magazine exclusive, 2026
+
+- On RPGTrader: https://rpgtrader.com/products/6773/the-hearth-magazine-5
+
+_Dragonsnout Cafe_, 2026
+
+- On Itch.io: https://ivalace.itch.io/dragonsnout-cafe
 
 _The Red Marshes_, 2026
 - On Itch.io: https://ivalace.itch.io/the-red-marshes
