@@ -7,7 +7,7 @@ image: "/favicon.png"
 list:
   name: "Currently:"
   items:
-    - "Working on: Cursed Cafe, Wingback Isles"
-    - "Reading: The Fires of December by Brandon Sanderson"
-    - "Playing: Cyberpunk 2077"
+    - "Working on: Cursed Cafe, BioInk Lab"
+    - "Reading: Yumi and the Nightmare Painter by Brandon Sanderson"
+    - "Playing: Core Keeper, Cyberpunk 2077"
 ---
