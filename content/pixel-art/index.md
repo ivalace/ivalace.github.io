@@ -2,7 +2,8 @@
 title: "Pixel Art"
 layout: "pixel-art"
 # Edit each title below to change the label underneath its image.
-# Tags: game-assets, pixel-dailies, doodles. An artwork can have multiple tags.
+# Tags: game-assets, pixel-dailies, doodles, character-practice, inktober-2026, prints.
+# An artwork can have multiple tags.
 # Add PNG or animated GIF files beside this page and list them here in order.
 artworks:
   - image: "HalloweenWIP2026.png"
@@ -73,4 +74,8 @@ artworks:
     title: "Mushroom Bride"
     alt: "A pink mushroom with a blue veil among purple plants."
     tags: [inktober-2026]
+  - image: "crows.jpeg"
+    title: "Crows"
+    alt: "Two black crows on wires beneath a sunny blue sky."
+    tags: [doodles]
 ---
