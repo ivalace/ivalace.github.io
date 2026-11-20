@@ -185,3 +185,103 @@ body > header {
         display: none;
     }
 }
+
+/* Pixel art stays crisp in a gallery that fits desktop and mobile pages. */
+.pixel-art-filters {
+    display: flex;
+    flex-wrap: wrap;
+    gap: .6rem;
+    margin-bottom: 1.5rem;
+}
+
+.pixel-art-filters[hidden],
+.pixel-art-piece[hidden] {
+    display: none;
+}
+
+.pixel-art-filters button {
+    padding: .4rem .75rem;
+    border: 4px double var(--outline-color);
+    background: var(--bg-color2);
+    color: var(--link-color);
+    font: inherit;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.pixel-art-filters button:hover,
+.pixel-art-filters button[aria-pressed="true"] {
+    background: var(--select-color);
+    color: var(--accent-color);
+    border-color: var(--accent-color);
+}
+
+.pixel-art-filter-status {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    overflow: hidden;
+    clip-path: inset(50%);
+    white-space: nowrap;
+}
+
+.pixel-art-gallery {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(min(100%, 240px), 1fr));
+    gap: 1.5rem;
+}
+
+.pixel-art-piece {
+    min-width: 0;
+    margin: 0;
+}
+
+.pixel-art-frame {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 240px;
+    padding: 1rem;
+    border: 4px double var(--outline-color);
+    background: var(--bg-color2);
+}
+
+.pixel-art-frame img {
+    display: block;
+    width: auto;
+    height: auto;
+    max-width: 100%;
+    max-height: 360px;
+    image-rendering: pixelated;
+}
+
+.pixel-art-frame:focus-visible,
+.pixel-art-filters button:focus-visible {
+    outline: 3px solid var(--link-color);
+    outline-offset: 3px;
+}
+
+.pixel-art-piece figcaption h3 {
+    margin: .75rem 0 .25rem;
+}
+
+.pixel-art-piece figcaption p {
+    margin: 0;
+}
+
+.pixel-art-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: .4rem;
+    margin: .5rem 0 0;
+    padding: 0;
+    list-style: none;
+}
+
+.pixel-art-tags li {
+    padding: .15rem .5rem;
+    border: 1px solid var(--outline-color);
+    background: var(--bg-color2);
+    font-size: .85em;
+}

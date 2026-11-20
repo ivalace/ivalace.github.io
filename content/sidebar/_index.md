@@ -15,4 +15,6 @@ links:
     link: "/IvyLee_CV.pdf"
   - name: "ink sample"
     link: "/ink-game/"
+  - name: "pixel art"
+    link: "/pixel-art/"
 ---

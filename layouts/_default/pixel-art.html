@@ -1,0 +1,45 @@
+{{ define "main" }}
+<div id="single-post">
+    <article>
+        <h2>{{ .Title }}</h2>
+        <div id="full-content">
+            {{ .Content }}
+            {{ $filters := slice (dict "id" "game-assets" "label" "game assets") (dict "id" "pixel-dailies" "label" "pixel dailies") (dict "id" "doodles" "label" "doodles") (dict "id" "character-practice" "label" "character practice") (dict "id" "inktober-2026" "label" "Inktober 2026") (dict "id" "prints" "label" "prints") }}
+            {{ $tagLabels := dict "game-assets" "game assets" "pixel-dailies" "pixel dailies" "doodles" "doodles" "character-practice" "character practice" "inktober-2026" "Inktober 2026" "prints" "prints" }}
+            <div class="pixel-art-filters" role="group" aria-label="Filter pixel art" hidden>
+                <button type="button" data-filter="all" aria-pressed="true" aria-controls="pixel-art-gallery">all</button>
+                {{ range $filters }}
+                <button type="button" data-filter="{{ .id }}" aria-pressed="false" aria-controls="pixel-art-gallery">{{ .label }}</button>
+                {{ end }}
+            </div>
+            <p class="pixel-art-filter-status" role="status" aria-atomic="true"></p>
+            <div id="pixel-art-gallery" class="pixel-art-gallery" role="region" aria-label="Pixel art gallery">
+                {{ range .Params.artworks }}
+                {{ $image := .image | relURL }}
+                {{ $resource := $.Resources.GetMatch .image }}
+                {{ with $resource }}
+                    {{ $image = .RelPermalink }}
+                {{ end }}
+                <figure class="pixel-art-piece" data-tags="{{ delimit (.tags | default slice) " " }}">
+                    <a class="pixel-art-frame" href="{{ $image }}">
+                        <img src="{{ $image }}" alt="{{ .alt }}" loading="lazy" decoding="async"{{ with $resource }} width="{{ .Width }}" height="{{ .Height }}"{{ end }}>
+                    </a>
+                    {{ if or .title .caption }}
+                    <figcaption>
+                        {{ with .title }}<h3>{{ . }}</h3>{{ end }}
+                        {{ with .caption }}<p>{{ . }}</p>{{ end }}
+                        {{ with .tags }}
+                        <ul class="pixel-art-tags" aria-label="Artwork tags">
+                            {{ range . }}<li>{{ index $tagLabels . | default (humanize .) }}</li>{{ end }}
+                        </ul>
+                        {{ end }}
+                    </figcaption>
+                    {{ end }}
+                </figure>
+                {{ end }}
+            </div>
+        </div>
+    </article>
+</div>
+<script src="{{ "js/pixel-art.js" | relURL }}" defer></script>
+{{ end }}
