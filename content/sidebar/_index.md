@@ -13,7 +13,7 @@ links:
     link: "/about/"
   - name: "CV"
     link: "/IvyLee_CV.pdf"
-  - name: "ink sample"
+  - name: "The Tavern"
     link: "/ink-game/"
   - name: "pixel art"
     link: "/pixel-art/"
